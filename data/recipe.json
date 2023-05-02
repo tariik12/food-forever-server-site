@@ -1,0 +1,376 @@
+[
+  {
+  "chef_id": 1,
+  "chef_Details":{
+    "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+    "chef_name": "CRISPY LASAGNA",
+    "total_likes": 488,
+    "bio_data":"Grated Parmesan Cheese Fresh Basil Leaves",
+    "recipes_name":["pasta","Nod"],
+      "experience":"Begin frying your pasta sheets by filling a large pan 1/ore assembling. cheese, and a few basil leaves."
+    },
+  "recipes":[
+    {
+    "recipe_name": "CRISPY LASAGNA",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_likes": 488,
+    "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+    " ingredients":{
+        "ing":  ["2 Packages (6 Sheets) Fresh Lasagna Noodles Cut Into 4-5 Inch Rectangles","Flavorless Oil For Frying (I use Canola Oil)"],
+        "Ricotta Layer":["1 1/2 Cups Whole Milk Ricotta Cheese","1/3 Cup Grated Pecorino Cheese","1 Tablespoon Finely Chopped Basil","Salt & Pepper To Taste","5 Cups Umbrian Ragu Or Your Favorite Bolognese Sauce)","1 1/2 Cups Shredded Whole Milk Mozzarella Cheese"],
+        "Topping":["Grated Parmesan Cheese","Fresh Basil Leaves"]
+      },
+      "cooking method":["Begin frying your pasta sheets by filling a large pan 1/5th way up with oil and bringing it to 350°F.","Fry the sheets of pasta until they are a solid golden brown, flipping so each side can cook.","Transfer to a towel to drain and repeat the process until the noodles are all fried up.","You can prepare these pasta sheets up to 6 hours before assembling.","In a bowl, nix together the ricotta cheese, basil, salt, and pepper.","Warm the sauce in a small pan over medium heat.","Preheat oven to 400 Degrees F.","In either individual baking dishes, or one large casserole dish, begin layering the lasagna with a few spoonfuls of the bolognese, a fried lasagna noodle, a few spoonfuls of the fresh ricotta, more of the bolognese sauce, a handful of shredded mozzarella, and top with a fried noodle.","Repeat this process until the desired number of layers are reached.","Spoon a little sauce on top of the final layer with some mozzarella.","Bake at 400°F for 10-12 minutes, or until the top is golden and cheese is bubbly.","Top the home made crispy lasagna with some fresh parmesan cheese, and a few basil leaves."]
+    },
+    {
+      "recipe_name": "CRISPY LASAGNA",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_likes": 488,
+      "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+      " ingredients":{
+          "ing":  ["2 Packages (6 Sheets) Fresh Lasagna Noodles Cut Into 4-5 Inch Rectangles","Flavorless Oil For Frying (I use Canola Oil)"],
+          "Ricotta Layer":["1 1/2 Cups Whole Milk Ricotta Cheese","1/3 Cup Grated Pecorino Cheese","1 Tablespoon Finely Chopped Basil","Salt & Pepper To Taste","5 Cups Umbrian Ragu Or Your Favorite Bolognese Sauce)","1 1/2 Cups Shredded Whole Milk Mozzarella Cheese"],
+          "Topping":["Grated Parmesan Cheese","Fresh Basil Leaves"]
+        },
+        "cooking method":["Begin frying your pasta sheets by filling a large pan 1/5th way up with oil and bringing it to 350°F.","Fry the sheets of pasta until they are a solid golden brown, flipping so each side can cook.","Transfer to a towel to drain and repeat the process until the noodles are all fried up.","You can prepare these pasta sheets up to 6 hours before assembling.","In a bowl, nix together the ricotta cheese, basil, salt, and pepper.","Warm the sauce in a small pan over medium heat.","Preheat oven to 400 Degrees F.","In either individual baking dishes, or one large casserole dish, begin layering the lasagna with a few spoonfuls of the bolognese, a fried lasagna noodle, a few spoonfuls of the fresh ricotta, more of the bolognese sauce, a handful of shredded mozzarella, and top with a fried noodle.","Repeat this process until the desired number of layers are reached.","Spoon a little sauce on top of the final layer with some mozzarella.","Bake at 400°F for 10-12 minutes, or until the top is golden and cheese is bubbly.","Top the home made crispy lasagna with some fresh parmesan cheese, and a few basil leaves."]
+      },
+      {
+        "recipe_name": "CRISPY LASAGNA",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_likes": 488,
+        "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+        " ingredients":{
+            "ing":  ["2 Packages (6 Sheets) Fresh Lasagna Noodles Cut Into 4-5 Inch Rectangles","Flavorless Oil For Frying (I use Canola Oil)"],
+            "Ricotta Layer":["1 1/2 Cups Whole Milk Ricotta Cheese","1/3 Cup Grated Pecorino Cheese","1 Tablespoon Finely Chopped Basil","Salt & Pepper To Taste","5 Cups Umbrian Ragu Or Your Favorite Bolognese Sauce)","1 1/2 Cups Shredded Whole Milk Mozzarella Cheese"],
+            "Topping":["Grated Parmesan Cheese","Fresh Basil Leaves"]
+          },
+          "cooking method":["Begin frying your pasta sheets by filling a large pan 1/5th way up with oil and bringing it to 350°F.","Fry the sheets of pasta until they are a solid golden brown, flipping so each side can cook.","Transfer to a towel to drain and repeat the process until the noodles are all fried up.","You can prepare these pasta sheets up to 6 hours before assembling.","In a bowl, nix together the ricotta cheese, basil, salt, and pepper.","Warm the sauce in a small pan over medium heat.","Preheat oven to 400 Degrees F.","In either individual baking dishes, or one large casserole dish, begin layering the lasagna with a few spoonfuls of the bolognese, a fried lasagna noodle, a few spoonfuls of the fresh ricotta, more of the bolognese sauce, a handful of shredded mozzarella, and top with a fried noodle.","Repeat this process until the desired number of layers are reached.","Spoon a little sauce on top of the final layer with some mozzarella.","Bake at 400°F for 10-12 minutes, or until the top is golden and cheese is bubbly.","Top the home made crispy lasagna with some fresh parmesan cheese, and a few basil leaves."]
+        },
+      {
+        "recipe_name": "CRISPY LASAGNA",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_likes": 488,
+        "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+        " ingredients":{
+            "ing":  ["2 Packages (6 Sheets) Fresh Lasagna Noodles Cut Into 4-5 Inch Rectangles","Flavorless Oil For Frying (I use Canola Oil)"],
+            "Ricotta Layer":["1 1/2 Cups Whole Milk Ricotta Cheese","1/3 Cup Grated Pecorino Cheese","1 Tablespoon Finely Chopped Basil","Salt & Pepper To Taste","5 Cups Umbrian Ragu Or Your Favorite Bolognese Sauce)","1 1/2 Cups Shredded Whole Milk Mozzarella Cheese"],
+            "Topping":["Grated Parmesan Cheese","Fresh Basil Leaves"]
+          },
+          "cooking method":["Begin frying your pasta sheets by filling a large pan 1/5th way up with oil and bringing it to 350°F.","Fry the sheets of pasta until they are a solid golden brown, flipping so each side can cook.","Transfer to a towel to drain and repeat the process until the noodles are all fried up.","You can prepare these pasta sheets up to 6 hours before assembling.","In a bowl, nix together the ricotta cheese, basil, salt, and pepper.","Warm the sauce in a small pan over medium heat.","Preheat oven to 400 Degrees F.","In either individual baking dishes, or one large casserole dish, begin layering the lasagna with a few spoonfuls of the bolognese, a fried lasagna noodle, a few spoonfuls of the fresh ricotta, more of the bolognese sauce, a handful of shredded mozzarella, and top with a fried noodle.","Repeat this process until the desired number of layers are reached.","Spoon a little sauce on top of the final layer with some mozzarella.","Bake at 400°F for 10-12 minutes, or until the top is golden and cheese is bubbly.","Top the home made crispy lasagna with some fresh parmesan cheese, and a few basil leaves."]
+        }
+      ]
+},
+  {
+  
+
+  "chef_id": 2,
+  "chef_Details":{
+    "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+    "chef_name": "CRISPY LASAGNA",
+    "total_likes": 488,
+    "bio_data":"Grated Parmesan Cheese Fresh Basil Leaves",
+    "recipes_name":["pasta","Nod"],
+      "experience":"Begin frying your pasta sheets by filling a large pan 1/ore assembling. cheese, and a few basil leaves."
+    },
+  "recipes":[
+    {
+    "recipe_name": "CRISPY LASAGNA",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_likes": 488,
+    "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+    " ingredients":{
+        "ing":  ["2 Packages (6 Sheets) Fresh Lasagna Noodles Cut Into 4-5 Inch Rectangles","Flavorless Oil For Frying (I use Canola Oil)"],
+        "Ricotta Layer":["1 1/2 Cups Whole Milk Ricotta Cheese","1/3 Cup Grated Pecorino Cheese","1 Tablespoon Finely Chopped Basil","Salt & Pepper To Taste","5 Cups Umbrian Ragu Or Your Favorite Bolognese Sauce)","1 1/2 Cups Shredded Whole Milk Mozzarella Cheese"],
+        "Topping":["Grated Parmesan Cheese","Fresh Basil Leaves"]
+      },
+      "cooking method":["Begin frying your pasta sheets by filling a large pan 1/5th way up with oil and bringing it to 350°F.","Fry the sheets of pasta until they are a solid golden brown, flipping so each side can cook.","Transfer to a towel to drain and repeat the process until the noodles are all fried up.","You can prepare these pasta sheets up to 6 hours before assembling.","In a bowl, nix together the ricotta cheese, basil, salt, and pepper.","Warm the sauce in a small pan over medium heat.","Preheat oven to 400 Degrees F.","In either individual baking dishes, or one large casserole dish, begin layering the lasagna with a few spoonfuls of the bolognese, a fried lasagna noodle, a few spoonfuls of the fresh ricotta, more of the bolognese sauce, a handful of shredded mozzarella, and top with a fried noodle.","Repeat this process until the desired number of layers are reached.","Spoon a little sauce on top of the final layer with some mozzarella.","Bake at 400°F for 10-12 minutes, or until the top is golden and cheese is bubbly.","Top the home made crispy lasagna with some fresh parmesan cheese, and a few basil leaves."]
+    },
+    {
+      "recipe_name": "CRISPY LASAGNA",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_likes": 488,
+      "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+      " ingredients":{
+          "ing":  ["2 Packages (6 Sheets) Fresh Lasagna Noodles Cut Into 4-5 Inch Rectangles","Flavorless Oil For Frying (I use Canola Oil)"],
+          "Ricotta Layer":["1 1/2 Cups Whole Milk Ricotta Cheese","1/3 Cup Grated Pecorino Cheese","1 Tablespoon Finely Chopped Basil","Salt & Pepper To Taste","5 Cups Umbrian Ragu Or Your Favorite Bolognese Sauce)","1 1/2 Cups Shredded Whole Milk Mozzarella Cheese"],
+          "Topping":["Grated Parmesan Cheese","Fresh Basil Leaves"]
+        },
+        "cooking method":["Begin frying your pasta sheets by filling a large pan 1/5th way up with oil and bringing it to 350°F.","Fry the sheets of pasta until they are a solid golden brown, flipping so each side can cook.","Transfer to a towel to drain and repeat the process until the noodles are all fried up.","You can prepare these pasta sheets up to 6 hours before assembling.","In a bowl, nix together the ricotta cheese, basil, salt, and pepper.","Warm the sauce in a small pan over medium heat.","Preheat oven to 400 Degrees F.","In either individual baking dishes, or one large casserole dish, begin layering the lasagna with a few spoonfuls of the bolognese, a fried lasagna noodle, a few spoonfuls of the fresh ricotta, more of the bolognese sauce, a handful of shredded mozzarella, and top with a fried noodle.","Repeat this process until the desired number of layers are reached.","Spoon a little sauce on top of the final layer with some mozzarella.","Bake at 400°F for 10-12 minutes, or until the top is golden and cheese is bubbly.","Top the home made crispy lasagna with some fresh parmesan cheese, and a few basil leaves."]
+      },
+      {
+        "recipe_name": "CRISPY LASAGNA",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_likes": 488,
+        "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+        " ingredients":{
+            "ing":  ["2 Packages (6 Sheets) Fresh Lasagna Noodles Cut Into 4-5 Inch Rectangles","Flavorless Oil For Frying (I use Canola Oil)"],
+            "Ricotta Layer":["1 1/2 Cups Whole Milk Ricotta Cheese","1/3 Cup Grated Pecorino Cheese","1 Tablespoon Finely Chopped Basil","Salt & Pepper To Taste","5 Cups Umbrian Ragu Or Your Favorite Bolognese Sauce)","1 1/2 Cups Shredded Whole Milk Mozzarella Cheese"],
+            "Topping":["Grated Parmesan Cheese","Fresh Basil Leaves"]
+          },
+          "cooking method":["Begin frying your pasta sheets by filling a large pan 1/5th way up with oil and bringing it to 350°F.","Fry the sheets of pasta until they are a solid golden brown, flipping so each side can cook.","Transfer to a towel to drain and repeat the process until the noodles are all fried up.","You can prepare these pasta sheets up to 6 hours before assembling.","In a bowl, nix together the ricotta cheese, basil, salt, and pepper.","Warm the sauce in a small pan over medium heat.","Preheat oven to 400 Degrees F.","In either individual baking dishes, or one large casserole dish, begin layering the lasagna with a few spoonfuls of the bolognese, a fried lasagna noodle, a few spoonfuls of the fresh ricotta, more of the bolognese sauce, a handful of shredded mozzarella, and top with a fried noodle.","Repeat this process until the desired number of layers are reached.","Spoon a little sauce on top of the final layer with some mozzarella.","Bake at 400°F for 10-12 minutes, or until the top is golden and cheese is bubbly.","Top the home made crispy lasagna with some fresh parmesan cheese, and a few basil leaves."]
+        },
+      {
+        "recipe_name": "CRISPY LASAGNA",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_likes": 488,
+        "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+        " ingredients":{
+            "ing":  ["2 Packages (6 Sheets) Fresh Lasagna Noodles Cut Into 4-5 Inch Rectangles","Flavorless Oil For Frying (I use Canola Oil)"],
+            "Ricotta Layer":["1 1/2 Cups Whole Milk Ricotta Cheese","1/3 Cup Grated Pecorino Cheese","1 Tablespoon Finely Chopped Basil","Salt & Pepper To Taste","5 Cups Umbrian Ragu Or Your Favorite Bolognese Sauce)","1 1/2 Cups Shredded Whole Milk Mozzarella Cheese"],
+            "Topping":["Grated Parmesan Cheese","Fresh Basil Leaves"]
+          },
+          "cooking method":["Begin frying your pasta sheets by filling a large pan 1/5th way up with oil and bringing it to 350°F.","Fry the sheets of pasta until they are a solid golden brown, flipping so each side can cook.","Transfer to a towel to drain and repeat the process until the noodles are all fried up.","You can prepare these pasta sheets up to 6 hours before assembling.","In a bowl, nix together the ricotta cheese, basil, salt, and pepper.","Warm the sauce in a small pan over medium heat.","Preheat oven to 400 Degrees F.","In either individual baking dishes, or one large casserole dish, begin layering the lasagna with a few spoonfuls of the bolognese, a fried lasagna noodle, a few spoonfuls of the fresh ricotta, more of the bolognese sauce, a handful of shredded mozzarella, and top with a fried noodle.","Repeat this process until the desired number of layers are reached.","Spoon a little sauce on top of the final layer with some mozzarella.","Bake at 400°F for 10-12 minutes, or until the top is golden and cheese is bubbly.","Top the home made crispy lasagna with some fresh parmesan cheese, and a few basil leaves."]
+        }
+      ]
+},
+  {
+
+  "chef_id": 3,
+  "chef_Details":{
+    "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+    "chef_name": "CRISPY LASAGNA",
+    "total_likes": 488,
+    "bio_data":"Grated Parmesan Cheese Fresh Basil Leaves",
+    "recipes_name":["pasta","Nod"],
+      "experience":"Begin frying your pasta sheets by filling a large pan 1/ore assembling. cheese, and a few basil leaves."
+    },
+  "recipes":[
+    {
+    "recipe_name": "CRISPY LASAGNA",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_likes": 488,
+    "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+    " ingredients":{
+        "ing":  ["2 Packages (6 Sheets) Fresh Lasagna Noodles Cut Into 4-5 Inch Rectangles","Flavorless Oil For Frying (I use Canola Oil)"],
+        "Ricotta Layer":["1 1/2 Cups Whole Milk Ricotta Cheese","1/3 Cup Grated Pecorino Cheese","1 Tablespoon Finely Chopped Basil","Salt & Pepper To Taste","5 Cups Umbrian Ragu Or Your Favorite Bolognese Sauce)","1 1/2 Cups Shredded Whole Milk Mozzarella Cheese"],
+        "Topping":["Grated Parmesan Cheese","Fresh Basil Leaves"]
+      },
+      "cooking method":["Begin frying your pasta sheets by filling a large pan 1/5th way up with oil and bringing it to 350°F.","Fry the sheets of pasta until they are a solid golden brown, flipping so each side can cook.","Transfer to a towel to drain and repeat the process until the noodles are all fried up.","You can prepare these pasta sheets up to 6 hours before assembling.","In a bowl, nix together the ricotta cheese, basil, salt, and pepper.","Warm the sauce in a small pan over medium heat.","Preheat oven to 400 Degrees F.","In either individual baking dishes, or one large casserole dish, begin layering the lasagna with a few spoonfuls of the bolognese, a fried lasagna noodle, a few spoonfuls of the fresh ricotta, more of the bolognese sauce, a handful of shredded mozzarella, and top with a fried noodle.","Repeat this process until the desired number of layers are reached.","Spoon a little sauce on top of the final layer with some mozzarella.","Bake at 400°F for 10-12 minutes, or until the top is golden and cheese is bubbly.","Top the home made crispy lasagna with some fresh parmesan cheese, and a few basil leaves."]
+    },
+    {
+      "recipe_name": "CRISPY LASAGNA",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_likes": 488,
+      "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+      " ingredients":{
+          "ing":  ["2 Packages (6 Sheets) Fresh Lasagna Noodles Cut Into 4-5 Inch Rectangles","Flavorless Oil For Frying (I use Canola Oil)"],
+          "Ricotta Layer":["1 1/2 Cups Whole Milk Ricotta Cheese","1/3 Cup Grated Pecorino Cheese","1 Tablespoon Finely Chopped Basil","Salt & Pepper To Taste","5 Cups Umbrian Ragu Or Your Favorite Bolognese Sauce)","1 1/2 Cups Shredded Whole Milk Mozzarella Cheese"],
+          "Topping":["Grated Parmesan Cheese","Fresh Basil Leaves"]
+        },
+        "cooking method":["Begin frying your pasta sheets by filling a large pan 1/5th way up with oil and bringing it to 350°F.","Fry the sheets of pasta until they are a solid golden brown, flipping so each side can cook.","Transfer to a towel to drain and repeat the process until the noodles are all fried up.","You can prepare these pasta sheets up to 6 hours before assembling.","In a bowl, nix together the ricotta cheese, basil, salt, and pepper.","Warm the sauce in a small pan over medium heat.","Preheat oven to 400 Degrees F.","In either individual baking dishes, or one large casserole dish, begin layering the lasagna with a few spoonfuls of the bolognese, a fried lasagna noodle, a few spoonfuls of the fresh ricotta, more of the bolognese sauce, a handful of shredded mozzarella, and top with a fried noodle.","Repeat this process until the desired number of layers are reached.","Spoon a little sauce on top of the final layer with some mozzarella.","Bake at 400°F for 10-12 minutes, or until the top is golden and cheese is bubbly.","Top the home made crispy lasagna with some fresh parmesan cheese, and a few basil leaves."]
+      },
+      {
+        "recipe_name": "CRISPY LASAGNA",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_likes": 488,
+        "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+        " ingredients":{
+            "ing":  ["2 Packages (6 Sheets) Fresh Lasagna Noodles Cut Into 4-5 Inch Rectangles","Flavorless Oil For Frying (I use Canola Oil)"],
+            "Ricotta Layer":["1 1/2 Cups Whole Milk Ricotta Cheese","1/3 Cup Grated Pecorino Cheese","1 Tablespoon Finely Chopped Basil","Salt & Pepper To Taste","5 Cups Umbrian Ragu Or Your Favorite Bolognese Sauce)","1 1/2 Cups Shredded Whole Milk Mozzarella Cheese"],
+            "Topping":["Grated Parmesan Cheese","Fresh Basil Leaves"]
+          },
+          "cooking method":["Begin frying your pasta sheets by filling a large pan 1/5th way up with oil and bringing it to 350°F.","Fry the sheets of pasta until they are a solid golden brown, flipping so each side can cook.","Transfer to a towel to drain and repeat the process until the noodles are all fried up.","You can prepare these pasta sheets up to 6 hours before assembling.","In a bowl, nix together the ricotta cheese, basil, salt, and pepper.","Warm the sauce in a small pan over medium heat.","Preheat oven to 400 Degrees F.","In either individual baking dishes, or one large casserole dish, begin layering the lasagna with a few spoonfuls of the bolognese, a fried lasagna noodle, a few spoonfuls of the fresh ricotta, more of the bolognese sauce, a handful of shredded mozzarella, and top with a fried noodle.","Repeat this process until the desired number of layers are reached.","Spoon a little sauce on top of the final layer with some mozzarella.","Bake at 400°F for 10-12 minutes, or until the top is golden and cheese is bubbly.","Top the home made crispy lasagna with some fresh parmesan cheese, and a few basil leaves."]
+        },
+      {
+        "recipe_name": "CRISPY LASAGNA",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_likes": 488,
+        "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+        " ingredients":{
+            "ing":  ["2 Packages (6 Sheets) Fresh Lasagna Noodles Cut Into 4-5 Inch Rectangles","Flavorless Oil For Frying (I use Canola Oil)"],
+            "Ricotta Layer":["1 1/2 Cups Whole Milk Ricotta Cheese","1/3 Cup Grated Pecorino Cheese","1 Tablespoon Finely Chopped Basil","Salt & Pepper To Taste","5 Cups Umbrian Ragu Or Your Favorite Bolognese Sauce)","1 1/2 Cups Shredded Whole Milk Mozzarella Cheese"],
+            "Topping":["Grated Parmesan Cheese","Fresh Basil Leaves"]
+          },
+          "cooking method":["Begin frying your pasta sheets by filling a large pan 1/5th way up with oil and bringing it to 350°F.","Fry the sheets of pasta until they are a solid golden brown, flipping so each side can cook.","Transfer to a towel to drain and repeat the process until the noodles are all fried up.","You can prepare these pasta sheets up to 6 hours before assembling.","In a bowl, nix together the ricotta cheese, basil, salt, and pepper.","Warm the sauce in a small pan over medium heat.","Preheat oven to 400 Degrees F.","In either individual baking dishes, or one large casserole dish, begin layering the lasagna with a few spoonfuls of the bolognese, a fried lasagna noodle, a few spoonfuls of the fresh ricotta, more of the bolognese sauce, a handful of shredded mozzarella, and top with a fried noodle.","Repeat this process until the desired number of layers are reached.","Spoon a little sauce on top of the final layer with some mozzarella.","Bake at 400°F for 10-12 minutes, or until the top is golden and cheese is bubbly.","Top the home made crispy lasagna with some fresh parmesan cheese, and a few basil leaves."]
+        }
+      ]
+},
+  {
+  "chef_id": 4,
+  "chef_Details":{
+    "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+    "chef_name": "CRISPY LASAGNA",
+    "total_likes": 488,
+    "bio_data":"Grated Parmesan Cheese Fresh Basil Leaves",
+    "recipes_name":["pasta","Nod"],
+      "experience":"Begin frying your pasta sheets by filling a large pan 1/ore assembling. cheese, and a few basil leaves."
+    },
+  "recipes":[
+    {
+    "recipe_name": "CRISPY LASAGNA",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_likes": 488,
+    "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+    " ingredients":{
+        "ing":  ["2 Packages (6 Sheets) Fresh Lasagna Noodles Cut Into 4-5 Inch Rectangles","Flavorless Oil For Frying (I use Canola Oil)"],
+        "Ricotta Layer":["1 1/2 Cups Whole Milk Ricotta Cheese","1/3 Cup Grated Pecorino Cheese","1 Tablespoon Finely Chopped Basil","Salt & Pepper To Taste","5 Cups Umbrian Ragu Or Your Favorite Bolognese Sauce)","1 1/2 Cups Shredded Whole Milk Mozzarella Cheese"],
+        "Topping":["Grated Parmesan Cheese","Fresh Basil Leaves"]
+      },
+      "cooking method":["Begin frying your pasta sheets by filling a large pan 1/5th way up with oil and bringing it to 350°F.","Fry the sheets of pasta until they are a solid golden brown, flipping so each side can cook.","Transfer to a towel to drain and repeat the process until the noodles are all fried up.","You can prepare these pasta sheets up to 6 hours before assembling.","In a bowl, nix together the ricotta cheese, basil, salt, and pepper.","Warm the sauce in a small pan over medium heat.","Preheat oven to 400 Degrees F.","In either individual baking dishes, or one large casserole dish, begin layering the lasagna with a few spoonfuls of the bolognese, a fried lasagna noodle, a few spoonfuls of the fresh ricotta, more of the bolognese sauce, a handful of shredded mozzarella, and top with a fried noodle.","Repeat this process until the desired number of layers are reached.","Spoon a little sauce on top of the final layer with some mozzarella.","Bake at 400°F for 10-12 minutes, or until the top is golden and cheese is bubbly.","Top the home made crispy lasagna with some fresh parmesan cheese, and a few basil leaves."]
+    },
+    {
+      "recipe_name": "CRISPY LASAGNA",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_likes": 488,
+      "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+      " ingredients":{
+          "ing":  ["2 Packages (6 Sheets) Fresh Lasagna Noodles Cut Into 4-5 Inch Rectangles","Flavorless Oil For Frying (I use Canola Oil)"],
+          "Ricotta Layer":["1 1/2 Cups Whole Milk Ricotta Cheese","1/3 Cup Grated Pecorino Cheese","1 Tablespoon Finely Chopped Basil","Salt & Pepper To Taste","5 Cups Umbrian Ragu Or Your Favorite Bolognese Sauce)","1 1/2 Cups Shredded Whole Milk Mozzarella Cheese"],
+          "Topping":["Grated Parmesan Cheese","Fresh Basil Leaves"]
+        },
+        "cooking method":["Begin frying your pasta sheets by filling a large pan 1/5th way up with oil and bringing it to 350°F.","Fry the sheets of pasta until they are a solid golden brown, flipping so each side can cook.","Transfer to a towel to drain and repeat the process until the noodles are all fried up.","You can prepare these pasta sheets up to 6 hours before assembling.","In a bowl, nix together the ricotta cheese, basil, salt, and pepper.","Warm the sauce in a small pan over medium heat.","Preheat oven to 400 Degrees F.","In either individual baking dishes, or one large casserole dish, begin layering the lasagna with a few spoonfuls of the bolognese, a fried lasagna noodle, a few spoonfuls of the fresh ricotta, more of the bolognese sauce, a handful of shredded mozzarella, and top with a fried noodle.","Repeat this process until the desired number of layers are reached.","Spoon a little sauce on top of the final layer with some mozzarella.","Bake at 400°F for 10-12 minutes, or until the top is golden and cheese is bubbly.","Top the home made crispy lasagna with some fresh parmesan cheese, and a few basil leaves."]
+      },
+      {
+        "recipe_name": "CRISPY LASAGNA",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_likes": 488,
+        "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+        " ingredients":{
+            "ing":  ["2 Packages (6 Sheets) Fresh Lasagna Noodles Cut Into 4-5 Inch Rectangles","Flavorless Oil For Frying (I use Canola Oil)"],
+            "Ricotta Layer":["1 1/2 Cups Whole Milk Ricotta Cheese","1/3 Cup Grated Pecorino Cheese","1 Tablespoon Finely Chopped Basil","Salt & Pepper To Taste","5 Cups Umbrian Ragu Or Your Favorite Bolognese Sauce)","1 1/2 Cups Shredded Whole Milk Mozzarella Cheese"],
+            "Topping":["Grated Parmesan Cheese","Fresh Basil Leaves"]
+          },
+          "cooking method":["Begin frying your pasta sheets by filling a large pan 1/5th way up with oil and bringing it to 350°F.","Fry the sheets of pasta until they are a solid golden brown, flipping so each side can cook.","Transfer to a towel to drain and repeat the process until the noodles are all fried up.","You can prepare these pasta sheets up to 6 hours before assembling.","In a bowl, nix together the ricotta cheese, basil, salt, and pepper.","Warm the sauce in a small pan over medium heat.","Preheat oven to 400 Degrees F.","In either individual baking dishes, or one large casserole dish, begin layering the lasagna with a few spoonfuls of the bolognese, a fried lasagna noodle, a few spoonfuls of the fresh ricotta, more of the bolognese sauce, a handful of shredded mozzarella, and top with a fried noodle.","Repeat this process until the desired number of layers are reached.","Spoon a little sauce on top of the final layer with some mozzarella.","Bake at 400°F for 10-12 minutes, or until the top is golden and cheese is bubbly.","Top the home made crispy lasagna with some fresh parmesan cheese, and a few basil leaves."]
+        },
+      {
+        "recipe_name": "CRISPY LASAGNA",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_likes": 488,
+        "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+        " ingredients":{
+            "ing":  ["2 Packages (6 Sheets) Fresh Lasagna Noodles Cut Into 4-5 Inch Rectangles","Flavorless Oil For Frying (I use Canola Oil)"],
+            "Ricotta Layer":["1 1/2 Cups Whole Milk Ricotta Cheese","1/3 Cup Grated Pecorino Cheese","1 Tablespoon Finely Chopped Basil","Salt & Pepper To Taste","5 Cups Umbrian Ragu Or Your Favorite Bolognese Sauce)","1 1/2 Cups Shredded Whole Milk Mozzarella Cheese"],
+            "Topping":["Grated Parmesan Cheese","Fresh Basil Leaves"]
+          },
+          "cooking method":["Begin frying your pasta sheets by filling a large pan 1/5th way up with oil and bringing it to 350°F.","Fry the sheets of pasta until they are a solid golden brown, flipping so each side can cook.","Transfer to a towel to drain and repeat the process until the noodles are all fried up.","You can prepare these pasta sheets up to 6 hours before assembling.","In a bowl, nix together the ricotta cheese, basil, salt, and pepper.","Warm the sauce in a small pan over medium heat.","Preheat oven to 400 Degrees F.","In either individual baking dishes, or one large casserole dish, begin layering the lasagna with a few spoonfuls of the bolognese, a fried lasagna noodle, a few spoonfuls of the fresh ricotta, more of the bolognese sauce, a handful of shredded mozzarella, and top with a fried noodle.","Repeat this process until the desired number of layers are reached.","Spoon a little sauce on top of the final layer with some mozzarella.","Bake at 400°F for 10-12 minutes, or until the top is golden and cheese is bubbly.","Top the home made crispy lasagna with some fresh parmesan cheese, and a few basil leaves."]
+        }
+      ]
+},
+  {
+  
+
+  "chef_id": 5,
+  "chef_Details":{
+    "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+    "chef_name": "CRISPY LASAGNA",
+    "total_likes": 488,
+    "bio_data":"Grated Parmesan Cheese Fresh Basil Leaves",
+    "recipes_name":["pasta","Nod"],
+      "experience":"Begin frying your pasta sheets by filling a large pan 1/ore assembling. cheese, and a few basil leaves."
+    },
+  "recipes":[
+    {
+    "recipe_name": "CRISPY LASAGNA",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_likes": 488,
+    "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+    " ingredients":{
+        "ing":  ["2 Packages (6 Sheets) Fresh Lasagna Noodles Cut Into 4-5 Inch Rectangles","Flavorless Oil For Frying (I use Canola Oil)"],
+        "Ricotta Layer":["1 1/2 Cups Whole Milk Ricotta Cheese","1/3 Cup Grated Pecorino Cheese","1 Tablespoon Finely Chopped Basil","Salt & Pepper To Taste","5 Cups Umbrian Ragu Or Your Favorite Bolognese Sauce)","1 1/2 Cups Shredded Whole Milk Mozzarella Cheese"],
+        "Topping":["Grated Parmesan Cheese","Fresh Basil Leaves"]
+      },
+      "cooking method":["Begin frying your pasta sheets by filling a large pan 1/5th way up with oil and bringing it to 350°F.","Fry the sheets of pasta until they are a solid golden brown, flipping so each side can cook.","Transfer to a towel to drain and repeat the process until the noodles are all fried up.","You can prepare these pasta sheets up to 6 hours before assembling.","In a bowl, nix together the ricotta cheese, basil, salt, and pepper.","Warm the sauce in a small pan over medium heat.","Preheat oven to 400 Degrees F.","In either individual baking dishes, or one large casserole dish, begin layering the lasagna with a few spoonfuls of the bolognese, a fried lasagna noodle, a few spoonfuls of the fresh ricotta, more of the bolognese sauce, a handful of shredded mozzarella, and top with a fried noodle.","Repeat this process until the desired number of layers are reached.","Spoon a little sauce on top of the final layer with some mozzarella.","Bake at 400°F for 10-12 minutes, or until the top is golden and cheese is bubbly.","Top the home made crispy lasagna with some fresh parmesan cheese, and a few basil leaves."]
+    },
+    {
+      "recipe_name": "CRISPY LASAGNA",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_likes": 488,
+      "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+      " ingredients":{
+          "ing":  ["2 Packages (6 Sheets) Fresh Lasagna Noodles Cut Into 4-5 Inch Rectangles","Flavorless Oil For Frying (I use Canola Oil)"],
+          "Ricotta Layer":["1 1/2 Cups Whole Milk Ricotta Cheese","1/3 Cup Grated Pecorino Cheese","1 Tablespoon Finely Chopped Basil","Salt & Pepper To Taste","5 Cups Umbrian Ragu Or Your Favorite Bolognese Sauce)","1 1/2 Cups Shredded Whole Milk Mozzarella Cheese"],
+          "Topping":["Grated Parmesan Cheese","Fresh Basil Leaves"]
+        },
+        "cooking method":["Begin frying your pasta sheets by filling a large pan 1/5th way up with oil and bringing it to 350°F.","Fry the sheets of pasta until they are a solid golden brown, flipping so each side can cook.","Transfer to a towel to drain and repeat the process until the noodles are all fried up.","You can prepare these pasta sheets up to 6 hours before assembling.","In a bowl, nix together the ricotta cheese, basil, salt, and pepper.","Warm the sauce in a small pan over medium heat.","Preheat oven to 400 Degrees F.","In either individual baking dishes, or one large casserole dish, begin layering the lasagna with a few spoonfuls of the bolognese, a fried lasagna noodle, a few spoonfuls of the fresh ricotta, more of the bolognese sauce, a handful of shredded mozzarella, and top with a fried noodle.","Repeat this process until the desired number of layers are reached.","Spoon a little sauce on top of the final layer with some mozzarella.","Bake at 400°F for 10-12 minutes, or until the top is golden and cheese is bubbly.","Top the home made crispy lasagna with some fresh parmesan cheese, and a few basil leaves."]
+      },
+      {
+        "recipe_name": "CRISPY LASAGNA",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_likes": 488,
+        "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+        " ingredients":{
+            "ing":  ["2 Packages (6 Sheets) Fresh Lasagna Noodles Cut Into 4-5 Inch Rectangles","Flavorless Oil For Frying (I use Canola Oil)"],
+            "Ricotta Layer":["1 1/2 Cups Whole Milk Ricotta Cheese","1/3 Cup Grated Pecorino Cheese","1 Tablespoon Finely Chopped Basil","Salt & Pepper To Taste","5 Cups Umbrian Ragu Or Your Favorite Bolognese Sauce)","1 1/2 Cups Shredded Whole Milk Mozzarella Cheese"],
+            "Topping":["Grated Parmesan Cheese","Fresh Basil Leaves"]
+          },
+          "cooking method":["Begin frying your pasta sheets by filling a large pan 1/5th way up with oil and bringing it to 350°F.","Fry the sheets of pasta until they are a solid golden brown, flipping so each side can cook.","Transfer to a towel to drain and repeat the process until the noodles are all fried up.","You can prepare these pasta sheets up to 6 hours before assembling.","In a bowl, nix together the ricotta cheese, basil, salt, and pepper.","Warm the sauce in a small pan over medium heat.","Preheat oven to 400 Degrees F.","In either individual baking dishes, or one large casserole dish, begin layering the lasagna with a few spoonfuls of the bolognese, a fried lasagna noodle, a few spoonfuls of the fresh ricotta, more of the bolognese sauce, a handful of shredded mozzarella, and top with a fried noodle.","Repeat this process until the desired number of layers are reached.","Spoon a little sauce on top of the final layer with some mozzarella.","Bake at 400°F for 10-12 minutes, or until the top is golden and cheese is bubbly.","Top the home made crispy lasagna with some fresh parmesan cheese, and a few basil leaves."]
+        },
+      {
+        "recipe_name": "CRISPY LASAGNA",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_likes": 488,
+        "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+        " ingredients":{
+            "ing":  ["2 Packages (6 Sheets) Fresh Lasagna Noodles Cut Into 4-5 Inch Rectangles","Flavorless Oil For Frying (I use Canola Oil)"],
+            "Ricotta Layer":["1 1/2 Cups Whole Milk Ricotta Cheese","1/3 Cup Grated Pecorino Cheese","1 Tablespoon Finely Chopped Basil","Salt & Pepper To Taste","5 Cups Umbrian Ragu Or Your Favorite Bolognese Sauce)","1 1/2 Cups Shredded Whole Milk Mozzarella Cheese"],
+            "Topping":["Grated Parmesan Cheese","Fresh Basil Leaves"]
+          },
+          "cooking method":["Begin frying your pasta sheets by filling a large pan 1/5th way up with oil and bringing it to 350°F.","Fry the sheets of pasta until they are a solid golden brown, flipping so each side can cook.","Transfer to a towel to drain and repeat the process until the noodles are all fried up.","You can prepare these pasta sheets up to 6 hours before assembling.","In a bowl, nix together the ricotta cheese, basil, salt, and pepper.","Warm the sauce in a small pan over medium heat.","Preheat oven to 400 Degrees F.","In either individual baking dishes, or one large casserole dish, begin layering the lasagna with a few spoonfuls of the bolognese, a fried lasagna noodle, a few spoonfuls of the fresh ricotta, more of the bolognese sauce, a handful of shredded mozzarella, and top with a fried noodle.","Repeat this process until the desired number of layers are reached.","Spoon a little sauce on top of the final layer with some mozzarella.","Bake at 400°F for 10-12 minutes, or until the top is golden and cheese is bubbly.","Top the home made crispy lasagna with some fresh parmesan cheese, and a few basil leaves."]
+        }
+      ]
+},
+  {
+  
+ 
+  "chef_id": 6,
+  "chef_Details":{
+    "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+    "chef_name": "CRISPY LASAGNA",
+    "total_likes": 488,
+    "bio_data":"Grated Parmesan Cheese Fresh Basil Leaves",
+    "recipes_name":["pasta","Nod"],
+      "experience":"Begin frying your pasta sheets by filling a large pan 1/ore assembling. cheese, and a few basil leaves."
+    },
+  "recipes":[
+    {
+    "recipe_name": "CRISPY LASAGNA",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_likes": 488,
+    "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+    " ingredients":{
+        "ing":  ["2 Packages (6 Sheets) Fresh Lasagna Noodles Cut Into 4-5 Inch Rectangles","Flavorless Oil For Frying (I use Canola Oil)"],
+        "Ricotta Layer":["1 1/2 Cups Whole Milk Ricotta Cheese","1/3 Cup Grated Pecorino Cheese","1 Tablespoon Finely Chopped Basil","Salt & Pepper To Taste","5 Cups Umbrian Ragu Or Your Favorite Bolognese Sauce)","1 1/2 Cups Shredded Whole Milk Mozzarella Cheese"],
+        "Topping":["Grated Parmesan Cheese","Fresh Basil Leaves"]
+      },
+      "cooking method":["Begin frying your pasta sheets by filling a large pan 1/5th way up with oil and bringing it to 350°F.","Fry the sheets of pasta until they are a solid golden brown, flipping so each side can cook.","Transfer to a towel to drain and repeat the process until the noodles are all fried up.","You can prepare these pasta sheets up to 6 hours before assembling.","In a bowl, nix together the ricotta cheese, basil, salt, and pepper.","Warm the sauce in a small pan over medium heat.","Preheat oven to 400 Degrees F.","In either individual baking dishes, or one large casserole dish, begin layering the lasagna with a few spoonfuls of the bolognese, a fried lasagna noodle, a few spoonfuls of the fresh ricotta, more of the bolognese sauce, a handful of shredded mozzarella, and top with a fried noodle.","Repeat this process until the desired number of layers are reached.","Spoon a little sauce on top of the final layer with some mozzarella.","Bake at 400°F for 10-12 minutes, or until the top is golden and cheese is bubbly.","Top the home made crispy lasagna with some fresh parmesan cheese, and a few basil leaves."]
+    },
+    {
+      "recipe_name": "CRISPY LASAGNA",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_likes": 488,
+      "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+      " ingredients":{
+          "ing":  ["2 Packages (6 Sheets) Fresh Lasagna Noodles Cut Into 4-5 Inch Rectangles","Flavorless Oil For Frying (I use Canola Oil)"],
+          "Ricotta Layer":["1 1/2 Cups Whole Milk Ricotta Cheese","1/3 Cup Grated Pecorino Cheese","1 Tablespoon Finely Chopped Basil","Salt & Pepper To Taste","5 Cups Umbrian Ragu Or Your Favorite Bolognese Sauce)","1 1/2 Cups Shredded Whole Milk Mozzarella Cheese"],
+          "Topping":["Grated Parmesan Cheese","Fresh Basil Leaves"]
+        },
+        "cooking method":["Begin frying your pasta sheets by filling a large pan 1/5th way up with oil and bringing it to 350°F.","Fry the sheets of pasta until they are a solid golden brown, flipping so each side can cook.","Transfer to a towel to drain and repeat the process until the noodles are all fried up.","You can prepare these pasta sheets up to 6 hours before assembling.","In a bowl, nix together the ricotta cheese, basil, salt, and pepper.","Warm the sauce in a small pan over medium heat.","Preheat oven to 400 Degrees F.","In either individual baking dishes, or one large casserole dish, begin layering the lasagna with a few spoonfuls of the bolognese, a fried lasagna noodle, a few spoonfuls of the fresh ricotta, more of the bolognese sauce, a handful of shredded mozzarella, and top with a fried noodle.","Repeat this process until the desired number of layers are reached.","Spoon a little sauce on top of the final layer with some mozzarella.","Bake at 400°F for 10-12 minutes, or until the top is golden and cheese is bubbly.","Top the home made crispy lasagna with some fresh parmesan cheese, and a few basil leaves."]
+      },
+      {
+        "recipe_name": "CRISPY LASAGNA",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_likes": 488,
+        "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+        " ingredients":{
+            "ing":  ["2 Packages (6 Sheets) Fresh Lasagna Noodles Cut Into 4-5 Inch Rectangles","Flavorless Oil For Frying (I use Canola Oil)"],
+            "Ricotta Layer":["1 1/2 Cups Whole Milk Ricotta Cheese","1/3 Cup Grated Pecorino Cheese","1 Tablespoon Finely Chopped Basil","Salt & Pepper To Taste","5 Cups Umbrian Ragu Or Your Favorite Bolognese Sauce)","1 1/2 Cups Shredded Whole Milk Mozzarella Cheese"],
+            "Topping":["Grated Parmesan Cheese","Fresh Basil Leaves"]
+          },
+          "cooking method":["Begin frying your pasta sheets by filling a large pan 1/5th way up with oil and bringing it to 350°F.","Fry the sheets of pasta until they are a solid golden brown, flipping so each side can cook.","Transfer to a towel to drain and repeat the process until the noodles are all fried up.","You can prepare these pasta sheets up to 6 hours before assembling.","In a bowl, nix together the ricotta cheese, basil, salt, and pepper.","Warm the sauce in a small pan over medium heat.","Preheat oven to 400 Degrees F.","In either individual baking dishes, or one large casserole dish, begin layering the lasagna with a few spoonfuls of the bolognese, a fried lasagna noodle, a few spoonfuls of the fresh ricotta, more of the bolognese sauce, a handful of shredded mozzarella, and top with a fried noodle.","Repeat this process until the desired number of layers are reached.","Spoon a little sauce on top of the final layer with some mozzarella.","Bake at 400°F for 10-12 minutes, or until the top is golden and cheese is bubbly.","Top the home made crispy lasagna with some fresh parmesan cheese, and a few basil leaves."]
+        },
+      {
+        "recipe_name": "CRISPY LASAGNA",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_likes": 488,
+        "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+        " ingredients":{
+            "ing":  ["2 Packages (6 Sheets) Fresh Lasagna Noodles Cut Into 4-5 Inch Rectangles","Flavorless Oil For Frying (I use Canola Oil)"],
+            "Ricotta Layer":["1 1/2 Cups Whole Milk Ricotta Cheese","1/3 Cup Grated Pecorino Cheese","1 Tablespoon Finely Chopped Basil","Salt & Pepper To Taste","5 Cups Umbrian Ragu Or Your Favorite Bolognese Sauce)","1 1/2 Cups Shredded Whole Milk Mozzarella Cheese"],
+            "Topping":["Grated Parmesan Cheese","Fresh Basil Leaves"]
+          },
+          "cooking method":["Begin frying your pasta sheets by filling a large pan 1/5th way up with oil and bringing it to 350°F.","Fry the sheets of pasta until they are a solid golden brown, flipping so each side can cook.","Transfer to a towel to drain and repeat the process until the noodles are all fried up.","You can prepare these pasta sheets up to 6 hours before assembling.","In a bowl, nix together the ricotta cheese, basil, salt, and pepper.","Warm the sauce in a small pan over medium heat.","Preheat oven to 400 Degrees F.","In either individual baking dishes, or one large casserole dish, begin layering the lasagna with a few spoonfuls of the bolognese, a fried lasagna noodle, a few spoonfuls of the fresh ricotta, more of the bolognese sauce, a handful of shredded mozzarella, and top with a fried noodle.","Repeat this process until the desired number of layers are reached.","Spoon a little sauce on top of the final layer with some mozzarella.","Bake at 400°F for 10-12 minutes, or until the top is golden and cheese is bubbly.","Top the home made crispy lasagna with some fresh parmesan cheese, and a few basil leaves."]
+        }
+      ]
+}
+ 
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "image_url":"https://iili.io/HSTDExt.jpg",
+        "chef_name":"Massimo Bottura",
+        "total_likes": 488,
+        "recipes":["Grated Parmesan Cheese","Fresh Basil Leaves"],
+          "experience":"Massimo Bottura (conceived 30 September 1962) is an Italian restaurateur and a famous Italian Chef. He is at position 1 among Top 10 chef in Italy. He is the partner of Osteria Francescana, a three-Michelin-star eatery situated in Modena, Italy which has been recorded in the position no. 5 at The World’s 50 Best Restaurant Awards since 2010 and got top appraisals from ESPRESSO, Gambero Rosso and the Touring Club guides. Osteria Francescana was positioned second World’s Best Restaurant at the S.Pellegrino World’s 50 Best Restaurants Awards 2015. In June 2016 Osteria Francescana was positioned No. 1 in The World’s 50 Best Restaurants, and No. 2 of every 2017."
+        },
+    {
+        "id": 2,
+        "image_url":"https://iili.io/HSTDcRp.jpg",
+        "chef_name":"Giada De Laurentiis",
+        "total_likes": 488,
+        "recipes":["Grated Parmesan Cheese","Fresh Basil Leaves"],
+          "experience":" Conceived in Rome, Giada experienced childhood in a huge Italian family where her way of life was a staple. She is not only a brilliant chef but also a sexy lady. As the granddaughter of film maker Dino De Laurentiis, Giada reliably wound up in the family’s kitchen and invested a lot of energy at her granddad’s eatery, DDL Foodshow. She is at second no. among top 10 chefs in Italy. Moving on from the University of California in Los Angeles with a degree in human sciences, Giada’s energy for cooking made her positioned among Italian chefs. She in the long run settled on the choice to begin a culinary vocation and started her expert preparing at Le Cordon Bleu in Paris, represent considerable authority in both food and cake. She in this way came back to Los Angeles, where her preparation included positions at the esteemed Ritz-Carlton Fine Dining Room and Wolfgang Puck’s Spago in Beverly Hills. She later established GDL Foods, a cooking organization in Los Angeles."
+        },
+    {
+        "id": 3,
+        "image_url":"https://iili.io/HSTD7Uv.jpg",
+        "chef_name":"Gennaro Contaldo",
+        "total_likes": 488,
+        "recipes":["Grated Parmesan Cheese","Fresh Basil Leaves"],
+          "experience":"Gennaro Contaldo is known as the Italian legend who showed Jamie Oliver all he thinks about Italian cooking He is one of the UK's best-cherished chefs, and being writer of twelve top rated Italian formula books. Gennaro stood fourth among top 10 chefs in Italy.Gennaro is at present in Jamie Oliver's very well-known eatery network, Jamie's Italian, which has more than 60 branches universally. At the point when he's not composing and instructing, he invests energy unwinding and cooking with his family at their bungalow in Norfolk and scouring Italy for new pleasures to impart to his perusers. Gennaro makes formulas in association with Bertolli with Butter and Italian occasion organization Citalia, advancing the best of Italian sustenance and go to his darling Italy. "
+        },
+    {
+        "id": 4,
+        "image_url": "https://iili.io/HSTD0bI.jpg",
+        "chef_name":"Giorgio Locatelli",
+        "total_likes": 488,
+        "recipes":["Grated Parmesan Cheese","Fresh Basil Leaves"],
+          "experience":"Locatelli has worked in four TV programs which are of Pure Italian, 2002, publicized on the UK Food channel ; Tony and Giorgio, shot with business visionary Tony Allan, appeared on BBC2; and Sicily Unpacked and Italy Unpacked with craftsmanship student of history Andrew Graham-Dixon. Tony and Giorgio was joined by a tie-in book.His own particular cookery book, Made in Italy, was distributed in September 2006. Made in Italy has gotten the Best Food Book grant at the Glenfiddich Food and Drink Awards 2007. A moment book, Made in Sicily, was distributed in September 2011."
+        },
+    {
+        "id": 5,
+        "image_url": "https://iili.io/HSTDaJR.jpg",
+        "chef_name":"Antonino Cannavacciuolo",
+        "total_likes": 488,
+        "recipes":["Grated Parmesan Cheese","Fresh Basil Leaves"],
+          "experience":"In 2003, around the time Antonino got his first Michelin star, he was welcome to have a cooking appear on Italian TV, lifting his status to a broadly perceived chef. He is at last position among Top 10 chefs in Italy. His regular disposition before the camera prompted more TV work, and in 2013 he turned into the primary host of the Italian rendition of Kitchen Nightmares. Antonino acknowledged the part as he had encountered all the good and bad times of running an eatery himself, and needed to help other people in any capacity he could. His recommendation was sound, and each and every one of the organizations he helped turned their fortunes around and turned into a win."
+        },
+    {
+        "id": 6,
+        "image_url": "https://iili.io/HSTDlON.jpg",
+        "chef_name":"Carlo Cracco",
+        "total_likes": 488,
+        "recipes":["Grated Parmesan Cheese","Fresh Basil Leaves"],
+          "experience":"Carlo Cracco, conceived in Vicenza in 1965, went to the “Istituto Professionale Alberghiero” (Professional Hotel Institute) in Recoaro Terme (close Vicenza, North Italy).The Institute is a piece of “Associazione Europea delle Scuole Alberghiere e del Turismo” (European Association of lodging and Tourism School) and it was set up in 1963. While going to the Institute, he worked for the eatery “Da Remo” (Vicenza) where he had the opportunity to learn customary arrangements. In 1986, he started his expert profession at “Gualtiero Marchesi”, in Milan, the principal Italian eatery granted three Michelin stars. His next position was at “La Meridiana” inGarlenda (Savona), some portion of the well-known Relais and Chateux chain. For the following three years he dwelled in France, where he found out about French cooking under the direction of Alain Ducasse (Hotel de Paris) and Lucas Carton (Senderens, Paris). Cracco at last came back to Italy where he was designated Chef at “Enoteca Pinchiorri”, Florence. Amid his residency, the eatery was granted the three Michelin stars. Now he is listed among Top 10 chefs in Italy."
+        }
+]
