@@ -1,50 +1,136 @@
 [
     {
         "id": 1,
-        "image_url":"https://iili.io/HSTDExt.jpg",
+        "image_url":"https://iili.io/HSTDcRp.jpg",
         "chef_name":"Massimo Bottura",
-        "total_likes": 488,
-        "recipes":["Grated Parmesan Cheese","Fresh Basil Leaves"],
-          "experience":"Massimo Bottura (conceived 30 September 1962) is an Italian restaurateur and a famous Italian Chef. He is at position 1 among Top 10 chef in Italy. He is the partner of Osteria Francescana, a three-Michelin-star eatery situated in Modena, Italy which has been recorded in the position no. 5 at The World’s 50 Best Restaurant Awards since 2010 and got top appraisals from ESPRESSO, Gambero Rosso and the Touring Club guides. Osteria Francescana was positioned second World’s Best Restaurant at the S.Pellegrino World’s 50 Best Restaurants Awards 2015. In June 2016 Osteria Francescana was positioned No. 1 in The World’s 50 Best Restaurants, and No. 2 of every 2017."
-        },
+        "total_likes": 500,
+        "recipes":["Seafood Risotto"," Italian BLT","Torta Caprese(Italian Flourless Chocolate Torte)","Slow Cooker Tuscan Chicken","Manicotti","Pan-Fried Asparagus","Pasta Salad","Shrimp Scampi with Pasta"],
+          "experience":[
+            "Massimo Bottura is an Italian chef who is widely considered one of the world's best chefs. He is the owner and chef of Osteria Francescana, a three-Michelin-star restaurant located in Modena, Italy. Here are some of his notable work experiences:",
+            "Early Career: Massimo Bottura began his culinary career by working in several restaurants in Italy and France. He worked at Alain Ducasse's Louis XV in Monte Carlo and Le Jardin des Sens in Montpellier, France.",
+
+          "Trattoria Del Campazzo: In 1994, Bottura opened his first restaurant, Trattoria Del Campazzo, in his hometown of Modena, Italy.",
+          
+          "Osteria Francescana: In 1995, Bottura opened Osteria Francescana in Modena, Italy. The restaurant has since become one of the world's best restaurants and has been awarded three Michelin stars.",
+          
+          "International Experience: Bottura has also worked in some of the most prestigious kitchens around the world, including El Bulli in Spain and The Fat Duck in the UK.",
+          
+          "Food Waste Reduction: In 2015, Bottura launched the Food for Soul project, which aims to reduce food waste and feed the hungry by turning surplus food into meals for those in need.",
+          
+          "Author : Bottura has also published several cookbooks including Never Trust a Skinny Italian Chef and Bread is Gold. Bottura has won numerous awards throughout his career, including the World's 50 Best Restaurants award multiple times. He was also awarded the Order of Merit of the Italian Republic by the President of Italy in 2016."]
+},
     {
         "id": 2,
-        "image_url":"https://iili.io/HSTDcRp.jpg",
-        "chef_name":"Giada De Laurentiis",
+        "image_url":"https://iili.io/HSTD7Uv.jpg",
+        "chef_name":"Fabio Viviani",
         "total_likes": 488,
-        "recipes":["Grated Parmesan Cheese","Fresh Basil Leaves"],
-          "experience":" Conceived in Rome, Giada experienced childhood in a huge Italian family where her way of life was a staple. She is not only a brilliant chef but also a sexy lady. As the granddaughter of film maker Dino De Laurentiis, Giada reliably wound up in the family’s kitchen and invested a lot of energy at her granddad’s eatery, DDL Foodshow. She is at second no. among top 10 chefs in Italy. Moving on from the University of California in Los Angeles with a degree in human sciences, Giada’s energy for cooking made her positioned among Italian chefs. She in the long run settled on the choice to begin a culinary vocation and started her expert preparing at Le Cordon Bleu in Paris, represent considerable authority in both food and cake. She in this way came back to Los Angeles, where her preparation included positions at the esteemed Ritz-Carlton Fine Dining Room and Wolfgang Puck’s Spago in Beverly Hills. She later established GDL Foods, a cooking organization in Los Angeles."
+        "recipes":["Chicken Marsala","Tiramisu","Homemade Sweet Italian Sausage(Mild or Hot)","Easy Italia Chicken","Their Uses","Onions, and Potato Bake","Balsamic Glaze","Pesto Pasta with Chicken"],
+          "experience":[
+            "Fabio Viviani is an Italian-born chef and restaurateur, known for his appearances on various cooking shows and his successful culinary ventures. Here are some of his notable work experiences:",
+          "Early Career: Viviani began his culinary career at the age of 11, working in his family's restaurant in Florence, Italy. He later trained at several Michelin-starred restaurants in Italy.",
+
+          "Top Chef: Viviani gained widespread recognition after appearing on the fifth season of Bravo's Top Chef in 2008. He was a fan favorite and ultimately finished in fourth place.",
+          
+          "Restaurants: Viviani has since opened several successful restaurants in the United States, including Siena Tavern in Chicago, IL and San Diego, CA, and Osteria in Los Angeles, CA.",
+          
+          "Cookbook Author: Viviani has authored several cookbooks, including Fabio's Italian Kitchen and Fabio's 30-Minute Italian.",
+          
+          "TV Appearances: In addition to Top Chef, Viviani has appeared on numerous other cooking shows, including Cutthroat Kitchen, Rachael Ray, and Good Morning America.",
+          
+          "Business Ventures: Viviani has also launched several business ventures, including a line of cookware and a wine club.",
+          
+          "Philanthropy: Viviani is actively involved in charitable work and has supported various organizations, including Alex's Lemonade Stand Foundation and the American Red Cross."]
         },
     {
         "id": 3,
-        "image_url":"https://iili.io/HSTD7Uv.jpg",
+        "image_url":"https://freeimage.host/i/giorgio-locate.HScEw8J",
         "chef_name":"Gennaro Contaldo",
         "total_likes": 488,
-        "recipes":["Grated Parmesan Cheese","Fresh Basil Leaves"],
-          "experience":"Gennaro Contaldo is known as the Italian legend who showed Jamie Oliver all he thinks about Italian cooking He is one of the UK's best-cherished chefs, and being writer of twelve top rated Italian formula books. Gennaro stood fourth among top 10 chefs in Italy.Gennaro is at present in Jamie Oliver's very well-known eatery network, Jamie's Italian, which has more than 60 branches universally. At the point when he's not composing and instructing, he invests energy unwinding and cooking with his family at their bungalow in Norfolk and scouring Italy for new pleasures to impart to his perusers. Gennaro makes formulas in association with Bertolli with Butter and Italian occasion organization Citalia, advancing the best of Italian sustenance and go to his darling Italy. "
+        "recipes":[
+          "Biscotti","Garlic Butter Sauce","Italian Wedding Cookies","Caprese Salad with Balsamic Reduction","White Cheese Chicken Lasagna","Italian Seasoning","Hearty Vegetable Lasagna","Easy Slow Cooker Meatballs"],
+          "experience":[
+            "Gennaro Contaldo is an Italian chef and restaurateur who is known for his expertise in Italian cuisine. Here are some of his notable work experiences:",
+            "Early Career: Contaldo began his culinary career at the age of 8, working in his family's bakery in the Amalfi coast of Italy. Later on, he trained as a chef in the Italian navy.",
+
+          "Restaurateur: Contaldo has opened several successful restaurants in the UK, including Passione in London and the Jamie's Italian chain of restaurants in collaboration with Jamie Oliver.",
+          
+          "TV Appearances: Contaldo has made many appearances on TV cooking shows, including Two Greedy Italians, Saturday Kitchen, and Sunday Brunch.",
+          
+          "Cookbook Author: Contaldo has authored several cookbooks, including Gennaro's Italian Year, Gennaro's Passione, and Jamie's Italy.",
+          
+          "Mentor to Jamie Oliver: Contaldo has been a mentor to Jamie Oliver since the two worked together at Antonio Carluccio's Neal Street Restaurant in London.",
+          
+          "Culinary Education: Contaldo has also worked as a culinary instructor at various institutions, including the Jamie Oliver's Fifteen Foundation.",
+          
+          "Awards: Contaldo has received numerous awards throughout his career, including the AA Lifetime Achievement Award in 2017 and the Guinness World Record for the largest bowl of pasta in 2017."]
         },
     {
         "id": 4,
-        "image_url": "https://iili.io/HSTD0bI.jpg",
+        "image_url": "https://iili.io/HScEVG1.jpg",
         "chef_name":"Giorgio Locatelli",
         "total_likes": 488,
-        "recipes":["Grated Parmesan Cheese","Fresh Basil Leaves"],
-          "experience":"Locatelli has worked in four TV programs which are of Pure Italian, 2002, publicized on the UK Food channel ; Tony and Giorgio, shot with business visionary Tony Allan, appeared on BBC2; and Sicily Unpacked and Italy Unpacked with craftsmanship student of history Andrew Graham-Dixon. Tony and Giorgio was joined by a tie-in book.His own particular cookery book, Made in Italy, was distributed in September 2006. Made in Italy has gotten the Best Food Book grant at the Glenfiddich Food and Drink Awards 2007. A moment book, Made in Sicily, was distributed in September 2011."
+        "recipes":["Oven Roasted Stuffed Chicken Breasts","Italian Breaded Pork Chops","Cioppino","Italian Wedding Soup","Italian Sausage, Peppers, add Onions","Rosemary Braised Lamb Shanks","Easy Homemade Pizza Sauce","Slow Cooker Italian Beef"],
+          "experience":[
+            "Giorgio Locatelli is an Italian chef and restaurateur who is known for his expertise in Italian cuisine. Here are some of his notable work experiences:",
+
+            "Early Career: Locatelli began his culinary career in Italy, working in several restaurants in Lombardy and Emilia-Romagna.",
+
+          "London Restaurants: In 2002, Locatelli opened his first London restaurant, Locanda Locatelli, which was awarded a Michelin star in 2003. He later opened another restaurant, Locanda Verde, which also received critical acclaim.",
+          
+          "TV Appearances: Locatelli has made many appearances on TV cooking shows, including Giorgio Locatelli's Italy, Saturday Kitchen, and MasterChef.",
+          
+          "Cookbook Author: Locatelli has authored several cookbooks, including Made in Italy: Food and Stories and Giorgio Locatelli: Made at Home.",
+          
+          "Awards: Locatelli has received numerous awards throughout his career, including the AA Chef's Chef of the Year in 2007 and the Caterer and Hotelkeeper's Hotelier of the Year in 2012.",
+          
+          "Culinary Education: Locatelli is also a culinary educator, and has worked as a visiting professor at the University of West London.",
+          
+          "Philanthropy: Locatelli is actively involved in charitable work, and has supported several organizations, including the Prince's Trust and Action Against Hunger."]
         },
     {
         "id": 5,
-        "image_url": "https://iili.io/HSTDaJR.jpg",
-        "chef_name":"Antonino Cannavacciuolo",
-        "total_likes": 488,
-        "recipes":["Grated Parmesan Cheese","Fresh Basil Leaves"],
-          "experience":"In 2003, around the time Antonino got his first Michelin star, he was welcome to have a cooking appear on Italian TV, lifting his status to a broadly perceived chef. He is at last position among Top 10 chefs in Italy. His regular disposition before the camera prompted more TV work, and in 2013 he turned into the primary host of the Italian rendition of Kitchen Nightmares. Antonino acknowledged the part as he had encountered all the good and bad times of running an eatery himself, and needed to help other people in any capacity he could. His recommendation was sound, and each and every one of the organizations he helped turned their fortunes around and turned into a win."
-        },
-    {
-        "id": 6,
         "image_url": "https://iili.io/HSTDlON.jpg",
         "chef_name":"Carlo Cracco",
         "total_likes": 488,
-        "recipes":["Grated Parmesan Cheese","Fresh Basil Leaves"],
-          "experience":"Carlo Cracco, conceived in Vicenza in 1965, went to the “Istituto Professionale Alberghiero” (Professional Hotel Institute) in Recoaro Terme (close Vicenza, North Italy).The Institute is a piece of “Associazione Europea delle Scuole Alberghiere e del Turismo” (European Association of lodging and Tourism School) and it was set up in 1963. While going to the Institute, he worked for the eatery “Da Remo” (Vicenza) where he had the opportunity to learn customary arrangements. In 1986, he started his expert profession at “Gualtiero Marchesi”, in Milan, the principal Italian eatery granted three Michelin stars. His next position was at “La Meridiana” inGarlenda (Savona), some portion of the well-known Relais and Chateux chain. For the following three years he dwelled in France, where he found out about French cooking under the direction of Alain Ducasse (Hotel de Paris) and Lucas Carton (Senderens, Paris). Cracco at last came back to Italy where he was designated Chef at “Enoteca Pinchiorri”, Florence. Amid his residency, the eatery was granted the three Michelin stars. Now he is listed among Top 10 chefs in Italy."
+        "recipes":["Easy Lasagna","Eggplant Parmesan","Pasta Salad With Homemade Dressing","that Zucchini Spaghetti Stanley Tucci Loves (Spaghetti alla Nerano)","Homemade Four Cheese Ravioli","Panna Cotta","Fried Mozzarella Cheese Sticks","Italian Spaghetti Sauce with Meatballs"],
+          "experience":[
+          "Carlo Cracco is an Italian chef and restaurateur who is known for his expertise in Italian and contemporary cuisine. Here are some of his notable work experiences:",
+
+          "Early Career: Cracco began his culinary career in Italy, working in several Michelin-starred restaurants, including Gualtiero Marchesi and Enoteca Pinchiorri.",
+
+          "Milan Restaurants: In 2001, Cracco opened his first restaurant, Cracco-Peck, in Milan in collaboration with the historic Peck gourmet food store. He later opened another restaurant, Carlo e Camilla in Segheria, which offers contemporary Italian cuisine.",
+          
+          "TV Appearances: Cracco has made many appearances on TV cooking shows, including MasterChef Italia,Hell's Kitchen Italia, and Top Chef Italia.",
+          
+          "Cookbook Author: Cracco has authored several cookbooks, including Il Ristorante Cracco in Galleria and Contemporary Italian Cooking.",
+          
+          "Awards: Cracco has received numerous awards throughout his career, including three Michelin stars for his Milan restaurant.",
+          
+          "Culinary Education: Cracco is also a culinary educator, and has taught at several institutions, including the University of Gastronomic Sciences in Pollenzo.",
+          
+          "Philanthropy: Cracco is actively involved in charitable work, and has supported several organizations, including the Italian Red Cross and the Dynamo Camp, a summer camp for children with serious illnesses."]
+        },
+    {
+        "id": 6,
+        "image_url": "https://iili.io/HSTDaJR.jpg",
+        "chef_name":"Antonino Cannavacciuolo",
+        "total_likes": 488,
+        "recipes":["Homemade Lasagna","The Best Meatballs","Meatballs","Pesto Pasta","Chicken Parmesan","Polenta","Homemade Spaghetti Sauce with Ground Beef","Lasagna"],
+          "experience":[
+          "Antonino Cannavacciuolo is an Italian chef and restaurateur who is known for his expertise in Italian and contemporary cuisine. Here are some of his notable work experiences:",
+
+          "Early Career: Cannavacciuolo began his culinary career in Italy, working in several Michelin-starred restaurants, including Villa Crespi and Le Calandre.",
+
+          "Novara Restaurants: In 2000, Cannavacciuolo opened his first restaurant, Il Ponte in Novara. Later on, he opened Cannavacciuolo Café & Bistrot in Novara, which offers a more informal and affordable dining experience.",
+          
+          "TV Appearances: Cannavacciuolo has made many appearances on TV cooking shows, including MasterChef Italia,Hell's Kitchen Italia, and Cucine da Incubo.",
+          
+          "Cookbook Author: Cannavacciuolo has authored several cookbooks, including Prendere Gusto and Natale in Cucina con Antonino Cannavacciuolo.",
+          
+          "Awards: Cannavacciuolo has received numerous awards throughout his career, including three Michelin stars for his Villa Crespi restaurant.",
+          
+          "Culinary Education: Cannavacciuolo is also a culinary educator, and has taught at several institutions, including the Gambero Rosso Cooking School.",
+          
+          "Philanthropy: Cannavacciuolo is actively involved in charitable work, and has supported several organizations, including the Telethon Foundation and the Dynamo Camp, a summer camp for children with serious illnesses."]
         }
 ]

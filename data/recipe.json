@@ -2,375 +2,2389 @@
   {
   "chef_id": 1,
   "chef_Details":{
-    "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-    "chef_name": "CRISPY LASAGNA",
+    "image_url": "https://iili.io/HSTDcRp.jpg",
+    "chef_name": "Massimo Bottura",
     "total_likes": 488,
-    "bio_data":"Grated Parmesan Cheese Fresh Basil Leaves",
-    "recipes_name":["pasta","Nod"],
-      "experience":"Begin frying your pasta sheets by filling a large pan 1/ore assembling. cheese, and a few basil leaves."
-    },
+    "bio_data":"Massimo Bottura (conceived 30 September 1962) is an Italian restaurateur and a famous Italian Chef. He is at position 1 among Top 10 chef in Italy. He is the partner of Osteria Francescana, a three-Michelin-star eatery situated in Modena, Italy which has been recorded in the position no. 5 at The World’s 50 Best Restaurant Awards since 2010 and got top appraisals from ESPRESSO, Gambero Rosso and the Touring Club guides. Osteria Francescana was positioned second World’s Best Restaurant at the S.Pellegrino World’s 50 Best Restaurants Awards 2015. In June 2016 Osteria Francescana was positioned No. 1 in The World’s 50 Best Restaurants, and No. 2 of every 2017.",
+    "recipes_name":["Seafood Risotto"," Italian BLT","Torta Caprese(Italian Flourless Chocolate Torte)","Slow Cooker Tuscan Chicken","Manicotti","Pan-Fried Asparagus","Pasta Salad","Shrimp Scampi with Pasta"],
+    "experience":[
+      "Massimo Bottura is an Italian chef who is widely considered one of the world's best chefs. He is the owner and chef of Osteria Francescana, a three-Michelin-star restaurant located in Modena, Italy. Here are some of his notable work experiences:",
+      "Early Career: Massimo Bottura began his culinary career by working in several restaurants in Italy and France. He worked at Alain Ducasse's Louis XV in Monte Carlo and Le Jardin des Sens in Montpellier, France.",
+
+    "Trattoria Del Campazzo: In 1994, Bottura opened his first restaurant, Trattoria Del Campazzo, in his hometown of Modena, Italy.",
+    
+    "Osteria Francescana: In 1995, Bottura opened Osteria Francescana in Modena, Italy. The restaurant has since become one of the world's best restaurants and has been awarded three Michelin stars.",
+    
+    "International Experience: Bottura has also worked in some of the most prestigious kitchens around the world, including El Bulli in Spain and The Fat Duck in the UK.",
+    
+    "Food Waste Reduction: In 2015, Bottura launched the Food for Soul project, which aims to reduce food waste and feed the hungry by turning surplus food into meals for those in need.",
+    
+    "Author : Bottura has also published several cookbooks including Never Trust a Skinny Italian Chef and Bread is Gold. Bottura has won numerous awards throughout his career, including the World's 50 Best Restaurants award multiple times. He was also awarded the Order of Merit of the Italian Republic by the President of Italy in 2016."]
+  },
   "recipes":[
-    {
-    "recipe_name": "CRISPY LASAGNA",
+    {"recipe_id": 1,"_id": 1,"recipe_name": "Torta Caprese (Italian Flourless Chocolate Torte)",
+      "image_url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fa1fc3ea017d7f0c4d1df73bcec942905%2F1676474876758Caprese-Torte.jpg&q=60&c=sc&orient=true&poi=auto&h=512",
+    " ingredients":["6 ounces dark chocolate (70% cacao), chopped into small pieces",
+    "10 tablespoons unsalted butter, at room temperature",
+    "1 cup ground almond meal (also know as almond flour)",
+    
+    "2 tablespoons unsweetened cocoa powder",
+  
+    "1 tablespoon coffee liqueur",
+  
+    "½ teaspoon kosher salt",
+    
+    "tiny pinch cayenne pepper (Optional)",
+    
+    "4 large eggs, at room temperature",
+  
+    "¾ cup white granulated sugar"],
+    "cooking method":[
+
+  "Preheat the oven to 350 degrees F (175 degrees C). Generously grease an 8-inch cake pan with butter, and place a round piece of parchment paper in the bottom. Dust the inside and sides with flour and knock out access. Set aside.",
+
+ "Place chocolate and butter in a mixing bowl, and place on top of a saucepan filled with 1 inch of water. Place on low heat until the butter and chocolate have melted.",
+    
+ "Remove from heat, and stir together with a spatula. Stir in almond meal, cocoa powder, coffee liqueur, salt, and cayenne until fully combined. Set aside.",
+ 
+ "Combine eggs and sugar in a second bowl, and beat with an electric mixer, or whisk by hand until very thick and pale colored.",
+ 
+ "Pour chocolate mixture into the egg mixture; fold in gently with a spatula until just combined. Transfer batter into the prepared pan. Tap pan on the counter to settle the mixture.",
+ 
+ "Bake in the preheated oven until a wooden skewer inserted near the center comes out almost clean, 25 to 30 minutes.",
+ 
+ "Let cool for 30 minutes in the pan before turning out onto a plate. Let cool to room temperature, before wrapping and transferring into the fridge to chill before serving.",
+ 
+ "Before cutting, the top can be dusted with cocoa and/or powdered sugar if desired. Serve with unsweetened whipped cream and fresh raspberries."],
     "rating": { "number": 4.5, "badge": "Excellent" },
-    "total_likes": 488,
-    "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-    " ingredients":{
-        "ing":  ["2 Packages (6 Sheets) Fresh Lasagna Noodles Cut Into 4-5 Inch Rectangles","Flavorless Oil For Frying (I use Canola Oil)"],
-        "Ricotta Layer":["1 1/2 Cups Whole Milk Ricotta Cheese","1/3 Cup Grated Pecorino Cheese","1 Tablespoon Finely Chopped Basil","Salt & Pepper To Taste","5 Cups Umbrian Ragu Or Your Favorite Bolognese Sauce)","1 1/2 Cups Shredded Whole Milk Mozzarella Cheese"],
-        "Topping":["Grated Parmesan Cheese","Fresh Basil Leaves"]
-      },
-      "cooking method":["Begin frying your pasta sheets by filling a large pan 1/5th way up with oil and bringing it to 350°F.","Fry the sheets of pasta until they are a solid golden brown, flipping so each side can cook.","Transfer to a towel to drain and repeat the process until the noodles are all fried up.","You can prepare these pasta sheets up to 6 hours before assembling.","In a bowl, nix together the ricotta cheese, basil, salt, and pepper.","Warm the sauce in a small pan over medium heat.","Preheat oven to 400 Degrees F.","In either individual baking dishes, or one large casserole dish, begin layering the lasagna with a few spoonfuls of the bolognese, a fried lasagna noodle, a few spoonfuls of the fresh ricotta, more of the bolognese sauce, a handful of shredded mozzarella, and top with a fried noodle.","Repeat this process until the desired number of layers are reached.","Spoon a little sauce on top of the final layer with some mozzarella.","Bake at 400°F for 10-12 minutes, or until the top is golden and cheese is bubbly.","Top the home made crispy lasagna with some fresh parmesan cheese, and a few basil leaves."]
+    "total_likes": 488
     },
-    {
-      "recipe_name": "CRISPY LASAGNA",
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_likes": 488,
-      "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-      " ingredients":{
-          "ing":  ["2 Packages (6 Sheets) Fresh Lasagna Noodles Cut Into 4-5 Inch Rectangles","Flavorless Oil For Frying (I use Canola Oil)"],
-          "Ricotta Layer":["1 1/2 Cups Whole Milk Ricotta Cheese","1/3 Cup Grated Pecorino Cheese","1 Tablespoon Finely Chopped Basil","Salt & Pepper To Taste","5 Cups Umbrian Ragu Or Your Favorite Bolognese Sauce)","1 1/2 Cups Shredded Whole Milk Mozzarella Cheese"],
-          "Topping":["Grated Parmesan Cheese","Fresh Basil Leaves"]
-        },
-        "cooking method":["Begin frying your pasta sheets by filling a large pan 1/5th way up with oil and bringing it to 350°F.","Fry the sheets of pasta until they are a solid golden brown, flipping so each side can cook.","Transfer to a towel to drain and repeat the process until the noodles are all fried up.","You can prepare these pasta sheets up to 6 hours before assembling.","In a bowl, nix together the ricotta cheese, basil, salt, and pepper.","Warm the sauce in a small pan over medium heat.","Preheat oven to 400 Degrees F.","In either individual baking dishes, or one large casserole dish, begin layering the lasagna with a few spoonfuls of the bolognese, a fried lasagna noodle, a few spoonfuls of the fresh ricotta, more of the bolognese sauce, a handful of shredded mozzarella, and top with a fried noodle.","Repeat this process until the desired number of layers are reached.","Spoon a little sauce on top of the final layer with some mozzarella.","Bake at 400°F for 10-12 minutes, or until the top is golden and cheese is bubbly.","Top the home made crispy lasagna with some fresh parmesan cheese, and a few basil leaves."]
-      },
-      {
-        "recipe_name": "CRISPY LASAGNA",
-        "rating": { "number": 4.5, "badge": "Excellent" },
-        "total_likes": 488,
-        "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-        " ingredients":{
-            "ing":  ["2 Packages (6 Sheets) Fresh Lasagna Noodles Cut Into 4-5 Inch Rectangles","Flavorless Oil For Frying (I use Canola Oil)"],
-            "Ricotta Layer":["1 1/2 Cups Whole Milk Ricotta Cheese","1/3 Cup Grated Pecorino Cheese","1 Tablespoon Finely Chopped Basil","Salt & Pepper To Taste","5 Cups Umbrian Ragu Or Your Favorite Bolognese Sauce)","1 1/2 Cups Shredded Whole Milk Mozzarella Cheese"],
-            "Topping":["Grated Parmesan Cheese","Fresh Basil Leaves"]
-          },
-          "cooking method":["Begin frying your pasta sheets by filling a large pan 1/5th way up with oil and bringing it to 350°F.","Fry the sheets of pasta until they are a solid golden brown, flipping so each side can cook.","Transfer to a towel to drain and repeat the process until the noodles are all fried up.","You can prepare these pasta sheets up to 6 hours before assembling.","In a bowl, nix together the ricotta cheese, basil, salt, and pepper.","Warm the sauce in a small pan over medium heat.","Preheat oven to 400 Degrees F.","In either individual baking dishes, or one large casserole dish, begin layering the lasagna with a few spoonfuls of the bolognese, a fried lasagna noodle, a few spoonfuls of the fresh ricotta, more of the bolognese sauce, a handful of shredded mozzarella, and top with a fried noodle.","Repeat this process until the desired number of layers are reached.","Spoon a little sauce on top of the final layer with some mozzarella.","Bake at 400°F for 10-12 minutes, or until the top is golden and cheese is bubbly.","Top the home made crispy lasagna with some fresh parmesan cheese, and a few basil leaves."]
-        },
-      {
-        "recipe_name": "CRISPY LASAGNA",
-        "rating": { "number": 4.5, "badge": "Excellent" },
-        "total_likes": 488,
-        "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-        " ingredients":{
-            "ing":  ["2 Packages (6 Sheets) Fresh Lasagna Noodles Cut Into 4-5 Inch Rectangles","Flavorless Oil For Frying (I use Canola Oil)"],
-            "Ricotta Layer":["1 1/2 Cups Whole Milk Ricotta Cheese","1/3 Cup Grated Pecorino Cheese","1 Tablespoon Finely Chopped Basil","Salt & Pepper To Taste","5 Cups Umbrian Ragu Or Your Favorite Bolognese Sauce)","1 1/2 Cups Shredded Whole Milk Mozzarella Cheese"],
-            "Topping":["Grated Parmesan Cheese","Fresh Basil Leaves"]
-          },
-          "cooking method":["Begin frying your pasta sheets by filling a large pan 1/5th way up with oil and bringing it to 350°F.","Fry the sheets of pasta until they are a solid golden brown, flipping so each side can cook.","Transfer to a towel to drain and repeat the process until the noodles are all fried up.","You can prepare these pasta sheets up to 6 hours before assembling.","In a bowl, nix together the ricotta cheese, basil, salt, and pepper.","Warm the sauce in a small pan over medium heat.","Preheat oven to 400 Degrees F.","In either individual baking dishes, or one large casserole dish, begin layering the lasagna with a few spoonfuls of the bolognese, a fried lasagna noodle, a few spoonfuls of the fresh ricotta, more of the bolognese sauce, a handful of shredded mozzarella, and top with a fried noodle.","Repeat this process until the desired number of layers are reached.","Spoon a little sauce on top of the final layer with some mozzarella.","Bake at 400°F for 10-12 minutes, or until the top is golden and cheese is bubbly.","Top the home made crispy lasagna with some fresh parmesan cheese, and a few basil leaves."]
-        }
+    {"recipe_id": 2,"_id": 2,"recipe_name": "Slow Cooker Tuscan Chicken",
+      "image_url": "https://www.allrecipes.com/thmb/YmDs8tjAz1VisZEJx5zgB6hhNVg=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Slow-Cooker-Tuscan-Chicken-4x3-1-f86a87652bd34f5aa585b505f8e3aff9.jpg",
+    " ingredients":[
+      "cooking spray",
+
+      "2.2 pounds boneless, skinless chicken thighs",
+      
+      "2 teaspoons dried Italian herb seasoning",
+      
+      "1 teaspoon crushed red pepper flakes",
+      
+      "1 teaspoon salt, or to taste",
+      
+      "1 teaspoon freshly ground black pepper",
+      
+      "1 cup chopped sun-dried tomatoes",
+      
+      "½ cup pitted and halved Castelvetrano olives",
+      
+      "¼ cup olive oil",
+      
+      "1 cup sliced onion",
+      
+      "8 cloves garlic, minced",
+      
+      "1 ½ cups heavy cream",
+      
+      "2 cups torn fresh spinach",
+      
+      "2 tablespoons cornstarch (Optional)",
+      
+      "2 tablespoons water (Optional)"
+    ],
+    "cooking method":[
+"Spray the interior of the slow cooker with cooking spray, or use a plastic liner.",
+
+"Place chicken thighs in the bottom of the slow cooker and sprinkle with Italian seasoning, red pepper flakes, salt, and black pepper.",
+
+"Evenly layer sun-dried tomatoes and sliced olives over the seasoned chicken.",
+
+"Heat olive oil in a saucepan over medium heat. Add onion to the hot oil and cook until onions begin to get tender, 3 to 4 minutes. Add garlic and cook until fragrant, about 1 minute.",
+
+"Using a slotted spoon, transfer onions to the slow cooker and spread evenly over the sun-dried tomatoes.",
+
+"Return the skillet to medium heat and add cream, stirring until all the olive oil is incorporated and the sauce begins to bubble. Pour cream sauce evenly over the onions.",
+
+"Cover slow cooker and cook on High for 3 to 4 hours or Low for 6 to 7 hours if you prefer a longer cook time.",
+
+"Remove cooked chicken and vegetables to a serving platter. Add torn spinach to the sauce and cook until wilted, 3 to 5 minutes. Remove spinach from sauce with a slotted spoon and place on top of the chicken and vegetables.",
+
+"The sauce will be a bit thin. If you like a thicker sauce, pour into a small saucepan over medium heat. Combine 2 tablespoons cornstarch and 2 tablespoons water in a small bowl. Stir until all the lumps are gone, to create a slurry. Add slurry to the sauce and cook over medium-high heat, stirring constantly, until bubbly and thickened, 5 to 7 minutes.",
+
+"Spoon sauce and spinach over the dish and serve warm."
+    ],
+    "rating": { "number": 4.2, "badge": "Excellent" },
+    "total_likes": 900
+    },
+    { "recipe_id": 3,"_id": 3,"recipe_name": "Beef Ragu",
+      "image_url": "https://www.allrecipes.com/thmb/fhjNdz9mtpzE6GazZCGC_8v8Fbg=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/beef-ragu-mfs-4x3-21-ffa2731b8afd4758a8021e023edacbb2.jpg",
+    " ingredients":[
+"2 tablespoons olive oil",
+
+"1 (2 pound) boneless beef chuck roast, cut into 2-inch cubes",
+
+"1 teaspoon ground black pepper",
+
+"3 teaspoons kosher salt, divided",
+
+"1 yellow onion, chopped",
+
+"6 cloves garlic, chopped",
+
+"2 tablespoons harissa (Optional)",
+
+"2 tablespoons tomato paste",
+
+"1 cup dry red wine",
+
+"1 (28 ounce) can crushed tomatoes",
+
+"1 bay leaf",
+
+"1 pound pappardelle pasta, cooked and drained",
+
+"grated Parmesan cheese, for serving"
+   ],
+    "cooking method":[
+      "Heat oil in a large Dutch oven over medium-high. Season chuck roast with pepper and 2 teaspoons salt. Sear meat until browned on every side, working in batches if necessary, about 10 minutes. Remove from Dutch oven and transfer to a large plate.",
+
+"Reduce heat to medium and stir in onion. Cook, stirring often, until softened, about 8 minutes. Add garlic and cook, stirring constantly, until fragrant, about 1 minute. Stir in harissa and tomato paste; cook, stirring constantly, until caramelized, about 2 minutes.",
+
+"Pour in wine and cook, scraping the bottom of the pot with a wooden spoon to loosen any browned bits, until reduced by two thirds, about 5 minutes. Stir in tomatoes, bay leaf, chuck roast, and remaining 1 teaspoon salt. Reduce heat to medium-low and cover. Cook, stirring occasionally, until meat is tender, sauce has thickened, and flavors meld, about 2 1/2 hours.",
+
+"Remove and discard bay leaf. Transfer meat from Dutch oven to a cutting board and shred using 2 forks. Return meat to pot and stir in pappardelle. Top with grated Parmesan cheese."
+    ],
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_likes": 488
+    },
+    {"recipe_id": 4,"_id": 4,"recipe_name": "Instant Pot Tuscan Bean and Sausage Soup",
+      "image_url": "https://www.allrecipes.com/thmb/2u5lPvbXhxajtr0Do59zOaJMYV8=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Instant-Pot-Tuscan-White-Bean-Sausage-Soup-1x1-1-d850076968ca4ad4b87e753da4ffd4f7.jpg",
+    " ingredients":[
+"2 tablespoons olive oil",
+
+"½ pound Italian-style chicken sausage, casings removed",
+
+"1 ½ cups diced onion",
+
+"2 cloves garlic, minced",
+
+"1 (15 ounce) can white kidney beans (cannellini), rinsed and drained",
+
+"1 teaspoon Italian seasoning",
+
+"1 (32 ounce) carton Swanson® Chicken Broth (4 cups)",
+
+"3 cups finely chopped kale leaves",
+
+"2 tablespoons grated Parmesan cheese"
+   ],
+    "cooking method":[
+      "On a 6-quart Instant Pot, select the Saute setting. Heat the oil. Add the sausage and cook for 10 minutes or until well browned, stirring often to separate meat. Press Cancel.",
+
+"Add the onion, garlic, beans, Italian seasoning, and Swanson Chicken Broth. Lock the lid and close the pressure release valve. Pressure cook on High pressure, setting the timer to 3 minutes (timer will begin counting down once pressure is reached- it takes about 10 minutes).",
+
+"When done, press Cancel and use the quick-release method to release the pressure.",
+
+"Stir in the kale and let stand for 5 minutes. Season to taste and sprinkle with the cheese."
+    ],
+    "rating": { "number": 4.1, "badge": "Excellent" },
+    "total_likes": 300
+    },
+    { "recipe_id": 5,"_id": 5,"recipe_name": "Gnocchi with Pomodoro Saucei",
+      "image_url": "https://www.allrecipes.com/thmb/ePcZEWAkiLh0HFBDuNNyPdXs66k=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Gnocchi-with-Pomodoro-Sauce-4x3-1-cbdd14bff3674378b7e097847fc24b1b.jpg",
+    " ingredients":[
+"¼ cup olive oil",
+
+"2 (12 ounce) packages refrigerated gnocchi",
+
+"3 cloves garlic, minced, or more to taste",
+
+"¼ teaspoon crushed red pepper flakes",
+
+"1 pinch salt",
+
+"1 pinch sugar",
+
+"1 (28 ounce) can whole Italian plum tomatoes (preferably San Marzano)",
+
+"8 ounces marinated mozzarella balls",
+
+"fresh parsley or basil (optional)"
+    ],
+    "cooking method":[
+      "Open marinated mozzarella balls and measure out 1/4 cup of the oil.",
+
+"Pour oil into a heavy skillet over medium-high heat. Cook gnocchi in batches in the hot oil until golden and heated through. Divide gnocchi evenly amongst 4 gratin dishes.",
+
+"Add garlic and red chili flakes to the oil in the same skillet. Cook until garlic is fragrant, about 30 seconds. Stir in salt and sugar. Pour in tomatoes. Use a wooden spoon to break up and crush the tomatoes.",
+
+"Bring sauce to a boil, reduce heat, cover and simmer tomatoes for 15 minutes.",
+
+"Set an oven rack about 6 inches from the heat source and preheat the oven's broiler.",
+
+"Taste sauce and adjust seasonings if desired. Spoon tomato sauce over the gnocchi. Top each dish with 3 marinated mozzarella balls and set on a baking sheet.",
+
+"Add baking sheet to oven and broil until mozzarella balls are melted and golden browned, 3 to 5 minutes. Garnish with parsley or basil if desired and serve"
+    ],
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_likes": 488
+    },
+    {"recipe_id": 6,"_id": 6,"recipe_name": "Gourmet Mushroom Risotto",
+      "image_url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fa58eb36ceeccaaeee3610ba56b174d20%2F1678674618573E96DC9E1-8147-4A97-B460-12221EFA90D2.jpeg&q=60&c=sc&orient=true&poi=auto&h=512",
+    " ingredients":[
+"6 cups chicken broth, or as needed",
+
+"3 tablespoons olive oil, divided",
+
+"1 pound portobello mushrooms, thinly sliced",
+
+"1 pound white mushrooms, thinly sliced",
+
+"2 medium shallots, diced",
+
+"1 ½ cups Arborio rice",
+
+"½ cup dry white wine",
+
+"4 tablespoons butter",
+
+"3 tablespoons finely chopped chives",
+
+"⅓ cup freshly grated Parmesan cheese",
+
+"sea salt and freshly ground black pepper to taste"
+    ],
+    "cooking method":[
+      
+      "Gather all ingredients.",
+
+    "a top down view of mushroom risotto ingredients.",
+    
+    "Warm broth in a saucepan over low heat.",
+    
+    "Meanwhile, warm 2 tablespoons olive oil in a large saucepan over medium-high heat. Add portobello and white mushrooms; cook and stir until soft, about 3 minutes. Remove mushrooms and their liquid to a bowl; set aside.",
+    
+    "a top down view of mushrooms sautéing in a skillet. ",
+    
+    "Add remaining 1 tablespoon olive oil to the saucepan. Stir in shallots and cook for 1 minute. Add rice; cook and stir until rice is coated with oil and pale, golden in color, about 2 minutes.",
+    
+    "shallots sautéing in a skillet. ",
+    
+    "rice and shallots in a skillet.",
+    
+    "Pour in wine, stirring constantly until wine is fully absorbed. Add 1/2 cup warm broth to the rice, and stir until the broth is absorbed.",
+    
+    "an overhead view of broth being slowly added to risotto rice in a skillet ",
+    
+    "an overhead view of broth being slowly added to risotto rice in a skillet ",
+    
+    "Continue adding broth, 1/2 cup at a time, stirring constantly, until the liquid is absorbed and the rice is tender, yet firm to the bite, about 15 to 20 minutes.",
+    
+    "a top down view of broth being added to risotto rice in a skillet",
+    
+    "a top down view of risotto rice absorbing broth and white wine",
+    
+    "Remove from heat. Stir in reserved mushrooms and their liquid, butter, chives, and Parmesan cheese.",
+    
+    "butter mushrooms, chives, and parmesan being added to risotto in a skillet.",
+    
+    "Season with salt and pepper and serve immediately."
+  ],
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_likes": 488
+    },
+    {"recipe_id": 7,"_id": 7,"recipe_name": "Homemade Spaghetti Sauce with Ground Beef",
+      "image_url": "https://imagesvc.meredithcorp.io/v3/jumpstartpure/image/?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F43%2F2022%2F09%2F23%2F6186102_Spaghetti-Sauce-with-Ground-Beef-2x1-1-2000.jpg&w=640&h=360&q=90&c=cc",
+    " ingredients":[
+"1 pound ground beef",
+
+"1 medium onion, chopped",
+
+"4 cloves garlic, minced",
+
+"1 small green bell pepper, diced",
+
+"1 (28 ounce) can diced tomatoes",
+
+"1 (16 ounce) can tomato sauce",
+
+"1 (6 ounce) can tomato paste",
+
+"2 teaspoons dried oregano",
+
+"2 teaspoons dried basil",
+
+"1 teaspoon salt",
+
+"½ teaspoon ground black pepper"
+    ],
+    "cooking method":[
+      "Gather all ingredients.",
+
+"Overhead of spaghetti sauce ingredients in various bowls. ",
+
+"Combine ground beef, onion, garlic, and green pepper in a large saucepan over medium-high heat. Cook and stir until meat is browned and crumbly and vegetables are tender, 5 to 7 minutes. Drain grease.",
+
+"Overhead of ground beef, garlic, onions, and peppers waiting to be cooked and mixed together in a skillet. ",
+
+"Overhead of ground beef, onions, garlic, and peppers cooking in a skillet. ",
+
+"Stir diced tomatoes, tomato sauce, and tomato paste into the pan. Season with oregano, basil, salt, and pepper. Simmer spaghetti sauce for 1 hour, stirring occasionally.",
+
+"Overhead of a spaghetti sauce being cooked and stirred in a skillet.",
+
+"Serve hot and enjoy!",
+
+"a close up view of a bowl of spaghetti topped with meat sauce, the pan of sauce is sitting in the background"
+    ],
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_likes": 488
+    },
+    {"recipe_id": 8,"_id": 8,"recipe_name": "World's Best Lasagna",
+      "image_url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Feaf2a87ca2376e9dca53110c86de9d30%2F168220321707920230226_165819.jpg&q=60&c=sc&orient=true&poi=auto&h=512",
+    " ingredients":[
+"1 pound sweet Italian sausage",
+
+"¾ pound lean ground beef",
+
+"½ cup minced onion",
+
+"2 cloves garlic, crushed",
+
+"1 (28 ounce) can crushed tomatoes",
+
+"2 (6.5 ounce) cans canned tomato sauce",
+
+"2 (6 ounce) cans tomato paste",
+
+"½ cup water",
+
+"2 tablespoons white sugar",
+
+"4 tablespoons chopped fresh parsley, divided",
+
+"1 ½ teaspoons dried basil leaves",
+
+"1 ½ teaspoons salt, divided, or to taste",
+
+"1 teaspoon Italian seasoning",
+
+"½ teaspoon fennel seeds",
+
+"¼ teaspoon ground black pepper",
+
+"12 lasagna noodles",
+
+"16 ounces ricotta cheese",
+
+"1 egg",
+
+"¾ pound mozzarella cheese, sliced",
+
+"¾ cup grated Parmesan cheese"
+   ],
+    "cooking method":[
+
+      "Cook sausage, ground beef, onion, and garlic in a Dutch oven over medium heat until well browned. Stir in crushed tomatoes, tomato sauce, tomato paste, and water. Season with sugar, 2 tablespoons parsley, basil, 1 teaspoon salt, Italian seasoning, fennel seeds, and pepper. Simmer, covered, for about 1 1/2 hours, stirring occasionally.",
+
+"Bring a large pot of lightly salted water to a boil. Cook lasagna noodles in boiling water for 8 to 10 minutes. Drain noodles, and rinse with cold water. In a mixing bowl, combine ricotta cheese with egg, remaining 2 tablespoons parsley, and 1/2 teaspoon salt.",
+
+"Preheat the oven to 375 degrees F (190 degrees C).",
+
+"To assemble, spread 1 1/2 cups of meat sauce in the bottom of a 9x13-inch baking dish. Arrange 6 noodles lengthwise over meat sauce. Spread with 1/2 of the ricotta cheese mixture. Top with 1/3 of the mozzarella cheese slices. Spoon 1 1/2 cups meat sauce over mozzarella, and sprinkle with 1/4 cup Parmesan cheese. Repeat layers, and top with remaining mozzarella and Parmesan cheese. Cover with foil: to prevent sticking, either spray foil with cooking spray or make sure the foil does not touch the cheese.",
+
+"Bake in the preheated oven for 25 minutes. Remove the foil and bake for an additional 25 minutes. Rest lasagna for 15 minutes before serving."
+    ],
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_likes": 488
+    }
       ]
 },
   {
-  
-
   "chef_id": 2,
   "chef_Details":{
-    "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-    "chef_name": "CRISPY LASAGNA",
+    "image_url": "https://iili.io/HSTD7Uv.jpg",
+    "chef_name": "Fabio Viviani",
     "total_likes": 488,
-    "bio_data":"Grated Parmesan Cheese Fresh Basil Leaves",
-    "recipes_name":["pasta","Nod"],
-      "experience":"Begin frying your pasta sheets by filling a large pan 1/ore assembling. cheese, and a few basil leaves."
+    "bio_data":"Chef Fabio Viviani has an energy for food ingredients since he experienced childhood in Florence, Italy.  He is at third no. among top 10 chefs in Italy. Between his preparation in Italian and Mediterranean food at IPSSAR Saffi and working with culinary illuminators, for example, Alessandro Panzani and Saverio Carmagini, Viviani possessed and worked five restaurants in Florence, a homestead house, and two dance club when he was 27. Viviani moved to Ventura County, CA, where he opened Café Firenze in Moorpark, CA. His changed achievements have inspired many, bringing about his enlistment into the Chicago Culinary Museum and Chefs Hall of Fame as 2017 Chef of the Year on March 8, 2017. Following Viviani’s introduction, the chairman of Chicago additionally announced March 8, 2017 to be Chef Fabio Viviani Day in Chicago, urging Chicagoans to perceive his accomplishments and commitments to his home city of Chicago, as well as to the country’s culinary scene as Top Italian chefs.",
+    "recipes_name":["Chicken Marsala","Tiramisu","Homemade Sweet Italian Sausage(Mild or Hot)","Easy Italia Chicken","Their Uses","Onions, and Potato Bake","Balsamic Glaze","Pesto Pasta with Chicken"],
+    "experience":[
+      "Fabio Viviani is an Italian-born chef and restaurateur, known for his appearances on various cooking shows and his successful culinary ventures. Here are some of his notable work experiences:",
+    "Early Career: Viviani began his culinary career at the age of 11, working in his family's restaurant in Florence, Italy. He later trained at several Michelin-starred restaurants in Italy.",
+
+    "Top Chef: Viviani gained widespread recognition after appearing on the fifth season of Bravo's Top Chef in 2008. He was a fan favorite and ultimately finished in fourth place.",
+    
+    "Restaurants: Viviani has since opened several successful restaurants in the United States, including Siena Tavern in Chicago, IL and San Diego, CA, and Osteria in Los Angeles, CA.",
+    
+    "Cookbook Author: Viviani has authored several cookbooks, including Fabio's Italian Kitchen and Fabio's 30-Minute Italian.",
+    
+    "TV Appearances: In addition to Top Chef, Viviani has appeared on numerous other cooking shows, including Cutthroat Kitchen, Rachael Ray, and Good Morning America.",
+    
+    "Business Ventures: Viviani has also launched several business ventures, including a line of cookware and a wine club.",
+    
+    "Philanthropy: Viviani is actively involved in charitable work and has supported various organizations, including Alex's Lemonade Stand Foundation and the American Red Cross."]
     },
-  "recipes":[
-    {
-    "recipe_name": "CRISPY LASAGNA",
-    "rating": { "number": 4.5, "badge": "Excellent" },
-    "total_likes": 488,
-    "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-    " ingredients":{
-        "ing":  ["2 Packages (6 Sheets) Fresh Lasagna Noodles Cut Into 4-5 Inch Rectangles","Flavorless Oil For Frying (I use Canola Oil)"],
-        "Ricotta Layer":["1 1/2 Cups Whole Milk Ricotta Cheese","1/3 Cup Grated Pecorino Cheese","1 Tablespoon Finely Chopped Basil","Salt & Pepper To Taste","5 Cups Umbrian Ragu Or Your Favorite Bolognese Sauce)","1 1/2 Cups Shredded Whole Milk Mozzarella Cheese"],
-        "Topping":["Grated Parmesan Cheese","Fresh Basil Leaves"]
-      },
-      "cooking method":["Begin frying your pasta sheets by filling a large pan 1/5th way up with oil and bringing it to 350°F.","Fry the sheets of pasta until they are a solid golden brown, flipping so each side can cook.","Transfer to a towel to drain and repeat the process until the noodles are all fried up.","You can prepare these pasta sheets up to 6 hours before assembling.","In a bowl, nix together the ricotta cheese, basil, salt, and pepper.","Warm the sauce in a small pan over medium heat.","Preheat oven to 400 Degrees F.","In either individual baking dishes, or one large casserole dish, begin layering the lasagna with a few spoonfuls of the bolognese, a fried lasagna noodle, a few spoonfuls of the fresh ricotta, more of the bolognese sauce, a handful of shredded mozzarella, and top with a fried noodle.","Repeat this process until the desired number of layers are reached.","Spoon a little sauce on top of the final layer with some mozzarella.","Bake at 400°F for 10-12 minutes, or until the top is golden and cheese is bubbly.","Top the home made crispy lasagna with some fresh parmesan cheese, and a few basil leaves."]
-    },
-    {
-      "recipe_name": "CRISPY LASAGNA",
+    "recipes":[
+      {"recipe_id": 9, "_id": 1, "recipe_name": "Balsamic Bruschetta",
+        "image_url": "https://www.allrecipes.com/thmb/K-s9_0yvZbxQu6hzqvgCx1pb2Vw=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/54165-balsamic-bruschetta-DDMFS-4x3-e2b55b5ca39b4c1783e524a2461634ea.jpg",
+      " ingredients":["1 loaf French bread, cut into 1/4-inch slices",
+      "1 tablespoon extra-virgin olive oil",
+
+      "8 roma (plum) tomatoes, diced",
+      
+      "⅓ cup chopped fresh basil",
+
+      "1 tablespoon coffee liqueur",
+    
+      "½ teaspoon kosher salt",
+      
+      "1 ounce Parmesan cheese, freshly grated",
+      
+      "2 cloves garlic, minced",
+    
+      "1 tablespoon good quality balsamic vinegar",
+
+      "2 teaspoons extra-virgin olive oil",
+
+      "¼ teaspoon kosher salt",
+      
+      "¼ teaspoon freshly ground black pepper"
+    ],
+      "cooking method":[
+        "Gather all ingredients.",
+
+        "Overhead of Bruschetta ingredients in various bowls and containers. ",
+        
+        "Preheat oven to 400 degrees F (200 degrees C).",
+        
+        "Brush bread slices on both sides lightly with 1 tablespoon oil and place on large baking sheet. Toast bread until golden, 5 to 10 minutes, turning halfway through.",
+        
+        "Meanwhile, toss together tomatoes, basil, Parmesan cheese, and garlic in a bowl.",
+        
+        "Overhead of chopped tomatoes, basil, Parmesan cheese, and garlic unmixed in a glass bowl.",
+        
+        "Mix in balsamic vinegar, 2 teaspoons olive oil, kosher salt, and pepper.",
+        
+        "Overhead of Bruschetta mixture with added balsamic vinegar, olive oil, kosher salt, and pepper in a glass bowl. ",
+        
+        "Spoon tomato mixture onto toasted bread slices.",
+        
+        "Overhead of Bruschetta mixture being spooned on to baked slices of bread. ",
+        
+        "Serve immediately and enjoy"
+      ],
       "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_likes": 488,
-      "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-      " ingredients":{
-          "ing":  ["2 Packages (6 Sheets) Fresh Lasagna Noodles Cut Into 4-5 Inch Rectangles","Flavorless Oil For Frying (I use Canola Oil)"],
-          "Ricotta Layer":["1 1/2 Cups Whole Milk Ricotta Cheese","1/3 Cup Grated Pecorino Cheese","1 Tablespoon Finely Chopped Basil","Salt & Pepper To Taste","5 Cups Umbrian Ragu Or Your Favorite Bolognese Sauce)","1 1/2 Cups Shredded Whole Milk Mozzarella Cheese"],
-          "Topping":["Grated Parmesan Cheese","Fresh Basil Leaves"]
-        },
-        "cooking method":["Begin frying your pasta sheets by filling a large pan 1/5th way up with oil and bringing it to 350°F.","Fry the sheets of pasta until they are a solid golden brown, flipping so each side can cook.","Transfer to a towel to drain and repeat the process until the noodles are all fried up.","You can prepare these pasta sheets up to 6 hours before assembling.","In a bowl, nix together the ricotta cheese, basil, salt, and pepper.","Warm the sauce in a small pan over medium heat.","Preheat oven to 400 Degrees F.","In either individual baking dishes, or one large casserole dish, begin layering the lasagna with a few spoonfuls of the bolognese, a fried lasagna noodle, a few spoonfuls of the fresh ricotta, more of the bolognese sauce, a handful of shredded mozzarella, and top with a fried noodle.","Repeat this process until the desired number of layers are reached.","Spoon a little sauce on top of the final layer with some mozzarella.","Bake at 400°F for 10-12 minutes, or until the top is golden and cheese is bubbly.","Top the home made crispy lasagna with some fresh parmesan cheese, and a few basil leaves."]
+      "total_likes": 488
       },
-      {
-        "recipe_name": "CRISPY LASAGNA",
-        "rating": { "number": 4.5, "badge": "Excellent" },
-        "total_likes": 488,
-        "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-        " ingredients":{
-            "ing":  ["2 Packages (6 Sheets) Fresh Lasagna Noodles Cut Into 4-5 Inch Rectangles","Flavorless Oil For Frying (I use Canola Oil)"],
-            "Ricotta Layer":["1 1/2 Cups Whole Milk Ricotta Cheese","1/3 Cup Grated Pecorino Cheese","1 Tablespoon Finely Chopped Basil","Salt & Pepper To Taste","5 Cups Umbrian Ragu Or Your Favorite Bolognese Sauce)","1 1/2 Cups Shredded Whole Milk Mozzarella Cheese"],
-            "Topping":["Grated Parmesan Cheese","Fresh Basil Leaves"]
-          },
-          "cooking method":["Begin frying your pasta sheets by filling a large pan 1/5th way up with oil and bringing it to 350°F.","Fry the sheets of pasta until they are a solid golden brown, flipping so each side can cook.","Transfer to a towel to drain and repeat the process until the noodles are all fried up.","You can prepare these pasta sheets up to 6 hours before assembling.","In a bowl, nix together the ricotta cheese, basil, salt, and pepper.","Warm the sauce in a small pan over medium heat.","Preheat oven to 400 Degrees F.","In either individual baking dishes, or one large casserole dish, begin layering the lasagna with a few spoonfuls of the bolognese, a fried lasagna noodle, a few spoonfuls of the fresh ricotta, more of the bolognese sauce, a handful of shredded mozzarella, and top with a fried noodle.","Repeat this process until the desired number of layers are reached.","Spoon a little sauce on top of the final layer with some mozzarella.","Bake at 400°F for 10-12 minutes, or until the top is golden and cheese is bubbly.","Top the home made crispy lasagna with some fresh parmesan cheese, and a few basil leaves."]
-        },
-      {
-        "recipe_name": "CRISPY LASAGNA",
-        "rating": { "number": 4.5, "badge": "Excellent" },
-        "total_likes": 488,
-        "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-        " ingredients":{
-            "ing":  ["2 Packages (6 Sheets) Fresh Lasagna Noodles Cut Into 4-5 Inch Rectangles","Flavorless Oil For Frying (I use Canola Oil)"],
-            "Ricotta Layer":["1 1/2 Cups Whole Milk Ricotta Cheese","1/3 Cup Grated Pecorino Cheese","1 Tablespoon Finely Chopped Basil","Salt & Pepper To Taste","5 Cups Umbrian Ragu Or Your Favorite Bolognese Sauce)","1 1/2 Cups Shredded Whole Milk Mozzarella Cheese"],
-            "Topping":["Grated Parmesan Cheese","Fresh Basil Leaves"]
-          },
-          "cooking method":["Begin frying your pasta sheets by filling a large pan 1/5th way up with oil and bringing it to 350°F.","Fry the sheets of pasta until they are a solid golden brown, flipping so each side can cook.","Transfer to a towel to drain and repeat the process until the noodles are all fried up.","You can prepare these pasta sheets up to 6 hours before assembling.","In a bowl, nix together the ricotta cheese, basil, salt, and pepper.","Warm the sauce in a small pan over medium heat.","Preheat oven to 400 Degrees F.","In either individual baking dishes, or one large casserole dish, begin layering the lasagna with a few spoonfuls of the bolognese, a fried lasagna noodle, a few spoonfuls of the fresh ricotta, more of the bolognese sauce, a handful of shredded mozzarella, and top with a fried noodle.","Repeat this process until the desired number of layers are reached.","Spoon a little sauce on top of the final layer with some mozzarella.","Bake at 400°F for 10-12 minutes, or until the top is golden and cheese is bubbly.","Top the home made crispy lasagna with some fresh parmesan cheese, and a few basil leaves."]
-        }
-      ]
+      {"recipe_id": 10, "_id": 2, "recipe_name": "Spaghetti Aglio e Olio",
+        "image_url": "https://www.allrecipes.com/thmb/dwTTnZJyPBZUQ00bvmzvmuQ-sao=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/8962968_original-Tammy-2000-ce9b060431df4d3cb3b73b760b970bcc.jpg",
+      " ingredients":[
+        "1 pound uncooked spaghetti",
+
+        "½ cup olive oil",
+        
+        "6 cloves garlic, thinly sliced",
+        
+        "¼ teaspoon red pepper flakes, or to taste",
+        
+        "salt and freshly ground black pepper to taste",
+        
+        "¼ cup chopped fresh Italian parsley",
+        
+        "1 cup finely grated Parmigiano-Reggiano cheese"
+      ],
+      "cooking method":[
+        "Bring a large pot of lightly salted water to a boil. Cook spaghetti in the boiling water, stirring occasionally until cooked through but firm to the bite, about 10 to 12 minutes. Drain and transfer to a pasta bowl.",
+
+        "While the pasta is cooking, combine olive oil and garlic in a cold skillet. Cook over medium heat to slowly toast garlic, about 10 minutes. Reduce heat to medium-low when olive oil begins to bubble. Cook and stir until garlic is golden brown, about another 5 minutes. Remove from heat.",
+        
+        "Stir red pepper flakes, salt, and black pepper into pasta. Pour in hot olive oil and garlic, and sprinkle on Italian parsley and half of the Parmigiano-Reggiano cheese; toss until combined.",
+        
+        "Serve pasta topped with the remaining Parmigiano-Reggiano cheese."
+      ],
+      "rating": { "number": 4.2, "badge": "Excellent" },
+      "total_likes": 900
+      },
+      { "recipe_id": 11, "_id": 3, "recipe_name": "Chicken Parmesan",
+        "image_url": "https://www.allrecipes.com/thmb/7po6qDnWblOQJf9RMUT0WRoPPKM=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/223042-Chicken-Parmesan-mfs_003-915dc0e0523e4a0cacaef7821dcd1e63.jpg",
+      " ingredients":[
+        "4 skinless, boneless chicken breast halves",
+
+        "salt and freshly ground black pepper to taste",
+        
+        "2 large eggs",
+        
+        "1 cup panko bread crumbs, or more as needed",
+        
+        "¾ cup grated Parmesan cheese, divided",
+        
+        "2 tablespoons all-purpose flour, or more if needed",
+        
+        "½ cup olive oil for frying, or as needed",
+        
+        "½ cup prepared tomato sauce",
+        
+        "¼ cup fresh mozzarella, cut into small cubes",
+        
+        "¼ cup chopped fresh basil",
+        
+        "½ cup grated provolone cheese",
+        
+        "2 teaspoons olive oil"
+     ],
+      "cooking method":[
+        "Preheat an oven to 450 degrees F (230 degrees C).",
+
+"Place chicken breasts between two sheets of heavy plastic (resealable freezer bags work well) on a solid, level surface. Firmly pound chicken with the smooth side of a meat mallet to a thickness of 1/2-inch.",
+
+"two raw chicken breasts sandwiched between to pieces of plastic wrap",
+
+"two raw chicken breasts being pounded with a mallet",
+
+"Season chicken thoroughly with salt and pepper. Using a sifter or strainer; sprinkle flour over chicken breasts, evenly coating both sides",
+
+"Chicken breasts pounded to 1/2 inch thickness, seasoned with salt and pepper and coated in flour",
+
+"Beat eggs in a shallow bowl and set aside.",
+
+"Mix bread crumbs and 1/2 cup Parmesan cheese in a separate bowl, set aside.",
+
+"Dip a flour-coated chicken breast in beaten eggs. Transfer breast to the bread crumb mixture, pressing crumbs into both sides. Repeat for each breast. Let chicken rest for 10 to 15 minutes.",
+
+" chicken breast being dipped in egg mixture",
+
+"Chicken breast being dredged in bread crumb and parmesan mixture",
+
+"Heat 1/2 inch olive oil in a large skillet on medium-high heat until it begins to shimmer. Cook chicken in the hot oil until golden, about 2 minutes per side. The chicken will finish cooking in the oven.",
+
+"Chicken breast frying in hot oil in a skillet",
+
+"golden brown chicken breast frying in a skillet of oil",
+
+"Transfer chicken to a baking dish. Top each breast with 2 tablespoons tomato sauce. Layer each chicken breast with equal amounts of mozzarella cheese, fresh basil, and provolone cheese. Sprinkle remaining Parmesan over top and drizzle each with 1/2 teaspoon olive oil.",
+
+"fried chicken breasts topped with marinara, fresh basil, and fresh mozzarella",
+
+"fried chicken breasts topped with marinara, fresh basil, mozzarella, and shredded parmesan.",
+
+"Bake in the preheated oven until cheese is browned and bubbly and chicken breasts are no longer pink in the center, 15 to 20 minutes. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C)."
+     ],
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_likes": 488
+      },
+      {"recipe_id": 12,"_id": 4,"recipe_name": "Polenta",
+        "image_url": "https://www.allrecipes.com/thmb/xTgEQWFiKs9tq4piQg3sx4w-IN4=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/How-to-Make-Perfect-Polenta-b03f3f95ec114fe78259a782561b1979.jpg",
+      " ingredients":[
+        "4 cups water",
+
+        "1 teaspoon fine salt",
+        
+        "1 cup polenta",
+        
+        "3 tablespoons butter, divided",
+      
+        "½ cup freshly grated Parmigiano-Reggiano cheese, plus more for garnish"
+     ],
+      "cooking method":[
+"Bring water and salt to a boil in a large saucepan; pour polenta slowly into boiling water, whisking constantly until there are no lumps.",
+
+"Reduce heat to low and simmer, whisking often, until polenta starts to thicken, about 5 minutes. Polenta mixture should still be slightly loose. Cover and cook for 30 minutes, whisking every 5 to 6 minutes. When polenta is too thick to whisk, stir with a wooden spoon. Polenta is done when texture is creamy and the individual grains are tender.",
+
+"Turn off heat and gently stir 2 tablespoons butter into polenta until butter partially melts; mix 1/2 cup Parmigiano-Reggiano cheese into polenta until cheese has melted. Cover and let stand for 5 minutes to thicken.",
+
+"Stir polenta and transfer to a serving bowl. Top polenta with remaining 1 tablespoon butter and about 1 tablespoon freshly grated Parmigiano-Reggiano cheese for garnish."
+      ],
+      "rating": { "number": 4.1, "badge": "Excellent" },
+      "total_likes": 300
+      },
+      { "recipe_id": 13,"_id": 5,"recipe_name": "Pan-Fried Asparagusi",
+        "image_url": "https://www.allrecipes.com/thmb/UxWDhUvc__dV8h6IeUmGyHiun8g=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/214328-ad0dbeb2fb14481295e83ef4c326c779.jpg",
+      " ingredients":[
+        "¼ cup butter",
+       "2 tablespoons olive oil",
+      
+        "1 teaspoon coarse salt",
+      
+        "¼ teaspoon ground black pepper",
+      
+        "3 cloves garlic, minced",
+      
+        "1 pound fresh asparagus spears, trimmed"
+      ],
+      "cooking method":[
+        "Melt butter in a skillet over medium-high heat. Add olive oil, salt, and pepper; cook and stir until garlic is fragrant, about 30 seconds.",
+
+       "Add asparagus and cook until fork-tender, turning asparagus often to ensure even cooking, about 10 minutes."
+ 
+      ],
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_likes": 488
+      },
+      {"recipe_id": 14, "_id": 6,"recipe_name": "Pasta Salad",
+        "image_url": "https://www.allrecipes.com/thmb/1_ts__qPQ68QuzUO7Mlo4hBpq8A=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/14385-pasta-salad-DDMFS-4x3-28eb5dbe00624780b36cabfef15ca183.jpg",
+      " ingredients":[
+        "1 pound tri-colored spiral pasta",
+
+        "1 (16 ounce) bottle Italian-style salad dressing",
+      
+        "6 tablespoons salad seasoning mix",
+      
+        "2 cups cherry tomatoes, diced",
+      
+        "1 green bell pepper, chopped",
+      
+        "1 red bell pepper, diced",
+      
+        "½ yellow bell pepper, chopped",
+      
+        "1 (2.25 ounce) can black olives, chopped"
+      ],
+      "cooking method":[
+        
+"Gather all ingredients.",
+
+"All gathered ingredients.",
+
+"Bring a large pot of lightly salted water to a boil. Cook pasta in the boiling water, stirring occasionally, until tender yet firm to the bite, about 10 to 12 minutes; rinse under cold water and drain.",
+
+"Whisk Italian dressing and salad spice mix together until smooth. Combine pasta, tomatoes, bell peppers, and olives in a salad bowl.",
+
+"All ingredients and cooked pasta into a bowl.",
+
+"Pour dressing over salad and toss to coat.",
+
+"Pour dressing over salad and toss to coat. ",
+
+"Refrigerate salad, 8 hours to overnight.",
+
+"an overhead view of pasta salad mixed together. ",
+
+"Enjoy!"
+
+
+    ],
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_likes": 488
+      },
+      {"recipe_id": 15,"_id": 7, "recipe_name": "Chef John's Italian Meatballs",
+        "image_url": "https://www.allrecipes.com/thmb/WTy_c2_lrRInz7XJLtaIKYOZejs=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/220854-chef-johns-italian-meatballs-happy-schmoopies-1x1-1-51cf5d9342c8496486a5a7941cccf5cf.jpg",
+      " ingredients":[
+        "⅓ cup plain bread crumbs",
+
+        "½ cup milk",
+        
+        "2 tablespoons olive oil",
+        
+        "1 onion, diced",
+        
+        "1 pound ground beef",
+        
+        "1 pound ground pork",
+        
+        "2 eggs",
+        
+        "2 tablespoons grated Parmesan cheese",
+        
+        "¼ bunch fresh parsley, chopped",
+        
+        "3 cloves garlic, crushed",
+        
+        "2 teaspoons salt",
+        
+        "1 teaspoon ground black pepper",
+        
+        "1 teaspoon dried Italian herb seasoning",
+        
+        "½ teaspoon red pepper flakes",
+  "½ teaspoon ground black pepper"
+      ],
+      "cooking method":[
+        "Cover a baking sheet with foil and spray lightly with cooking spray. Soak bread crumbs in milk in a small bowl for 20 minutes",
+
+        "Meanwhile, heat olive oil in a skillet over medium heat. Add onion; cook and stir until onion has softened and turned translucent, about 5 minutes. Reduce heat to low and continue cooking and stirring untilonion is very tender, about 15 minutes more.",
+      
+        "Gently stir beef and pork together in a large bowl. Add onions, bread crumb mixture, eggs, Parmesan cheese, parsley, garlic, salt, black pepper, Italian herb seasoning, and red pepper flakes; mix together usinga rubber spatula until combined. Cover and refrigerate for about one hour.",
+      
+        "Preheat the oven to 425 degrees F (220 degrees C)",
+      
+        "Form mixture into balls about 1 1/2 inches in diameter; arrange in a single layer on the prepared baking sheet",
+      
+        "Bake in the preheated oven until browned and cooked through, 15 to 20 minutes"],
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_likes": 488
+      },
+      {"recipe_id": 16,"_id": 8,"recipe_name": "Pesto Pasta",
+        "image_url": "https://www.allrecipes.com/thmb/gOKkk9TQE48cksOfDrd8_Bk-Crs=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/11887_pesto-pasta_Rita-1x1-1-501c953b29074ab193e2b5ad36e64648.jpg",
+      " ingredients":[
+        "1 (16 ounce) package pasta",
+
+        "2 tablespoons olive oil",
+        
+        "½ cup chopped onion",
+        
+        "2 ½ tablespoons pesto",
+        
+        "salt to taste",
+        
+        "ground black pepper to taste",
+        
+        "2 tablespoons grated Parmesan cheese"
+     ],
+      "cooking method":[
+  
+        "Fill a large pot with lightly salted water and bring to a rolling boil. Stir in pasta and return to a boil. Cook pasta uncovered, stirring occasionally, until tender yet firm to the bite, about 8 to 10 minutes. Drain and transfer into a large bowl.",
+  
+  "Meanwhile, heat oil in a frying pan over medium-low heat. Add onion; cook and stir until softened, about 3 minutes. Stir in pesto, salt, and pepper until warmed through. ",
+  
+  "Add pesto mixture to hot pasta; stir in grated cheese and toss well to coat."
+      ],
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_likes": 488
+      }
+        ]
 },
   {
 
   "chef_id": 3,
   "chef_Details":{
-    "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-    "chef_name": "CRISPY LASAGNA",
+    "image_url": "https://freeimage.host/i/giorgio-locate.HScEw8J",
+    "chef_name": "Gennaro Contaldo",
     "total_likes": 488,
-    "bio_data":"Grated Parmesan Cheese Fresh Basil Leaves",
-    "recipes_name":["pasta","Nod"],
-      "experience":"Begin frying your pasta sheets by filling a large pan 1/ore assembling. cheese, and a few basil leaves."
+    "bio_data":"Gennaro Contaldo is known as the Italian legend who showed Jamie Oliver all he thinks about Italian cooking He is one of the UK's best-cherished chefs, and being writer of twelve top rated Italian formula books. Gennaro stood fourth among top 10 chefs in Italy.Gennaro is at present in Jamie Oliver's very well-known eatery network, Jamie's Italian, which has more than 60 branches universally. At the point when he's not composing and instructing, he invests energy unwinding and cooking with his family at their bungalow in Norfolk and scouring Italy for new pleasures to impart to his perusers. Gennaro makes formulas in association with Bertolli with Butter and Italian occasion organization Citalia, advancing the best of Italian sustenance and go to his darling Italy. ",
+    "recipes_name":["Biscotti","Garlic Butter Sauce","Italian Wedding Cookies","Caprese Salad with Balsamic Reduction","White Cheese Chicken Lasagna","Italian Seasoning","Hearty Vegetable Lasagna","Easy Slow Cooker Meatballs"],
+    "experience":[
+      "Gennaro Contaldo is an Italian chef and restaurateur who is known for his expertise in Italian cuisine. Here are some of his notable work experiences:",
+      "Early Career: Contaldo began his culinary career at the age of 8, working in his family's bakery in the Amalfi coast of Italy. Later on, he trained as a chef in the Italian navy.",
+
+    "Restaurateur: Contaldo has opened several successful restaurants in the UK, including Passione in London and the Jamie's Italian chain of restaurants in collaboration with Jamie Oliver.",
+    
+    "TV Appearances: Contaldo has made many appearances on TV cooking shows, including Two Greedy Italians, Saturday Kitchen, and Sunday Brunch.",
+    
+    "Cookbook Author: Contaldo has authored several cookbooks, including Gennaro's Italian Year, Gennaro's Passione, and Jamie's Italy.",
+    
+    "Mentor to Jamie Oliver: Contaldo has been a mentor to Jamie Oliver since the two worked together at Antonio Carluccio's Neal Street Restaurant in London.",
+    
+    "Culinary Education: Contaldo has also worked as a culinary instructor at various institutions, including the Jamie Oliver's Fifteen Foundation.",
+    
+    "Awards: Contaldo has received numerous awards throughout his career, including the AA Lifetime Achievement Award in 2017 and the Guinness World Record for the largest bowl of pasta in 2017."]
     },
-  "recipes":[
-    {
-    "recipe_name": "CRISPY LASAGNA",
-    "rating": { "number": 4.5, "badge": "Excellent" },
-    "total_likes": 488,
-    "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-    " ingredients":{
-        "ing":  ["2 Packages (6 Sheets) Fresh Lasagna Noodles Cut Into 4-5 Inch Rectangles","Flavorless Oil For Frying (I use Canola Oil)"],
-        "Ricotta Layer":["1 1/2 Cups Whole Milk Ricotta Cheese","1/3 Cup Grated Pecorino Cheese","1 Tablespoon Finely Chopped Basil","Salt & Pepper To Taste","5 Cups Umbrian Ragu Or Your Favorite Bolognese Sauce)","1 1/2 Cups Shredded Whole Milk Mozzarella Cheese"],
-        "Topping":["Grated Parmesan Cheese","Fresh Basil Leaves"]
-      },
-      "cooking method":["Begin frying your pasta sheets by filling a large pan 1/5th way up with oil and bringing it to 350°F.","Fry the sheets of pasta until they are a solid golden brown, flipping so each side can cook.","Transfer to a towel to drain and repeat the process until the noodles are all fried up.","You can prepare these pasta sheets up to 6 hours before assembling.","In a bowl, nix together the ricotta cheese, basil, salt, and pepper.","Warm the sauce in a small pan over medium heat.","Preheat oven to 400 Degrees F.","In either individual baking dishes, or one large casserole dish, begin layering the lasagna with a few spoonfuls of the bolognese, a fried lasagna noodle, a few spoonfuls of the fresh ricotta, more of the bolognese sauce, a handful of shredded mozzarella, and top with a fried noodle.","Repeat this process until the desired number of layers are reached.","Spoon a little sauce on top of the final layer with some mozzarella.","Bake at 400°F for 10-12 minutes, or until the top is golden and cheese is bubbly.","Top the home made crispy lasagna with some fresh parmesan cheese, and a few basil leaves."]
-    },
-    {
-      "recipe_name": "CRISPY LASAGNA",
+    "recipes":[
+      {"recipe_id": 17, "_id": 1,"recipe_name": "Shrimp Scampi with Pasta",
+        "image_url": "https://www.allrecipes.com/thmb/DjLmrEQ2rT9t6ePsnR34OuApg30=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/229960-shrimp-scampi-with-pasta-DDMFS-4x3-e065ddef4e6d44479d37b4523808cc23.jpg",
+      " ingredients":[
+"1 (16 ounce) package linguine pasta",
+
+"2 tablespoons butter",
+
+"2 tablespoons extra-virgin olive oil",
+
+"2 shallots, finely diced",
+
+"2 cloves garlic, minced",
+
+"1 pinch red pepper flakes (Optional)",
+
+"1 pound shrimp, peeled and deveined",
+
+"1 pinch kosher salt and freshly ground pepper",
+
+"½ cup dry white wine",
+
+"1 lemon, juiced",
+
+"2 tablespoons butter",
+
+"2 tablespoons extra-virgin olive oil",
+
+"¼ cup finely chopped fresh parsley leaves",
+
+"1 teaspoon extra-virgin olive oil, or to taste"
+    
+    ],
+      "cooking method":[
+  
+        "Gather ingredients.",
+
+      "Overhead view of all ingredients in various bowls and cups",
+        "Bring a large pot of salted water to a boil; cook linguine in boiling water until nearly tender, 6 to 8 minutes. Drain.",
+        
+        "dry spaghetti pasta in a large pot with boiling water",
+        "Melt 2 tablespoons butter with 2 tablespoons olive oil in a large skillet over medium heat.",
+        
+        "pan cooking small cubes of butter that are melting with 3 other minced ingredients in bowls on the side",
+        "Cook and stir shallots, garlic, and red pepper flakes in the hot butter and oil until shallots are translucent, 3 to 4 minutes.",
+        
+        "hand with tongs stirring melted butter and minced ingredients in a pan",
+       
+      "Season shrimp with kosher salt and black pepper; add to the skillet and cook until pink, stirring occasionally, 2 to 3 minutes. Remove shrimp from skillet and keep warm.",
+        
+        "View from above of a pan with butter and minced ingredients and peeled shrimp",
+        "Pour white wine and lemon juice into skillet and bring to a boil while scraping the browned bits of food off of the bottom of the skillet with a wooden spoon.",
+        
+        "hand adding a measuring cup of white wine into the pan to deglaze",
+        "Melt 2 tablespoons butter in skillet, stir 2 tablespoons olive oil into butter mixture, and bring to a simmer.",
+        
+        "Hand adding a bowl of oil into a pan with deglaze mixture and melting butter",
+       
+      "Toss linguine, shrimp, and parsley in the butter mixture until coated; season with salt and black pepper. Drizzle with 1 teaspoon olive oil to serve.",
+        
+        "hand with tongs mixing spaghetti, shrimp, and herbs in a pan",
+        "Serve hot and enjoy!"
+  ],
       "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_likes": 488,
-      "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-      " ingredients":{
-          "ing":  ["2 Packages (6 Sheets) Fresh Lasagna Noodles Cut Into 4-5 Inch Rectangles","Flavorless Oil For Frying (I use Canola Oil)"],
-          "Ricotta Layer":["1 1/2 Cups Whole Milk Ricotta Cheese","1/3 Cup Grated Pecorino Cheese","1 Tablespoon Finely Chopped Basil","Salt & Pepper To Taste","5 Cups Umbrian Ragu Or Your Favorite Bolognese Sauce)","1 1/2 Cups Shredded Whole Milk Mozzarella Cheese"],
-          "Topping":["Grated Parmesan Cheese","Fresh Basil Leaves"]
-        },
-        "cooking method":["Begin frying your pasta sheets by filling a large pan 1/5th way up with oil and bringing it to 350°F.","Fry the sheets of pasta until they are a solid golden brown, flipping so each side can cook.","Transfer to a towel to drain and repeat the process until the noodles are all fried up.","You can prepare these pasta sheets up to 6 hours before assembling.","In a bowl, nix together the ricotta cheese, basil, salt, and pepper.","Warm the sauce in a small pan over medium heat.","Preheat oven to 400 Degrees F.","In either individual baking dishes, or one large casserole dish, begin layering the lasagna with a few spoonfuls of the bolognese, a fried lasagna noodle, a few spoonfuls of the fresh ricotta, more of the bolognese sauce, a handful of shredded mozzarella, and top with a fried noodle.","Repeat this process until the desired number of layers are reached.","Spoon a little sauce on top of the final layer with some mozzarella.","Bake at 400°F for 10-12 minutes, or until the top is golden and cheese is bubbly.","Top the home made crispy lasagna with some fresh parmesan cheese, and a few basil leaves."]
+      "total_likes": 488
       },
-      {
-        "recipe_name": "CRISPY LASAGNA",
-        "rating": { "number": 4.5, "badge": "Excellent" },
-        "total_likes": 488,
-        "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-        " ingredients":{
-            "ing":  ["2 Packages (6 Sheets) Fresh Lasagna Noodles Cut Into 4-5 Inch Rectangles","Flavorless Oil For Frying (I use Canola Oil)"],
-            "Ricotta Layer":["1 1/2 Cups Whole Milk Ricotta Cheese","1/3 Cup Grated Pecorino Cheese","1 Tablespoon Finely Chopped Basil","Salt & Pepper To Taste","5 Cups Umbrian Ragu Or Your Favorite Bolognese Sauce)","1 1/2 Cups Shredded Whole Milk Mozzarella Cheese"],
-            "Topping":["Grated Parmesan Cheese","Fresh Basil Leaves"]
-          },
-          "cooking method":["Begin frying your pasta sheets by filling a large pan 1/5th way up with oil and bringing it to 350°F.","Fry the sheets of pasta until they are a solid golden brown, flipping so each side can cook.","Transfer to a towel to drain and repeat the process until the noodles are all fried up.","You can prepare these pasta sheets up to 6 hours before assembling.","In a bowl, nix together the ricotta cheese, basil, salt, and pepper.","Warm the sauce in a small pan over medium heat.","Preheat oven to 400 Degrees F.","In either individual baking dishes, or one large casserole dish, begin layering the lasagna with a few spoonfuls of the bolognese, a fried lasagna noodle, a few spoonfuls of the fresh ricotta, more of the bolognese sauce, a handful of shredded mozzarella, and top with a fried noodle.","Repeat this process until the desired number of layers are reached.","Spoon a little sauce on top of the final layer with some mozzarella.","Bake at 400°F for 10-12 minutes, or until the top is golden and cheese is bubbly.","Top the home made crispy lasagna with some fresh parmesan cheese, and a few basil leaves."]
-        },
-      {
-        "recipe_name": "CRISPY LASAGNA",
-        "rating": { "number": 4.5, "badge": "Excellent" },
-        "total_likes": 488,
-        "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-        " ingredients":{
-            "ing":  ["2 Packages (6 Sheets) Fresh Lasagna Noodles Cut Into 4-5 Inch Rectangles","Flavorless Oil For Frying (I use Canola Oil)"],
-            "Ricotta Layer":["1 1/2 Cups Whole Milk Ricotta Cheese","1/3 Cup Grated Pecorino Cheese","1 Tablespoon Finely Chopped Basil","Salt & Pepper To Taste","5 Cups Umbrian Ragu Or Your Favorite Bolognese Sauce)","1 1/2 Cups Shredded Whole Milk Mozzarella Cheese"],
-            "Topping":["Grated Parmesan Cheese","Fresh Basil Leaves"]
-          },
-          "cooking method":["Begin frying your pasta sheets by filling a large pan 1/5th way up with oil and bringing it to 350°F.","Fry the sheets of pasta until they are a solid golden brown, flipping so each side can cook.","Transfer to a towel to drain and repeat the process until the noodles are all fried up.","You can prepare these pasta sheets up to 6 hours before assembling.","In a bowl, nix together the ricotta cheese, basil, salt, and pepper.","Warm the sauce in a small pan over medium heat.","Preheat oven to 400 Degrees F.","In either individual baking dishes, or one large casserole dish, begin layering the lasagna with a few spoonfuls of the bolognese, a fried lasagna noodle, a few spoonfuls of the fresh ricotta, more of the bolognese sauce, a handful of shredded mozzarella, and top with a fried noodle.","Repeat this process until the desired number of layers are reached.","Spoon a little sauce on top of the final layer with some mozzarella.","Bake at 400°F for 10-12 minutes, or until the top is golden and cheese is bubbly.","Top the home made crispy lasagna with some fresh parmesan cheese, and a few basil leaves."]
-        }
-      ]
+      {"recipe_id": 18,"_id": 2, "recipe_name": "Manicotti",
+        "image_url": "https://www.allrecipes.com/thmb/2fzMsFlKX1Otute9ouwvc264zPo=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Manicotti-19201058c06a4eb89ed6f4cc44e65bb7.jpg",
+      " ingredients":[
+        "5 ½ ounces manicotti pasta",
+
+        "1 pint part-skim ricotta cheese",
+        
+        "8 ounces shredded mozzarella cheese",
+        
+        "¾ cup grated Parmesan cheese, divided",
+        
+        "2 large eggs",
+        
+        "1 teaspoon dried parsley",
+        
+        "salt and ground black pepper to taste",
+        
+        "1 (16 ounce) jar spaghetti sauce"
+      ],
+      "cooking method":[
+        "Cook manicotti in boiling water until al dente, about 10 to 12 minutes; drain and rinse with cold water.",
+
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        
+        "Mix ricotta, mozzarella, 1/2 cup Parmesan cheese, eggs, parsley, salt, and pepper in a large bowl until well combined.",
+        
+        "Pour 1/2 cup spaghetti sauce into an 11x17-inch baking dish. Stuff each manicotti shell with 3 tablespoons cheese mixture, and arrange over sauce. Pour remaining sauce over the top of the shells and sprinkle with remaining Parmesan cheese.",
+        
+        "Bake in the preheated oven until bubbly, about 45 minutes."
+        
+        
+      ],
+      "rating": { "number": 4.2, "badge": "Excellent" },
+      "total_likes": 900
+      },
+      { "recipe_id": 19,"_id": 3,"recipe_name": "Homemade Lasagna",
+        "image_url": "https://www.allrecipes.com/thmb/oTdNMBBuRHozQP1hPmMnyaX2tWQ=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Homemade-Lasagna-lutzflcat-1x1-1-2000-e0288086a287407f941a97e6e59f3eb7.jpg",
+      " ingredients":[
+        "½ pound ground pork",
+
+        "½ pound lean ground beef",
+        
+        "½ cup minced onion",
+        
+        "1 (28 ounce) can crushed tomatoes",
+        
+        "1 (8 ounce) can tomato sauce",
+        
+        "2 tablespoons chopped fresh parsley, divided",
+        
+        "1 clove garlic, crushed",
+        
+        "1 ½ teaspoons dried basil",
+        
+        "1 ½ teaspoons salt",
+        
+        "½ teaspoon dried oregano",
+        
+        "⅛ teaspoon white sugar",
+        
+        "1 (16 ounce) package lasagna noodles",
+        
+        "1 pound small-curd cottage cheese",
+        
+        "¾ cup grated Parmesan cheese",
+        
+        "3 large eggs",
+        
+        "2 teaspoons salt",
+        
+        "¼ teaspoon ground black pepper",
+        
+        "1 (16 ounce) package shredded mozzarella cheese"
+     ],
+      "cooking method":[
+        "Combine pork and ground beef in a large, deep skillet over medium-high heat; cook and stir until browned and crumbly, 5 to 7 minutes. Add onion and cook until translucent, about 5 minutes.",
+
+        "Stir in crushed tomatoes, tomato sauce, 1 tablespoon fresh parsley, garlic, basil, salt, oregano, and sugar. Reduce heat to medium-low and simmer, stirring occasionally, for 30 minutes.",
+   
+        "While the sauce is simmering, bring a large pot of lightly salted water to a boil. Cook lasagna noodles in the boiling water, stirring occasionally, until tender yet firm to the bite, 8 to 10 minutes. Drain and set aside.",
+   
+        "While the noodles are cooking, preheat the oven to 375 degrees F (190 degrees C).",
+   
+        "Mix cottage cheese, Parmesan cheese, eggs, remaining 1 tablespoon fresh parsley, salt, and pepper in a large bowl until combined.",
+   
+        "Assemble lasagna: Spread a spoon or two of sauce over the bottom of a 9x13-inch baking dish just to to coat it. Place two layers of noodles over the sauce to cover. Layer with 1/2 of the cheese mixture, 1/2 of the remaining sauce, and 1/2 of the mozzarella cheese. Repeat layers once more using the remaining noodles, cheese mixture, sauce, and mozzarella. Cover the baking dish with aluminum foil.",
+   
+        "Bake in the preheated oven for 30 to 40 minutes. Remove the foil and bake until cheese is golden brown, 5 to 10 more minutes.",
+   
+        "Remove from the oven and let stand for 10 minutes before cutting and serving."
+      ],
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_likes": 488
+      },
+      {"recipe_id": 20, "_id": 4,"recipe_name": "The Best Meatballs",
+        "image_url": "https://www.allrecipes.com/thmb/pkbBizVkNhJaQnWEIFDbe72oiRc=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/887350-1ca923f2b30743488e66a9af0af67637.jpg",
+" ingredients":[
+"1 pound ground beef",
+
+"½ pound ground veal",
+
+"½ pound ground pork",
+
+"1 cup freshly grated Romano cheese",
+
+"2 eggs",
+
+"2 cloves garlic, minced",
+
+"1 ½ tablespoons chopped Italian flat leaf parsley",
+
+"salt and ground black pepper to taste",
+
+"2 cups stale Italian bread, crumbled",
+
+"1 ½ cups lukewarm water",
+
+"1 cup olive oil"
+     ],
+      "cooking method":[
+        "Combine beef, veal, and pork in a large bowl. Mix in cheese, eggs, garlic, parsley, salt, and pepper.",
+
+"Add bread crumbs and slowly mix in water, 1/2 cup at a time, until mixture is moist but still holds its shape (I usually use about 1 1/4 cups of water); shape into meatballs.",
+
+"Heat olive oil in a large skillet; add meatballs in batches and cook until browned on all sides, slightly crisp, and cooked through, about 10 to 15 minutes. Drain on paper towels."
+      ],
+      "rating": { "number": 4.1, "badge": "Excellent" },
+      "total_likes": 300
+      },
+      { "recipe_id": 21,"_id": 5,"recipe_name": "Italian Baked Meatballs",
+        "image_url": "https://www.allrecipes.com/thmb/UGwAZBsn_KuvBG944v2m01OG1Wo=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/5834922-italian-baked-meatballs-kim-1x1-1-c680b12cfaa441d39c517757aa382a39.jpg",
+      " ingredients":[
+        "1 cup Italian-seasoned bread crumbs",
+
+        "¼ cup grated Romano cheese",
+        
+        "2 tablespoons chopped fresh parsley",
+        
+        "½ teaspoon salt",
+        
+        "½ teaspoon ground black pepper",
+        
+        "½ teaspoon garlic powder",
+        
+        "½ teaspoon onion powder",
+        
+        "½ cup water",
+        
+        "2 eggs, beaten",
+        
+        "1 ½ pounds ground beef"
+      ],
+      "cooking method":[
+        "Preheat the oven to 350 degrees F (175 degrees C).",
+
+        "Mix bread crumbs, Romano cheese, parsley, salt, pepper, garlic powder, and onion powder together in a large bowl; stir in water and eggs. Add ground beef and mix until well combined. Form mixture into balls and place on a nonstick baking sheet.",
+        
+       "Bake in the preheated oven cooked through and evenly browned, about 30 minutes."
+      ],
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_likes": 488
+      },
+      {"recipe_id": 22,"_id": 6, "recipe_name": "Super-Delicious Zuppa Toscana",
+        "image_url": "https://www.allrecipes.com/thmb/hcMy-m15X5VfF2iNH3vQnhCzFhY=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Super-Delicious-Zuppa-Toscana-e0ecd2a124674b84b63570320d20ca9b.jpeg",
+      " ingredients":[
+  "1 pound bulk mild Italian sausage",
+
+  "1 ¼ teaspoons crushed red pepper flakes",
+  
+  "4 slices bacon, cut into 1/2 inch pieces",
+  
+  "1 large onion, diced",
+  
+  "1 tablespoon minced garlic",
+  
+  "5 (13.75 ounce) cans chicken broth",
+  
+  "6 medium potatoes, thinly sliced",
+  
+  "1 cup heavy cream",
+  
+  "¼ bunch fresh spinach, tough stems removed"
+      ],
+      "cooking method":[
+        
+        "Cook Italian sausage and red pepper flakes in a Dutch oven over medium-high heat until crumbly, browned, and no longer pink, 10 to 15 minutes. Drain and set aside.",
+
+    "Cook bacon in the same Dutch oven over medium heat until crisp, about 10 minutes. Drain, leaving a few tablespoons of drippings with the bacon in the bottom of the Dutch oven. Stir in onions and garlic; cook until onions are soft and translucent, about 5 minutes.",
+     
+        "Stir in chicken broth and bring to a boil over high heat. Add potatoes and simmer until fork tender, about 20 minutes. Reduce heat to medium; stir in cream, cooked sausage, and spinach. Cook and stir until spinach has wilted and sausage is warmed through; serve."
+    ],
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_likes": 488
+      },
+      {"recipe_id": 23,"_id": 7, "recipe_name": "Fried Mozzarella Cheese Sticks",
+        "image_url": "https://www.allrecipes.com/thmb/hz1aUn9tZLWgxb4uAAbN7rPtaOc=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/23596-fried-mozzarella-cheese-sticks-DDMFS-4x3-842a0eaebf6b435a8d3a8b04325e13eb.jpg",
+      " ingredients":[
+        "2 large eggs, beaten",
+
+        "¼ cup water",
+        
+        "1 ½ cups Italian seasoned bread crumbs",
+        
+        "½ teaspoon garlic salt",
+        
+        "⅔ cup all-purpose flour",
+        
+        "⅓ cup cornstarch",
+        
+        "2 cups oil for frying, or as needed",
+        
+        "1 (16 ounce) package mozzarella cheese sticks"
+      ],
+      "cooking method":[
+"Gather all ingredients.",
+
+"Overhead of mozzarella stick ingredients in various bowls and containers. ",
+
+"Whisk water and eggs together in a small bowl. Mix bread crumbs and garlic salt together in a medium bowl. Blend flour and cornstarch together in a third bowl.",
+
+"Overhead of flour mixture ingredients in three glass bowls. ",
+
+"Heat oil to 365 degrees F (185 degrees C) in a large, heavy saucepan.",
+
+"Dredge a mozzarella stick in flour; shake off excess. Dip into egg mixture. Lift up so excess egg drips back in the bowl. Press into bread crumbs to coat. Place breaded mozzarella stick on a plate or wire rack. Repeat with remaining mozzarella sticks.",
+
+"Overhead of mozzarella sticks covered in a bread crumb mixture and resting on a baking sheet. ",
+
+"Use a spider spoon or a pair of tongs to lower 3 to 4 mozzarella sticks into the hot oil. Fry until golden brown, about 30 seconds. Remove from heat and drain on paper towels. Repeat to fry remaining mozzarella sticks.",
+
+"Overhead of fried mozzarella sticks resting on a paper towel. ",
+
+"Serve hot and enjoy!"
+      ],
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_likes": 488
+      },
+      {"recipe_id": 24, "_id": 8,"recipe_name": "Italian Spaghetti Sauce with Meatballs",
+        "image_url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Feaf2a87ca2376e9dca53110c86de9d30%2F168220321707920230226_165819.jpg&q=60&c=sc&orient=true&poi=auto&h=512",
+      " ingredients":[
+        "1 pound lean ground beef",
+
+        "1 cup fresh bread crumbs",
+    
+        "1 tablespoon dried parsley",
+    
+        "1 tablespoon grated Parmesan cheese",
+    
+        "¼ teaspoon ground black pepper",
+    
+        "⅛ teaspoon garlic powder",
+    
+        "1 egg, beaten"
+     ],
+      "cooking method":[
+  
+        "Gather all ingredients.",
+
+        "Overhead of meatball ingredients in various bowls and containers. ",
+     
+        "Overhead of pasta sauce ingredients in various containers. ",
+     
+        "In a large bowl, combine ground beef, bread crumbs, parsley, Parmesan, 1/4 teaspoon black pepper, garlic powder and beaten egg. Mix well and form into 12 balls. Store, covered, in refrigerator until needed.",
+        
+        "Overhead of formed meatballs in a baking sheet with the meat mixture in a bowl off to the side. ",
+     
+        "In a large saucepan over medium heat, saute onion and garlic in olive oil until onion is translucent.",
+        
+        "Stir in tomatoes, salt, sugar and bay leaf. Cover, reduce heat to low, and simmer 90 minutes.",
+        
+        "Overhead of tomatoes, sugar, and a bay leaf being mixed and cooked into onions on a skillet.",
+     
+        "Stir in tomato paste, basil, 1/2 teaspoon pepper and meatballs and simmer 30 minutes more.",
+        
+        "Overhead of meatballs being cooked and mixed in to a pasta sauce. ",
+     
+        "Cooked meatballs covered in a pasta sauce resting in a skillet. ",
+     
+        "Serve hot and enjoy!",
+        
+        "a low angle view looking into a single serving of spaghetti topped with a red sauce, meatballs, and parmesan cheese.",
+      
+        "I MADE IT"
+      ],
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_likes": 488
+      }
+        ]
 },
   {
   "chef_id": 4,
   "chef_Details":{
-    "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-    "chef_name": "CRISPY LASAGNA",
+    "image_url": "https://iili.io/HScEVG1.jpg",
+    "chef_name": "Giorgio Locatelli",
     "total_likes": 488,
-    "bio_data":"Grated Parmesan Cheese Fresh Basil Leaves",
-    "recipes_name":["pasta","Nod"],
-      "experience":"Begin frying your pasta sheets by filling a large pan 1/ore assembling. cheese, and a few basil leaves."
+    "bio_data":"Locatelli has worked in four TV programs which are of Pure Italian, 2002, publicized on the UK Food channel ; Tony and Giorgio, shot with business visionary Tony Allan, appeared on BBC2; and Sicily Unpacked and Italy Unpacked with craftsmanship student of history Andrew Graham-Dixon. Tony and Giorgio was joined by a tie-in book.His own particular cookery book, Made in Italy, was distributed in September 2006. Made in Italy has gotten the Best Food Book grant at the Glenfiddich Food and Drink Awards 2007. A moment book, Made in Sicily, was distributed in September 2011.",
+    "recipes_name":["Oven Roasted Stuffed Chicken Breasts","Italian Breaded Pork Chops","Cioppino","Italian Wedding Soup","Italian Sausage, Peppers, add Onions","Rosemary Braised Lamb Shanks","Easy Homemade Pizza Sauce","Slow Cooker Italian Beef"],
+    "experience":[
+      "Giorgio Locatelli is an Italian chef and restaurateur who is known for his expertise in Italian cuisine. Here are some of his notable work experiences:",
+
+      "Early Career: Locatelli began his culinary career in Italy, working in several restaurants in Lombardy and Emilia-Romagna.",
+
+    "London Restaurants: In 2002, Locatelli opened his first London restaurant, Locanda Locatelli, which was awarded a Michelin star in 2003. He later opened another restaurant, Locanda Verde, which also received critical acclaim.",
+    
+    "TV Appearances: Locatelli has made many appearances on TV cooking shows, including Giorgio Locatelli's Italy, Saturday Kitchen, and MasterChef.",
+    
+    "Cookbook Author: Locatelli has authored several cookbooks, including Made in Italy: Food and Stories and Giorgio Locatelli: Made at Home.",
+    
+    "Awards: Locatelli has received numerous awards throughout his career, including the AA Chef's Chef of the Year in 2007 and the Caterer and Hotelkeeper's Hotelier of the Year in 2012.",
+    
+    "Culinary Education: Locatelli is also a culinary educator, and has worked as a visiting professor at the University of West London.",
+    
+    "Philanthropy: Locatelli is actively involved in charitable work, and has supported several organizations, including the Prince's Trust and Action Against Hunger."]
     },
-  "recipes":[
-    {
-    "recipe_name": "CRISPY LASAGNA",
-    "rating": { "number": 4.5, "badge": "Excellent" },
-    "total_likes": 488,
-    "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-    " ingredients":{
-        "ing":  ["2 Packages (6 Sheets) Fresh Lasagna Noodles Cut Into 4-5 Inch Rectangles","Flavorless Oil For Frying (I use Canola Oil)"],
-        "Ricotta Layer":["1 1/2 Cups Whole Milk Ricotta Cheese","1/3 Cup Grated Pecorino Cheese","1 Tablespoon Finely Chopped Basil","Salt & Pepper To Taste","5 Cups Umbrian Ragu Or Your Favorite Bolognese Sauce)","1 1/2 Cups Shredded Whole Milk Mozzarella Cheese"],
-        "Topping":["Grated Parmesan Cheese","Fresh Basil Leaves"]
-      },
-      "cooking method":["Begin frying your pasta sheets by filling a large pan 1/5th way up with oil and bringing it to 350°F.","Fry the sheets of pasta until they are a solid golden brown, flipping so each side can cook.","Transfer to a towel to drain and repeat the process until the noodles are all fried up.","You can prepare these pasta sheets up to 6 hours before assembling.","In a bowl, nix together the ricotta cheese, basil, salt, and pepper.","Warm the sauce in a small pan over medium heat.","Preheat oven to 400 Degrees F.","In either individual baking dishes, or one large casserole dish, begin layering the lasagna with a few spoonfuls of the bolognese, a fried lasagna noodle, a few spoonfuls of the fresh ricotta, more of the bolognese sauce, a handful of shredded mozzarella, and top with a fried noodle.","Repeat this process until the desired number of layers are reached.","Spoon a little sauce on top of the final layer with some mozzarella.","Bake at 400°F for 10-12 minutes, or until the top is golden and cheese is bubbly.","Top the home made crispy lasagna with some fresh parmesan cheese, and a few basil leaves."]
-    },
-    {
-      "recipe_name": "CRISPY LASAGNA",
+    "recipes":[
+      {"recipe_id": 25,
+        "_id": 1,
+        "recipe_name": "Torta Caprese (Italian Flourless Chocolate Torte)",
+        "image_url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fa1fc3ea017d7f0c4d1df73bcec942905%2F1676474876758Caprese-Torte.jpg&q=60&c=sc&orient=true&poi=auto&h=512",
+      " ingredients":["6 ounces dark chocolate (70% cacao), chopped into small pieces",
+      "10 tablespoons unsalted butter, at room temperature",
+      "1 cup ground almond meal (also know as almond flour)",
+      
+      "2 tablespoons unsweetened cocoa powder",
+    
+      "1 tablespoon coffee liqueur",
+    
+      "½ teaspoon kosher salt",
+      
+      "tiny pinch cayenne pepper (Optional)",
+      
+      "4 large eggs, at room temperature",
+    
+      "¾ cup white granulated sugar"],
+      "cooking method":[
+  
+    "Preheat the oven to 350 degrees F (175 degrees C). Generously grease an 8-inch cake pan with butter, and place a round piece of parchment paper in the bottom. Dust the inside and sides with flour and knock out access. Set aside.",
+  
+   "Place chocolate and butter in a mixing bowl, and place on top of a saucepan filled with 1 inch of water. Place on low heat until the butter and chocolate have melted.",
+      
+   "Remove from heat, and stir together with a spatula. Stir in almond meal, cocoa powder, coffee liqueur, salt, and cayenne until fully combined. Set aside.",
+   
+   "Combine eggs and sugar in a second bowl, and beat with an electric mixer, or whisk by hand until very thick and pale colored.",
+   
+   "Pour chocolate mixture into the egg mixture; fold in gently with a spatula until just combined. Transfer batter into the prepared pan. Tap pan on the counter to settle the mixture.",
+   
+   "Bake in the preheated oven until a wooden skewer inserted near the center comes out almost clean, 25 to 30 minutes.",
+   
+   "Let cool for 30 minutes in the pan before turning out onto a plate. Let cool to room temperature, before wrapping and transferring into the fridge to chill before serving.",
+   
+   "Before cutting, the top can be dusted with cocoa and/or powdered sugar if desired. Serve with unsweetened whipped cream and fresh raspberries."],
       "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_likes": 488,
-      "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-      " ingredients":{
-          "ing":  ["2 Packages (6 Sheets) Fresh Lasagna Noodles Cut Into 4-5 Inch Rectangles","Flavorless Oil For Frying (I use Canola Oil)"],
-          "Ricotta Layer":["1 1/2 Cups Whole Milk Ricotta Cheese","1/3 Cup Grated Pecorino Cheese","1 Tablespoon Finely Chopped Basil","Salt & Pepper To Taste","5 Cups Umbrian Ragu Or Your Favorite Bolognese Sauce)","1 1/2 Cups Shredded Whole Milk Mozzarella Cheese"],
-          "Topping":["Grated Parmesan Cheese","Fresh Basil Leaves"]
-        },
-        "cooking method":["Begin frying your pasta sheets by filling a large pan 1/5th way up with oil and bringing it to 350°F.","Fry the sheets of pasta until they are a solid golden brown, flipping so each side can cook.","Transfer to a towel to drain and repeat the process until the noodles are all fried up.","You can prepare these pasta sheets up to 6 hours before assembling.","In a bowl, nix together the ricotta cheese, basil, salt, and pepper.","Warm the sauce in a small pan over medium heat.","Preheat oven to 400 Degrees F.","In either individual baking dishes, or one large casserole dish, begin layering the lasagna with a few spoonfuls of the bolognese, a fried lasagna noodle, a few spoonfuls of the fresh ricotta, more of the bolognese sauce, a handful of shredded mozzarella, and top with a fried noodle.","Repeat this process until the desired number of layers are reached.","Spoon a little sauce on top of the final layer with some mozzarella.","Bake at 400°F for 10-12 minutes, or until the top is golden and cheese is bubbly.","Top the home made crispy lasagna with some fresh parmesan cheese, and a few basil leaves."]
+      "total_likes": 488
       },
-      {
-        "recipe_name": "CRISPY LASAGNA",
-        "rating": { "number": 4.5, "badge": "Excellent" },
-        "total_likes": 488,
-        "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-        " ingredients":{
-            "ing":  ["2 Packages (6 Sheets) Fresh Lasagna Noodles Cut Into 4-5 Inch Rectangles","Flavorless Oil For Frying (I use Canola Oil)"],
-            "Ricotta Layer":["1 1/2 Cups Whole Milk Ricotta Cheese","1/3 Cup Grated Pecorino Cheese","1 Tablespoon Finely Chopped Basil","Salt & Pepper To Taste","5 Cups Umbrian Ragu Or Your Favorite Bolognese Sauce)","1 1/2 Cups Shredded Whole Milk Mozzarella Cheese"],
-            "Topping":["Grated Parmesan Cheese","Fresh Basil Leaves"]
-          },
-          "cooking method":["Begin frying your pasta sheets by filling a large pan 1/5th way up with oil and bringing it to 350°F.","Fry the sheets of pasta until they are a solid golden brown, flipping so each side can cook.","Transfer to a towel to drain and repeat the process until the noodles are all fried up.","You can prepare these pasta sheets up to 6 hours before assembling.","In a bowl, nix together the ricotta cheese, basil, salt, and pepper.","Warm the sauce in a small pan over medium heat.","Preheat oven to 400 Degrees F.","In either individual baking dishes, or one large casserole dish, begin layering the lasagna with a few spoonfuls of the bolognese, a fried lasagna noodle, a few spoonfuls of the fresh ricotta, more of the bolognese sauce, a handful of shredded mozzarella, and top with a fried noodle.","Repeat this process until the desired number of layers are reached.","Spoon a little sauce on top of the final layer with some mozzarella.","Bake at 400°F for 10-12 minutes, or until the top is golden and cheese is bubbly.","Top the home made crispy lasagna with some fresh parmesan cheese, and a few basil leaves."]
-        },
-      {
-        "recipe_name": "CRISPY LASAGNA",
-        "rating": { "number": 4.5, "badge": "Excellent" },
-        "total_likes": 488,
-        "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-        " ingredients":{
-            "ing":  ["2 Packages (6 Sheets) Fresh Lasagna Noodles Cut Into 4-5 Inch Rectangles","Flavorless Oil For Frying (I use Canola Oil)"],
-            "Ricotta Layer":["1 1/2 Cups Whole Milk Ricotta Cheese","1/3 Cup Grated Pecorino Cheese","1 Tablespoon Finely Chopped Basil","Salt & Pepper To Taste","5 Cups Umbrian Ragu Or Your Favorite Bolognese Sauce)","1 1/2 Cups Shredded Whole Milk Mozzarella Cheese"],
-            "Topping":["Grated Parmesan Cheese","Fresh Basil Leaves"]
-          },
-          "cooking method":["Begin frying your pasta sheets by filling a large pan 1/5th way up with oil and bringing it to 350°F.","Fry the sheets of pasta until they are a solid golden brown, flipping so each side can cook.","Transfer to a towel to drain and repeat the process until the noodles are all fried up.","You can prepare these pasta sheets up to 6 hours before assembling.","In a bowl, nix together the ricotta cheese, basil, salt, and pepper.","Warm the sauce in a small pan over medium heat.","Preheat oven to 400 Degrees F.","In either individual baking dishes, or one large casserole dish, begin layering the lasagna with a few spoonfuls of the bolognese, a fried lasagna noodle, a few spoonfuls of the fresh ricotta, more of the bolognese sauce, a handful of shredded mozzarella, and top with a fried noodle.","Repeat this process until the desired number of layers are reached.","Spoon a little sauce on top of the final layer with some mozzarella.","Bake at 400°F for 10-12 minutes, or until the top is golden and cheese is bubbly.","Top the home made crispy lasagna with some fresh parmesan cheese, and a few basil leaves."]
-        }
-      ]
+      {"recipe_id": 26,
+      "_id": 2,
+        "recipe_name": "Slow Cooker Tuscan Chicken",
+        "image_url": "https://www.allrecipes.com/thmb/YmDs8tjAz1VisZEJx5zgB6hhNVg=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Slow-Cooker-Tuscan-Chicken-4x3-1-f86a87652bd34f5aa585b505f8e3aff9.jpg",
+      " ingredients":[
+        "cooking spray",
+  
+        "2.2 pounds boneless, skinless chicken thighs",
+        
+        "2 teaspoons dried Italian herb seasoning",
+        
+        "1 teaspoon crushed red pepper flakes",
+        
+        "1 teaspoon salt, or to taste",
+        
+        "1 teaspoon freshly ground black pepper",
+        
+        "1 cup chopped sun-dried tomatoes",
+        
+        "½ cup pitted and halved Castelvetrano olives",
+        
+        "¼ cup olive oil",
+        
+        "1 cup sliced onion",
+        
+        "8 cloves garlic, minced",
+        
+        "1 ½ cups heavy cream",
+        
+        "2 cups torn fresh spinach",
+        
+        "2 tablespoons cornstarch (Optional)",
+        
+        "2 tablespoons water (Optional)"
+      ],
+      "cooking method":[
+  "Spray the interior of the slow cooker with cooking spray, or use a plastic liner.",
+  
+  "Place chicken thighs in the bottom of the slow cooker and sprinkle with Italian seasoning, red pepper flakes, salt, and black pepper.",
+  
+  "Evenly layer sun-dried tomatoes and sliced olives over the seasoned chicken.",
+  
+  "Heat olive oil in a saucepan over medium heat. Add onion to the hot oil and cook until onions begin to get tender, 3 to 4 minutes. Add garlic and cook until fragrant, about 1 minute.",
+  
+  "Using a slotted spoon, transfer onions to the slow cooker and spread evenly over the sun-dried tomatoes.",
+  
+  "Return the skillet to medium heat and add cream, stirring until all the olive oil is incorporated and the sauce begins to bubble. Pour cream sauce evenly over the onions.",
+  
+  "Cover slow cooker and cook on High for 3 to 4 hours or Low for 6 to 7 hours if you prefer a longer cook time.",
+  
+  "Remove cooked chicken and vegetables to a serving platter. Add torn spinach to the sauce and cook until wilted, 3 to 5 minutes. Remove spinach from sauce with a slotted spoon and place on top of the chicken and vegetables.",
+  
+  "The sauce will be a bit thin. If you like a thicker sauce, pour into a small saucepan over medium heat. Combine 2 tablespoons cornstarch and 2 tablespoons water in a small bowl. Stir until all the lumps are gone, to create a slurry. Add slurry to the sauce and cook over medium-high heat, stirring constantly, until bubbly and thickened, 5 to 7 minutes.",
+  
+  "Spoon sauce and spinach over the dish and serve warm."
+      ],
+      "rating": { "number": 4.2, "badge": "Excellent" },
+      "total_likes": 900
+      },
+      { "recipe_id": 27,
+      "_id": 3,
+        "recipe_name": "Beef Ragu",
+        "image_url": "https://www.allrecipes.com/thmb/fhjNdz9mtpzE6GazZCGC_8v8Fbg=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/beef-ragu-mfs-4x3-21-ffa2731b8afd4758a8021e023edacbb2.jpg",
+      " ingredients":[
+  "2 tablespoons olive oil",
+  
+  "1 (2 pound) boneless beef chuck roast, cut into 2-inch cubes",
+  
+  "1 teaspoon ground black pepper",
+  
+  "3 teaspoons kosher salt, divided",
+  
+  "1 yellow onion, chopped",
+  
+  "6 cloves garlic, chopped",
+  
+  "2 tablespoons harissa (Optional)",
+  
+  "2 tablespoons tomato paste",
+  
+  "1 cup dry red wine",
+  
+  "1 (28 ounce) can crushed tomatoes",
+  
+  "1 bay leaf",
+  
+  "1 pound pappardelle pasta, cooked and drained",
+  
+  "grated Parmesan cheese, for serving"
+     ],
+      "cooking method":[
+        "Heat oil in a large Dutch oven over medium-high. Season chuck roast with pepper and 2 teaspoons salt. Sear meat until browned on every side, working in batches if necessary, about 10 minutes. Remove from Dutch oven and transfer to a large plate.",
+  
+  "Reduce heat to medium and stir in onion. Cook, stirring often, until softened, about 8 minutes. Add garlic and cook, stirring constantly, until fragrant, about 1 minute. Stir in harissa and tomato paste; cook, stirring constantly, until caramelized, about 2 minutes.",
+  
+  "Pour in wine and cook, scraping the bottom of the pot with a wooden spoon to loosen any browned bits, until reduced by two thirds, about 5 minutes. Stir in tomatoes, bay leaf, chuck roast, and remaining 1 teaspoon salt. Reduce heat to medium-low and cover. Cook, stirring occasionally, until meat is tender, sauce has thickened, and flavors meld, about 2 1/2 hours.",
+  
+  "Remove and discard bay leaf. Transfer meat from Dutch oven to a cutting board and shred using 2 forks. Return meat to pot and stir in pappardelle. Top with grated Parmesan cheese."
+      ],
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_likes": 488
+      },
+      {"recipe_id": 28,
+      "_id": 4,
+        "recipe_name": "Instant Pot Tuscan Bean and Sausage Soup",
+        "image_url": "https://www.allrecipes.com/thmb/2u5lPvbXhxajtr0Do59zOaJMYV8=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Instant-Pot-Tuscan-White-Bean-Sausage-Soup-1x1-1-d850076968ca4ad4b87e753da4ffd4f7.jpg",
+      " ingredients":[
+  "2 tablespoons olive oil",
+  
+  "½ pound Italian-style chicken sausage, casings removed",
+  
+  "1 ½ cups diced onion",
+  
+  "2 cloves garlic, minced",
+  
+  "1 (15 ounce) can white kidney beans (cannellini), rinsed and drained",
+  
+  "1 teaspoon Italian seasoning",
+  
+  "1 (32 ounce) carton Swanson® Chicken Broth (4 cups)",
+  
+  "3 cups finely chopped kale leaves",
+  
+  "2 tablespoons grated Parmesan cheese"
+     ],
+      "cooking method":[
+        "On a 6-quart Instant Pot, select the Saute setting. Heat the oil. Add the sausage and cook for 10 minutes or until well browned, stirring often to separate meat. Press Cancel.",
+  
+  "Add the onion, garlic, beans, Italian seasoning, and Swanson Chicken Broth. Lock the lid and close the pressure release valve. Pressure cook on High pressure, setting the timer to 3 minutes (timer will begin counting down once pressure is reached- it takes about 10 minutes).",
+  
+  "When done, press Cancel and use the quick-release method to release the pressure.",
+  
+  "Stir in the kale and let stand for 5 minutes. Season to taste and sprinkle with the cheese."
+      ],
+      "rating": { "number": 4.1, "badge": "Excellent" },
+      "total_likes": 300
+      },
+      { "recipe_id": 29,
+      "_id": 5,
+        "recipe_name": "Gnocchi with Pomodoro Saucei",
+        "image_url": "https://www.allrecipes.com/thmb/ePcZEWAkiLh0HFBDuNNyPdXs66k=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Gnocchi-with-Pomodoro-Sauce-4x3-1-cbdd14bff3674378b7e097847fc24b1b.jpg",
+      " ingredients":[
+  "¼ cup olive oil",
+  
+  "2 (12 ounce) packages refrigerated gnocchi",
+  
+  "3 cloves garlic, minced, or more to taste",
+  
+  "¼ teaspoon crushed red pepper flakes",
+  
+  "1 pinch salt",
+  
+  "1 pinch sugar",
+  
+  "1 (28 ounce) can whole Italian plum tomatoes (preferably San Marzano)",
+  
+  "8 ounces marinated mozzarella balls",
+  
+  "fresh parsley or basil (optional)"
+      ],
+      "cooking method":[
+        "Open marinated mozzarella balls and measure out 1/4 cup of the oil.",
+  
+  "Pour oil into a heavy skillet over medium-high heat. Cook gnocchi in batches in the hot oil until golden and heated through. Divide gnocchi evenly amongst 4 gratin dishes.",
+  
+  "Add garlic and red chili flakes to the oil in the same skillet. Cook until garlic is fragrant, about 30 seconds. Stir in salt and sugar. Pour in tomatoes. Use a wooden spoon to break up and crush the tomatoes.",
+  
+  "Bring sauce to a boil, reduce heat, cover and simmer tomatoes for 15 minutes.",
+  
+  "Set an oven rack about 6 inches from the heat source and preheat the oven's broiler.",
+  
+  "Taste sauce and adjust seasonings if desired. Spoon tomato sauce over the gnocchi. Top each dish with 3 marinated mozzarella balls and set on a baking sheet.",
+  
+  "Add baking sheet to oven and broil until mozzarella balls are melted and golden browned, 3 to 5 minutes. Garnish with parsley or basil if desired and serve"
+      ],
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_likes": 488
+      },
+      {"recipe_id": 30,
+      "_id": 6,
+        "recipe_name": "Gourmet Mushroom Risotto",
+        "image_url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fa58eb36ceeccaaeee3610ba56b174d20%2F1678674618573E96DC9E1-8147-4A97-B460-12221EFA90D2.jpeg&q=60&c=sc&orient=true&poi=auto&h=512",
+      " ingredients":[
+  "6 cups chicken broth, or as needed",
+  
+  "3 tablespoons olive oil, divided",
+  
+  "1 pound portobello mushrooms, thinly sliced",
+  
+  "1 pound white mushrooms, thinly sliced",
+  
+  "2 medium shallots, diced",
+  
+  "1 ½ cups Arborio rice",
+  
+  "½ cup dry white wine",
+  
+  "4 tablespoons butter",
+  
+  "3 tablespoons finely chopped chives",
+  
+  "⅓ cup freshly grated Parmesan cheese",
+  
+  "sea salt and freshly ground black pepper to taste"
+      ],
+      "cooking method":[
+        
+        "Gather all ingredients.",
+  
+      "a top down view of mushroom risotto ingredients.",
+      
+      "Warm broth in a saucepan over low heat.",
+      
+      "Meanwhile, warm 2 tablespoons olive oil in a large saucepan over medium-high heat. Add portobello and white mushrooms; cook and stir until soft, about 3 minutes. Remove mushrooms and their liquid to a bowl; set aside.",
+      
+      "a top down view of mushrooms sautéing in a skillet. ",
+      
+      "Add remaining 1 tablespoon olive oil to the saucepan. Stir in shallots and cook for 1 minute. Add rice; cook and stir until rice is coated with oil and pale, golden in color, about 2 minutes.",
+      
+      "shallots sautéing in a skillet. ",
+      
+      "rice and shallots in a skillet.",
+      
+      "Pour in wine, stirring constantly until wine is fully absorbed. Add 1/2 cup warm broth to the rice, and stir until the broth is absorbed.",
+      
+      "an overhead view of broth being slowly added to risotto rice in a skillet ",
+      
+      "an overhead view of broth being slowly added to risotto rice in a skillet ",
+      
+      "Continue adding broth, 1/2 cup at a time, stirring constantly, until the liquid is absorbed and the rice is tender, yet firm to the bite, about 15 to 20 minutes.",
+      
+      "a top down view of broth being added to risotto rice in a skillet",
+      
+      "a top down view of risotto rice absorbing broth and white wine",
+      
+      "Remove from heat. Stir in reserved mushrooms and their liquid, butter, chives, and Parmesan cheese.",
+      
+      "butter mushrooms, chives, and parmesan being added to risotto in a skillet.",
+      
+      "Season with salt and pepper and serve immediately."
+    ],
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_likes": 488
+      },
+      {"recipe_id": 31,
+      "_id": 7,
+        "recipe_name": "Homemade Spaghetti Sauce with Ground Beef",
+        "image_url": "https://imagesvc.meredithcorp.io/v3/jumpstartpure/image/?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F43%2F2022%2F09%2F23%2F6186102_Spaghetti-Sauce-with-Ground-Beef-2x1-1-2000.jpg&w=640&h=360&q=90&c=cc",
+      " ingredients":[
+  "1 pound ground beef",
+  
+  "1 medium onion, chopped",
+  
+  "4 cloves garlic, minced",
+  
+  "1 small green bell pepper, diced",
+  
+  "1 (28 ounce) can diced tomatoes",
+  
+  "1 (16 ounce) can tomato sauce",
+  
+  "1 (6 ounce) can tomato paste",
+  
+  "2 teaspoons dried oregano",
+  
+  "2 teaspoons dried basil",
+  
+  "1 teaspoon salt",
+  
+  "½ teaspoon ground black pepper"
+      ],
+      "cooking method":[
+        "Gather all ingredients.",
+  
+  "Overhead of spaghetti sauce ingredients in various bowls. ",
+  
+  "Combine ground beef, onion, garlic, and green pepper in a large saucepan over medium-high heat. Cook and stir until meat is browned and crumbly and vegetables are tender, 5 to 7 minutes. Drain grease.",
+  
+  "Overhead of ground beef, garlic, onions, and peppers waiting to be cooked and mixed together in a skillet. ",
+  
+  "Overhead of ground beef, onions, garlic, and peppers cooking in a skillet. ",
+  
+  "Stir diced tomatoes, tomato sauce, and tomato paste into the pan. Season with oregano, basil, salt, and pepper. Simmer spaghetti sauce for 1 hour, stirring occasionally.",
+  
+  "Overhead of a spaghetti sauce being cooked and stirred in a skillet.",
+  
+  "Serve hot and enjoy!",
+  
+  "a close up view of a bowl of spaghetti topped with meat sauce, the pan of sauce is sitting in the background"
+      ],
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_likes": 488
+      },
+      {"recipe_id": 32,
+      "_id": 8,
+        "recipe_name": "World's Best Lasagna",
+        "image_url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Feaf2a87ca2376e9dca53110c86de9d30%2F168220321707920230226_165819.jpg&q=60&c=sc&orient=true&poi=auto&h=512",
+      " ingredients":[
+  "1 pound sweet Italian sausage",
+  
+  "¾ pound lean ground beef",
+  
+  "½ cup minced onion",
+  
+  "2 cloves garlic, crushed",
+  
+  "1 (28 ounce) can crushed tomatoes",
+  
+  "2 (6.5 ounce) cans canned tomato sauce",
+  
+  "2 (6 ounce) cans tomato paste",
+  
+  "½ cup water",
+  
+  "2 tablespoons white sugar",
+  
+  "4 tablespoons chopped fresh parsley, divided",
+  
+  "1 ½ teaspoons dried basil leaves",
+  
+  "1 ½ teaspoons salt, divided, or to taste",
+  
+  "1 teaspoon Italian seasoning",
+  
+  "½ teaspoon fennel seeds",
+  
+  "¼ teaspoon ground black pepper",
+  
+  "12 lasagna noodles",
+  
+  "16 ounces ricotta cheese",
+  
+  "1 egg",
+  
+  "¾ pound mozzarella cheese, sliced",
+  
+  "¾ cup grated Parmesan cheese"
+     ],
+      "cooking method":[
+  
+        "Cook sausage, ground beef, onion, and garlic in a Dutch oven over medium heat until well browned. Stir in crushed tomatoes, tomato sauce, tomato paste, and water. Season with sugar, 2 tablespoons parsley, basil, 1 teaspoon salt, Italian seasoning, fennel seeds, and pepper. Simmer, covered, for about 1 1/2 hours, stirring occasionally.",
+  
+  "Bring a large pot of lightly salted water to a boil. Cook lasagna noodles in boiling water for 8 to 10 minutes. Drain noodles, and rinse with cold water. In a mixing bowl, combine ricotta cheese with egg, remaining 2 tablespoons parsley, and 1/2 teaspoon salt.",
+  
+  "Preheat the oven to 375 degrees F (190 degrees C).",
+  
+  "To assemble, spread 1 1/2 cups of meat sauce in the bottom of a 9x13-inch baking dish. Arrange 6 noodles lengthwise over meat sauce. Spread with 1/2 of the ricotta cheese mixture. Top with 1/3 of the mozzarella cheese slices. Spoon 1 1/2 cups meat sauce over mozzarella, and sprinkle with 1/4 cup Parmesan cheese. Repeat layers, and top with remaining mozzarella and Parmesan cheese. Cover with foil: to prevent sticking, either spray foil with cooking spray or make sure the foil does not touch the cheese.",
+  
+  "Bake in the preheated oven for 25 minutes. Remove the foil and bake for an additional 25 minutes. Rest lasagna for 15 minutes before serving."
+      ],
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_likes": 488
+      }
+        ]
 },
   {
-  
-
   "chef_id": 5,
   "chef_Details":{
-    "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-    "chef_name": "CRISPY LASAGNA",
+    "image_url": "https://iili.io/HSTDlON.jpg",
+    "chef_name": "Carlo Cracco",
     "total_likes": 488,
-    "bio_data":"Grated Parmesan Cheese Fresh Basil Leaves",
-    "recipes_name":["pasta","Nod"],
-      "experience":"Begin frying your pasta sheets by filling a large pan 1/ore assembling. cheese, and a few basil leaves."
+    "bio_data":"Carlo Cracco, conceived in Vicenza in 1965, went to the “Istituto Professionale Alberghiero” (Professional Hotel Institute) in Recoaro Terme (close Vicenza, North Italy).The Institute is a piece of “Associazione Europea delle Scuole Alberghiere e del Turismo” (European Association of lodging and Tourism School) and it was set up in 1963. While going to the Institute, he worked for the eatery “Da Remo” (Vicenza) where he had the opportunity to learn customary arrangements. In 1986, he started his expert profession at “Gualtiero Marchesi”, in Milan, the principal Italian eatery granted three Michelin stars. His next position was at “La Meridiana” inGarlenda (Savona), some portion of the well-known Relais and Chateux chain. For the following three years he dwelled in France, where he found out about French cooking under the direction of Alain Ducasse (Hotel de Paris) and Lucas Carton (Senderens, Paris). Cracco at last came back to Italy where he was designated Chef at “Enoteca Pinchiorri”, Florence. Amid his residency, the eatery was granted the three Michelin stars. Now he is listed among Top 10 chefs in Italy.",
+    "recipes_name":["Easy Lasagna","Eggplant Parmesan","Pasta Salad With Homemade Dressing","that Zucchini Spaghetti Stanley Tucci Loves (Spaghetti alla Nerano)","Homemade Four Cheese Ravioli","Panna Cotta","Fried Mozzarella Cheese Sticks","Italian Spaghetti Sauce with Meatballs"],
+    "experience":[
+      "Carlo Cracco is an Italian chef and restaurateur who is known for his expertise in Italian and contemporary cuisine. Here are some of his notable work experiences:",
+
+      "Early Career: Cracco began his culinary career in Italy, working in several Michelin-starred restaurants, including Gualtiero Marchesi and Enoteca Pinchiorri.",
+
+      "Milan Restaurants: In 2001, Cracco opened his first restaurant, Cracco-Peck, in Milan in collaboration with the historic Peck gourmet food store. He later opened another restaurant, Carlo e Camilla in Segheria, which offers contemporary Italian cuisine.",
+      
+      "TV Appearances: Cracco has made many appearances on TV cooking shows, including MasterChef Italia,Hell's Kitchen Italia, and Top Chef Italia.",
+      
+      "Cookbook Author: Cracco has authored several cookbooks, including Il Ristorante Cracco in Galleria and Contemporary Italian Cooking.",
+      
+      "Awards: Cracco has received numerous awards throughout his career, including three Michelin stars for his Milan restaurant.",
+      
+      "Culinary Education: Cracco is also a culinary educator, and has taught at several institutions, including the University of Gastronomic Sciences in Pollenzo.",
+      
+      "Philanthropy: Cracco is actively involved in charitable work, and has supported several organizations, including the Italian Red Cross and the Dynamo Camp, a summer camp for children with serious illnesses."]
+    
     },
-  "recipes":[
-    {
-    "recipe_name": "CRISPY LASAGNA",
-    "rating": { "number": 4.5, "badge": "Excellent" },
-    "total_likes": 488,
-    "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-    " ingredients":{
-        "ing":  ["2 Packages (6 Sheets) Fresh Lasagna Noodles Cut Into 4-5 Inch Rectangles","Flavorless Oil For Frying (I use Canola Oil)"],
-        "Ricotta Layer":["1 1/2 Cups Whole Milk Ricotta Cheese","1/3 Cup Grated Pecorino Cheese","1 Tablespoon Finely Chopped Basil","Salt & Pepper To Taste","5 Cups Umbrian Ragu Or Your Favorite Bolognese Sauce)","1 1/2 Cups Shredded Whole Milk Mozzarella Cheese"],
-        "Topping":["Grated Parmesan Cheese","Fresh Basil Leaves"]
-      },
-      "cooking method":["Begin frying your pasta sheets by filling a large pan 1/5th way up with oil and bringing it to 350°F.","Fry the sheets of pasta until they are a solid golden brown, flipping so each side can cook.","Transfer to a towel to drain and repeat the process until the noodles are all fried up.","You can prepare these pasta sheets up to 6 hours before assembling.","In a bowl, nix together the ricotta cheese, basil, salt, and pepper.","Warm the sauce in a small pan over medium heat.","Preheat oven to 400 Degrees F.","In either individual baking dishes, or one large casserole dish, begin layering the lasagna with a few spoonfuls of the bolognese, a fried lasagna noodle, a few spoonfuls of the fresh ricotta, more of the bolognese sauce, a handful of shredded mozzarella, and top with a fried noodle.","Repeat this process until the desired number of layers are reached.","Spoon a little sauce on top of the final layer with some mozzarella.","Bake at 400°F for 10-12 minutes, or until the top is golden and cheese is bubbly.","Top the home made crispy lasagna with some fresh parmesan cheese, and a few basil leaves."]
-    },
-    {
-      "recipe_name": "CRISPY LASAGNA",
+    "recipes":[
+      {"recipe_id": 33,
+        "_id": 1,
+        "recipe_name": "Torta Caprese (Italian Flourless Chocolate Torte)",
+        "image_url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fa1fc3ea017d7f0c4d1df73bcec942905%2F1676474876758Caprese-Torte.jpg&q=60&c=sc&orient=true&poi=auto&h=512",
+      " ingredients":["6 ounces dark chocolate (70% cacao), chopped into small pieces",
+      "10 tablespoons unsalted butter, at room temperature",
+      "1 cup ground almond meal (also know as almond flour)",
+      
+      "2 tablespoons unsweetened cocoa powder",
+    
+      "1 tablespoon coffee liqueur",
+    
+      "½ teaspoon kosher salt",
+      
+      "tiny pinch cayenne pepper (Optional)",
+      
+      "4 large eggs, at room temperature",
+    
+      "¾ cup white granulated sugar"],
+      "cooking method":[
+  
+    "Preheat the oven to 350 degrees F (175 degrees C). Generously grease an 8-inch cake pan with butter, and place a round piece of parchment paper in the bottom. Dust the inside and sides with flour and knock out access. Set aside.",
+  
+   "Place chocolate and butter in a mixing bowl, and place on top of a saucepan filled with 1 inch of water. Place on low heat until the butter and chocolate have melted.",
+      
+   "Remove from heat, and stir together with a spatula. Stir in almond meal, cocoa powder, coffee liqueur, salt, and cayenne until fully combined. Set aside.",
+   
+   "Combine eggs and sugar in a second bowl, and beat with an electric mixer, or whisk by hand until very thick and pale colored.",
+   
+   "Pour chocolate mixture into the egg mixture; fold in gently with a spatula until just combined. Transfer batter into the prepared pan. Tap pan on the counter to settle the mixture.",
+   
+   "Bake in the preheated oven until a wooden skewer inserted near the center comes out almost clean, 25 to 30 minutes.",
+   
+   "Let cool for 30 minutes in the pan before turning out onto a plate. Let cool to room temperature, before wrapping and transferring into the fridge to chill before serving.",
+   
+   "Before cutting, the top can be dusted with cocoa and/or powdered sugar if desired. Serve with unsweetened whipped cream and fresh raspberries."],
       "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_likes": 488,
-      "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-      " ingredients":{
-          "ing":  ["2 Packages (6 Sheets) Fresh Lasagna Noodles Cut Into 4-5 Inch Rectangles","Flavorless Oil For Frying (I use Canola Oil)"],
-          "Ricotta Layer":["1 1/2 Cups Whole Milk Ricotta Cheese","1/3 Cup Grated Pecorino Cheese","1 Tablespoon Finely Chopped Basil","Salt & Pepper To Taste","5 Cups Umbrian Ragu Or Your Favorite Bolognese Sauce)","1 1/2 Cups Shredded Whole Milk Mozzarella Cheese"],
-          "Topping":["Grated Parmesan Cheese","Fresh Basil Leaves"]
-        },
-        "cooking method":["Begin frying your pasta sheets by filling a large pan 1/5th way up with oil and bringing it to 350°F.","Fry the sheets of pasta until they are a solid golden brown, flipping so each side can cook.","Transfer to a towel to drain and repeat the process until the noodles are all fried up.","You can prepare these pasta sheets up to 6 hours before assembling.","In a bowl, nix together the ricotta cheese, basil, salt, and pepper.","Warm the sauce in a small pan over medium heat.","Preheat oven to 400 Degrees F.","In either individual baking dishes, or one large casserole dish, begin layering the lasagna with a few spoonfuls of the bolognese, a fried lasagna noodle, a few spoonfuls of the fresh ricotta, more of the bolognese sauce, a handful of shredded mozzarella, and top with a fried noodle.","Repeat this process until the desired number of layers are reached.","Spoon a little sauce on top of the final layer with some mozzarella.","Bake at 400°F for 10-12 minutes, or until the top is golden and cheese is bubbly.","Top the home made crispy lasagna with some fresh parmesan cheese, and a few basil leaves."]
+      "total_likes": 488
       },
-      {
-        "recipe_name": "CRISPY LASAGNA",
-        "rating": { "number": 4.5, "badge": "Excellent" },
-        "total_likes": 488,
-        "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-        " ingredients":{
-            "ing":  ["2 Packages (6 Sheets) Fresh Lasagna Noodles Cut Into 4-5 Inch Rectangles","Flavorless Oil For Frying (I use Canola Oil)"],
-            "Ricotta Layer":["1 1/2 Cups Whole Milk Ricotta Cheese","1/3 Cup Grated Pecorino Cheese","1 Tablespoon Finely Chopped Basil","Salt & Pepper To Taste","5 Cups Umbrian Ragu Or Your Favorite Bolognese Sauce)","1 1/2 Cups Shredded Whole Milk Mozzarella Cheese"],
-            "Topping":["Grated Parmesan Cheese","Fresh Basil Leaves"]
-          },
-          "cooking method":["Begin frying your pasta sheets by filling a large pan 1/5th way up with oil and bringing it to 350°F.","Fry the sheets of pasta until they are a solid golden brown, flipping so each side can cook.","Transfer to a towel to drain and repeat the process until the noodles are all fried up.","You can prepare these pasta sheets up to 6 hours before assembling.","In a bowl, nix together the ricotta cheese, basil, salt, and pepper.","Warm the sauce in a small pan over medium heat.","Preheat oven to 400 Degrees F.","In either individual baking dishes, or one large casserole dish, begin layering the lasagna with a few spoonfuls of the bolognese, a fried lasagna noodle, a few spoonfuls of the fresh ricotta, more of the bolognese sauce, a handful of shredded mozzarella, and top with a fried noodle.","Repeat this process until the desired number of layers are reached.","Spoon a little sauce on top of the final layer with some mozzarella.","Bake at 400°F for 10-12 minutes, or until the top is golden and cheese is bubbly.","Top the home made crispy lasagna with some fresh parmesan cheese, and a few basil leaves."]
-        },
-      {
-        "recipe_name": "CRISPY LASAGNA",
-        "rating": { "number": 4.5, "badge": "Excellent" },
-        "total_likes": 488,
-        "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-        " ingredients":{
-            "ing":  ["2 Packages (6 Sheets) Fresh Lasagna Noodles Cut Into 4-5 Inch Rectangles","Flavorless Oil For Frying (I use Canola Oil)"],
-            "Ricotta Layer":["1 1/2 Cups Whole Milk Ricotta Cheese","1/3 Cup Grated Pecorino Cheese","1 Tablespoon Finely Chopped Basil","Salt & Pepper To Taste","5 Cups Umbrian Ragu Or Your Favorite Bolognese Sauce)","1 1/2 Cups Shredded Whole Milk Mozzarella Cheese"],
-            "Topping":["Grated Parmesan Cheese","Fresh Basil Leaves"]
-          },
-          "cooking method":["Begin frying your pasta sheets by filling a large pan 1/5th way up with oil and bringing it to 350°F.","Fry the sheets of pasta until they are a solid golden brown, flipping so each side can cook.","Transfer to a towel to drain and repeat the process until the noodles are all fried up.","You can prepare these pasta sheets up to 6 hours before assembling.","In a bowl, nix together the ricotta cheese, basil, salt, and pepper.","Warm the sauce in a small pan over medium heat.","Preheat oven to 400 Degrees F.","In either individual baking dishes, or one large casserole dish, begin layering the lasagna with a few spoonfuls of the bolognese, a fried lasagna noodle, a few spoonfuls of the fresh ricotta, more of the bolognese sauce, a handful of shredded mozzarella, and top with a fried noodle.","Repeat this process until the desired number of layers are reached.","Spoon a little sauce on top of the final layer with some mozzarella.","Bake at 400°F for 10-12 minutes, or until the top is golden and cheese is bubbly.","Top the home made crispy lasagna with some fresh parmesan cheese, and a few basil leaves."]
-        }
-      ]
+      {"recipe_id": 34,
+      "_id": 2,
+        "recipe_name": "Slow Cooker Tuscan Chicken",
+        "image_url": "https://www.allrecipes.com/thmb/YmDs8tjAz1VisZEJx5zgB6hhNVg=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Slow-Cooker-Tuscan-Chicken-4x3-1-f86a87652bd34f5aa585b505f8e3aff9.jpg",
+      " ingredients":[
+        "cooking spray",
+  
+        "2.2 pounds boneless, skinless chicken thighs",
+        
+        "2 teaspoons dried Italian herb seasoning",
+        
+        "1 teaspoon crushed red pepper flakes",
+        
+        "1 teaspoon salt, or to taste",
+        
+        "1 teaspoon freshly ground black pepper",
+        
+        "1 cup chopped sun-dried tomatoes",
+        
+        "½ cup pitted and halved Castelvetrano olives",
+        
+        "¼ cup olive oil",
+        
+        "1 cup sliced onion",
+        
+        "8 cloves garlic, minced",
+        
+        "1 ½ cups heavy cream",
+        
+        "2 cups torn fresh spinach",
+        
+        "2 tablespoons cornstarch (Optional)",
+        
+        "2 tablespoons water (Optional)"
+      ],
+      "cooking method":[
+  "Spray the interior of the slow cooker with cooking spray, or use a plastic liner.",
+  
+  "Place chicken thighs in the bottom of the slow cooker and sprinkle with Italian seasoning, red pepper flakes, salt, and black pepper.",
+  
+  "Evenly layer sun-dried tomatoes and sliced olives over the seasoned chicken.",
+  
+  "Heat olive oil in a saucepan over medium heat. Add onion to the hot oil and cook until onions begin to get tender, 3 to 4 minutes. Add garlic and cook until fragrant, about 1 minute.",
+  
+  "Using a slotted spoon, transfer onions to the slow cooker and spread evenly over the sun-dried tomatoes.",
+  
+  "Return the skillet to medium heat and add cream, stirring until all the olive oil is incorporated and the sauce begins to bubble. Pour cream sauce evenly over the onions.",
+  
+  "Cover slow cooker and cook on High for 3 to 4 hours or Low for 6 to 7 hours if you prefer a longer cook time.",
+  
+  "Remove cooked chicken and vegetables to a serving platter. Add torn spinach to the sauce and cook until wilted, 3 to 5 minutes. Remove spinach from sauce with a slotted spoon and place on top of the chicken and vegetables.",
+  
+  "The sauce will be a bit thin. If you like a thicker sauce, pour into a small saucepan over medium heat. Combine 2 tablespoons cornstarch and 2 tablespoons water in a small bowl. Stir until all the lumps are gone, to create a slurry. Add slurry to the sauce and cook over medium-high heat, stirring constantly, until bubbly and thickened, 5 to 7 minutes.",
+  
+  "Spoon sauce and spinach over the dish and serve warm."
+      ],
+      "rating": { "number": 4.2, "badge": "Excellent" },
+      "total_likes": 900
+      },
+      { "recipe_id": 35,
+      "_id": 3,
+        "recipe_name": "Beef Ragu",
+        "image_url": "https://www.allrecipes.com/thmb/fhjNdz9mtpzE6GazZCGC_8v8Fbg=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/beef-ragu-mfs-4x3-21-ffa2731b8afd4758a8021e023edacbb2.jpg",
+      " ingredients":[
+  "2 tablespoons olive oil",
+  
+  "1 (2 pound) boneless beef chuck roast, cut into 2-inch cubes",
+  
+  "1 teaspoon ground black pepper",
+  
+  "3 teaspoons kosher salt, divided",
+  
+  "1 yellow onion, chopped",
+  
+  "6 cloves garlic, chopped",
+  
+  "2 tablespoons harissa (Optional)",
+  
+  "2 tablespoons tomato paste",
+  
+  "1 cup dry red wine",
+  
+  "1 (28 ounce) can crushed tomatoes",
+  
+  "1 bay leaf",
+  
+  "1 pound pappardelle pasta, cooked and drained",
+  
+  "grated Parmesan cheese, for serving"
+     ],
+      "cooking method":[
+        "Heat oil in a large Dutch oven over medium-high. Season chuck roast with pepper and 2 teaspoons salt. Sear meat until browned on every side, working in batches if necessary, about 10 minutes. Remove from Dutch oven and transfer to a large plate.",
+  
+  "Reduce heat to medium and stir in onion. Cook, stirring often, until softened, about 8 minutes. Add garlic and cook, stirring constantly, until fragrant, about 1 minute. Stir in harissa and tomato paste; cook, stirring constantly, until caramelized, about 2 minutes.",
+  
+  "Pour in wine and cook, scraping the bottom of the pot with a wooden spoon to loosen any browned bits, until reduced by two thirds, about 5 minutes. Stir in tomatoes, bay leaf, chuck roast, and remaining 1 teaspoon salt. Reduce heat to medium-low and cover. Cook, stirring occasionally, until meat is tender, sauce has thickened, and flavors meld, about 2 1/2 hours.",
+  
+  "Remove and discard bay leaf. Transfer meat from Dutch oven to a cutting board and shred using 2 forks. Return meat to pot and stir in pappardelle. Top with grated Parmesan cheese."
+      ],
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_likes": 488
+      },
+      {"recipe_id": 36,
+      "_id": 4,
+        "recipe_name": "Instant Pot Tuscan Bean and Sausage Soup",
+        "image_url": "https://www.allrecipes.com/thmb/2u5lPvbXhxajtr0Do59zOaJMYV8=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Instant-Pot-Tuscan-White-Bean-Sausage-Soup-1x1-1-d850076968ca4ad4b87e753da4ffd4f7.jpg",
+      " ingredients":[
+  "2 tablespoons olive oil",
+  
+  "½ pound Italian-style chicken sausage, casings removed",
+  
+  "1 ½ cups diced onion",
+  
+  "2 cloves garlic, minced",
+  
+  "1 (15 ounce) can white kidney beans (cannellini), rinsed and drained",
+  
+  "1 teaspoon Italian seasoning",
+  
+  "1 (32 ounce) carton Swanson® Chicken Broth (4 cups)",
+  
+  "3 cups finely chopped kale leaves",
+  
+  "2 tablespoons grated Parmesan cheese"
+     ],
+      "cooking method":[
+        "On a 6-quart Instant Pot, select the Saute setting. Heat the oil. Add the sausage and cook for 10 minutes or until well browned, stirring often to separate meat. Press Cancel.",
+  
+  "Add the onion, garlic, beans, Italian seasoning, and Swanson Chicken Broth. Lock the lid and close the pressure release valve. Pressure cook on High pressure, setting the timer to 3 minutes (timer will begin counting down once pressure is reached- it takes about 10 minutes).",
+  
+  "When done, press Cancel and use the quick-release method to release the pressure.",
+  
+  "Stir in the kale and let stand for 5 minutes. Season to taste and sprinkle with the cheese."
+      ],
+      "rating": { "number": 4.1, "badge": "Excellent" },
+      "total_likes": 300
+      },
+      { "recipe_id": 37,
+      "_id": 5,
+        "recipe_name": "Gnocchi with Pomodoro Saucei",
+        "image_url": "https://www.allrecipes.com/thmb/ePcZEWAkiLh0HFBDuNNyPdXs66k=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Gnocchi-with-Pomodoro-Sauce-4x3-1-cbdd14bff3674378b7e097847fc24b1b.jpg",
+      " ingredients":[
+  "¼ cup olive oil",
+  
+  "2 (12 ounce) packages refrigerated gnocchi",
+  
+  "3 cloves garlic, minced, or more to taste",
+  
+  "¼ teaspoon crushed red pepper flakes",
+  
+  "1 pinch salt",
+  
+  "1 pinch sugar",
+  
+  "1 (28 ounce) can whole Italian plum tomatoes (preferably San Marzano)",
+  
+  "8 ounces marinated mozzarella balls",
+  
+  "fresh parsley or basil (optional)"
+      ],
+      "cooking method":[
+        "Open marinated mozzarella balls and measure out 1/4 cup of the oil.",
+  
+  "Pour oil into a heavy skillet over medium-high heat. Cook gnocchi in batches in the hot oil until golden and heated through. Divide gnocchi evenly amongst 4 gratin dishes.",
+  
+  "Add garlic and red chili flakes to the oil in the same skillet. Cook until garlic is fragrant, about 30 seconds. Stir in salt and sugar. Pour in tomatoes. Use a wooden spoon to break up and crush the tomatoes.",
+  
+  "Bring sauce to a boil, reduce heat, cover and simmer tomatoes for 15 minutes.",
+  
+  "Set an oven rack about 6 inches from the heat source and preheat the oven's broiler.",
+  
+  "Taste sauce and adjust seasonings if desired. Spoon tomato sauce over the gnocchi. Top each dish with 3 marinated mozzarella balls and set on a baking sheet.",
+  
+  "Add baking sheet to oven and broil until mozzarella balls are melted and golden browned, 3 to 5 minutes. Garnish with parsley or basil if desired and serve"
+      ],
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_likes": 488
+      },
+      {"recipe_id": 38,
+      "_id": 6,
+        "recipe_name": "Gourmet Mushroom Risotto",
+        "image_url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fa58eb36ceeccaaeee3610ba56b174d20%2F1678674618573E96DC9E1-8147-4A97-B460-12221EFA90D2.jpeg&q=60&c=sc&orient=true&poi=auto&h=512",
+      " ingredients":[
+  "6 cups chicken broth, or as needed",
+  
+  "3 tablespoons olive oil, divided",
+  
+  "1 pound portobello mushrooms, thinly sliced",
+  
+  "1 pound white mushrooms, thinly sliced",
+  
+  "2 medium shallots, diced",
+  
+  "1 ½ cups Arborio rice",
+  
+  "½ cup dry white wine",
+  
+  "4 tablespoons butter",
+  
+  "3 tablespoons finely chopped chives",
+  
+  "⅓ cup freshly grated Parmesan cheese",
+  
+  "sea salt and freshly ground black pepper to taste"
+      ],
+      "cooking method":[
+        
+        "Gather all ingredients.",
+  
+      "a top down view of mushroom risotto ingredients.",
+      
+      "Warm broth in a saucepan over low heat.",
+      
+      "Meanwhile, warm 2 tablespoons olive oil in a large saucepan over medium-high heat. Add portobello and white mushrooms; cook and stir until soft, about 3 minutes. Remove mushrooms and their liquid to a bowl; set aside.",
+      
+      "a top down view of mushrooms sautéing in a skillet. ",
+      
+      "Add remaining 1 tablespoon olive oil to the saucepan. Stir in shallots and cook for 1 minute. Add rice; cook and stir until rice is coated with oil and pale, golden in color, about 2 minutes.",
+      
+      "shallots sautéing in a skillet. ",
+      
+      "rice and shallots in a skillet.",
+      
+      "Pour in wine, stirring constantly until wine is fully absorbed. Add 1/2 cup warm broth to the rice, and stir until the broth is absorbed.",
+      
+      "an overhead view of broth being slowly added to risotto rice in a skillet ",
+      
+      "an overhead view of broth being slowly added to risotto rice in a skillet ",
+      
+      "Continue adding broth, 1/2 cup at a time, stirring constantly, until the liquid is absorbed and the rice is tender, yet firm to the bite, about 15 to 20 minutes.",
+      
+      "a top down view of broth being added to risotto rice in a skillet",
+      
+      "a top down view of risotto rice absorbing broth and white wine",
+      
+      "Remove from heat. Stir in reserved mushrooms and their liquid, butter, chives, and Parmesan cheese.",
+      
+      "butter mushrooms, chives, and parmesan being added to risotto in a skillet.",
+      
+      "Season with salt and pepper and serve immediately."
+    ],
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_likes": 488
+      },
+      {"recipe_id": 39,
+      "_id": 7,
+        "recipe_name": "Homemade Spaghetti Sauce with Ground Beef",
+        "image_url": "https://imagesvc.meredithcorp.io/v3/jumpstartpure/image/?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F43%2F2022%2F09%2F23%2F6186102_Spaghetti-Sauce-with-Ground-Beef-2x1-1-2000.jpg&w=640&h=360&q=90&c=cc",
+      " ingredients":[
+  "1 pound ground beef",
+  
+  "1 medium onion, chopped",
+  
+  "4 cloves garlic, minced",
+  
+  "1 small green bell pepper, diced",
+  
+  "1 (28 ounce) can diced tomatoes",
+  
+  "1 (16 ounce) can tomato sauce",
+  
+  "1 (6 ounce) can tomato paste",
+  
+  "2 teaspoons dried oregano",
+  
+  "2 teaspoons dried basil",
+  
+  "1 teaspoon salt",
+  
+  "½ teaspoon ground black pepper"
+      ],
+      "cooking method":[
+        "Gather all ingredients.",
+  
+  "Overhead of spaghetti sauce ingredients in various bowls. ",
+  
+  "Combine ground beef, onion, garlic, and green pepper in a large saucepan over medium-high heat. Cook and stir until meat is browned and crumbly and vegetables are tender, 5 to 7 minutes. Drain grease.",
+  
+  "Overhead of ground beef, garlic, onions, and peppers waiting to be cooked and mixed together in a skillet. ",
+  
+  "Overhead of ground beef, onions, garlic, and peppers cooking in a skillet. ",
+  
+  "Stir diced tomatoes, tomato sauce, and tomato paste into the pan. Season with oregano, basil, salt, and pepper. Simmer spaghetti sauce for 1 hour, stirring occasionally.",
+  
+  "Overhead of a spaghetti sauce being cooked and stirred in a skillet.",
+  
+  "Serve hot and enjoy!",
+  
+  "a close up view of a bowl of spaghetti topped with meat sauce, the pan of sauce is sitting in the background"
+      ],
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_likes": 488
+      },
+      {"recipe_id": 40,
+      "_id": 8,
+        "recipe_name": "World's Best Lasagna",
+        "image_url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Feaf2a87ca2376e9dca53110c86de9d30%2F168220321707920230226_165819.jpg&q=60&c=sc&orient=true&poi=auto&h=512",
+      " ingredients":[
+  "1 pound sweet Italian sausage",
+  
+  "¾ pound lean ground beef",
+  
+  "½ cup minced onion",
+  
+  "2 cloves garlic, crushed",
+  
+  "1 (28 ounce) can crushed tomatoes",
+  
+  "2 (6.5 ounce) cans canned tomato sauce",
+  
+  "2 (6 ounce) cans tomato paste",
+  
+  "½ cup water",
+  
+  "2 tablespoons white sugar",
+  
+  "4 tablespoons chopped fresh parsley, divided",
+  
+  "1 ½ teaspoons dried basil leaves",
+  
+  "1 ½ teaspoons salt, divided, or to taste",
+  
+  "1 teaspoon Italian seasoning",
+  
+  "½ teaspoon fennel seeds",
+  
+  "¼ teaspoon ground black pepper",
+  
+  "12 lasagna noodles",
+  
+  "16 ounces ricotta cheese",
+  
+  "1 egg",
+  
+  "¾ pound mozzarella cheese, sliced",
+  
+  "¾ cup grated Parmesan cheese"
+     ],
+      "cooking method":[
+  
+        "Cook sausage, ground beef, onion, and garlic in a Dutch oven over medium heat until well browned. Stir in crushed tomatoes, tomato sauce, tomato paste, and water. Season with sugar, 2 tablespoons parsley, basil, 1 teaspoon salt, Italian seasoning, fennel seeds, and pepper. Simmer, covered, for about 1 1/2 hours, stirring occasionally.",
+  
+  "Bring a large pot of lightly salted water to a boil. Cook lasagna noodles in boiling water for 8 to 10 minutes. Drain noodles, and rinse with cold water. In a mixing bowl, combine ricotta cheese with egg, remaining 2 tablespoons parsley, and 1/2 teaspoon salt.",
+  
+  "Preheat the oven to 375 degrees F (190 degrees C).",
+  
+  "To assemble, spread 1 1/2 cups of meat sauce in the bottom of a 9x13-inch baking dish. Arrange 6 noodles lengthwise over meat sauce. Spread with 1/2 of the ricotta cheese mixture. Top with 1/3 of the mozzarella cheese slices. Spoon 1 1/2 cups meat sauce over mozzarella, and sprinkle with 1/4 cup Parmesan cheese. Repeat layers, and top with remaining mozzarella and Parmesan cheese. Cover with foil: to prevent sticking, either spray foil with cooking spray or make sure the foil does not touch the cheese.",
+  
+  "Bake in the preheated oven for 25 minutes. Remove the foil and bake for an additional 25 minutes. Rest lasagna for 15 minutes before serving."
+      ],
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_likes": 488
+      }
+        ]
 },
   {
   
  
   "chef_id": 6,
   "chef_Details":{
-    "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-    "chef_name": "CRISPY LASAGNA",
+    "image_url": "https://iili.io/HSTDaJR.jpg",
+    "chef_name": "Antonino Cannavacciuolo",
     "total_likes": 488,
-    "bio_data":"Grated Parmesan Cheese Fresh Basil Leaves",
-    "recipes_name":["pasta","Nod"],
-      "experience":"Begin frying your pasta sheets by filling a large pan 1/ore assembling. cheese, and a few basil leaves."
+    "bio_data":"In 2003, around the time Antonino got his first Michelin star, he was welcome to have a cooking appear on Italian TV, lifting his status to a broadly perceived chef. He is at last position among Top 10 chefs in Italy. His regular disposition before the camera prompted more TV work, and in 2013 he turned into the primary host of the Italian rendition of Kitchen Nightmares. Antonino acknowledged the part as he had encountered all the good and bad times of running an eatery himself, and needed to help other people in any capacity he could. His recommendation was sound, and each and every one of the organizations he helped turned their fortunes around and turned into a win.",
+    "recipes_name":["Homemade Lasagna","The Best Meatballs","Meatballs","Pesto Pasta","Chicken Parmesan","Polenta","Homemade Spaghetti Sauce with Ground Beef","Lasagna"],
+    "experience":[
+      "Antonino Cannavacciuolo is an Italian chef and restaurateur who is known for his expertise in Italian and contemporary cuisine. Here are some of his notable work experiences:",
+
+      "Early Career: Cannavacciuolo began his culinary career in Italy, working in several Michelin-starred restaurants, including Villa Crespi and Le Calandre.",
+
+      "Novara Restaurants: In 2000, Cannavacciuolo opened his first restaurant, Il Ponte in Novara. Later on, he opened Cannavacciuolo Café & Bistrot in Novara, which offers a more informal and affordable dining experience.",
+      
+      "TV Appearances: Cannavacciuolo has made many appearances on TV cooking shows, including MasterChef Italia,Hell's Kitchen Italia, and Cucine da Incubo.",
+      
+      "Cookbook Author: Cannavacciuolo has authored several cookbooks, including Prendere Gusto and Natale in Cucina con Antonino Cannavacciuolo.",
+      
+      "Awards: Cannavacciuolo has received numerous awards throughout his career, including three Michelin stars for his Villa Crespi restaurant.",
+      
+      "Culinary Education: Cannavacciuolo is also a culinary educator, and has taught at several institutions, including the Gambero Rosso Cooking School.",
+      
+      "Philanthropy: Cannavacciuolo is actively involved in charitable work, and has supported several organizations, including the Telethon Foundation and the Dynamo Camp, a summer camp for children with serious illnesses."]
     },
-  "recipes":[
-    {
-    "recipe_name": "CRISPY LASAGNA",
-    "rating": { "number": 4.5, "badge": "Excellent" },
-    "total_likes": 488,
-    "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-    " ingredients":{
-        "ing":  ["2 Packages (6 Sheets) Fresh Lasagna Noodles Cut Into 4-5 Inch Rectangles","Flavorless Oil For Frying (I use Canola Oil)"],
-        "Ricotta Layer":["1 1/2 Cups Whole Milk Ricotta Cheese","1/3 Cup Grated Pecorino Cheese","1 Tablespoon Finely Chopped Basil","Salt & Pepper To Taste","5 Cups Umbrian Ragu Or Your Favorite Bolognese Sauce)","1 1/2 Cups Shredded Whole Milk Mozzarella Cheese"],
-        "Topping":["Grated Parmesan Cheese","Fresh Basil Leaves"]
-      },
-      "cooking method":["Begin frying your pasta sheets by filling a large pan 1/5th way up with oil and bringing it to 350°F.","Fry the sheets of pasta until they are a solid golden brown, flipping so each side can cook.","Transfer to a towel to drain and repeat the process until the noodles are all fried up.","You can prepare these pasta sheets up to 6 hours before assembling.","In a bowl, nix together the ricotta cheese, basil, salt, and pepper.","Warm the sauce in a small pan over medium heat.","Preheat oven to 400 Degrees F.","In either individual baking dishes, or one large casserole dish, begin layering the lasagna with a few spoonfuls of the bolognese, a fried lasagna noodle, a few spoonfuls of the fresh ricotta, more of the bolognese sauce, a handful of shredded mozzarella, and top with a fried noodle.","Repeat this process until the desired number of layers are reached.","Spoon a little sauce on top of the final layer with some mozzarella.","Bake at 400°F for 10-12 minutes, or until the top is golden and cheese is bubbly.","Top the home made crispy lasagna with some fresh parmesan cheese, and a few basil leaves."]
-    },
-    {
-      "recipe_name": "CRISPY LASAGNA",
+    "recipes":[
+      {"recipe_id": 41,
+        "_id": 1,
+        "recipe_name": "Torta Caprese (Italian Flourless Chocolate Torte)",
+        "image_url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fa1fc3ea017d7f0c4d1df73bcec942905%2F1676474876758Caprese-Torte.jpg&q=60&c=sc&orient=true&poi=auto&h=512",
+      " ingredients":["6 ounces dark chocolate (70% cacao), chopped into small pieces",
+      "10 tablespoons unsalted butter, at room temperature",
+      "1 cup ground almond meal (also know as almond flour)",
+      
+      "2 tablespoons unsweetened cocoa powder",
+    
+      "1 tablespoon coffee liqueur",
+    
+      "½ teaspoon kosher salt",
+      
+      "tiny pinch cayenne pepper (Optional)",
+      
+      "4 large eggs, at room temperature",
+    
+      "¾ cup white granulated sugar"],
+      "cooking method":[
+  
+    "Preheat the oven to 350 degrees F (175 degrees C). Generously grease an 8-inch cake pan with butter, and place a round piece of parchment paper in the bottom. Dust the inside and sides with flour and knock out access. Set aside.",
+  
+   "Place chocolate and butter in a mixing bowl, and place on top of a saucepan filled with 1 inch of water. Place on low heat until the butter and chocolate have melted.",
+      
+   "Remove from heat, and stir together with a spatula. Stir in almond meal, cocoa powder, coffee liqueur, salt, and cayenne until fully combined. Set aside.",
+   
+   "Combine eggs and sugar in a second bowl, and beat with an electric mixer, or whisk by hand until very thick and pale colored.",
+   
+   "Pour chocolate mixture into the egg mixture; fold in gently with a spatula until just combined. Transfer batter into the prepared pan. Tap pan on the counter to settle the mixture.",
+   
+   "Bake in the preheated oven until a wooden skewer inserted near the center comes out almost clean, 25 to 30 minutes.",
+   
+   "Let cool for 30 minutes in the pan before turning out onto a plate. Let cool to room temperature, before wrapping and transferring into the fridge to chill before serving.",
+   
+   "Before cutting, the top can be dusted with cocoa and/or powdered sugar if desired. Serve with unsweetened whipped cream and fresh raspberries."],
       "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_likes": 488,
-      "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-      " ingredients":{
-          "ing":  ["2 Packages (6 Sheets) Fresh Lasagna Noodles Cut Into 4-5 Inch Rectangles","Flavorless Oil For Frying (I use Canola Oil)"],
-          "Ricotta Layer":["1 1/2 Cups Whole Milk Ricotta Cheese","1/3 Cup Grated Pecorino Cheese","1 Tablespoon Finely Chopped Basil","Salt & Pepper To Taste","5 Cups Umbrian Ragu Or Your Favorite Bolognese Sauce)","1 1/2 Cups Shredded Whole Milk Mozzarella Cheese"],
-          "Topping":["Grated Parmesan Cheese","Fresh Basil Leaves"]
-        },
-        "cooking method":["Begin frying your pasta sheets by filling a large pan 1/5th way up with oil and bringing it to 350°F.","Fry the sheets of pasta until they are a solid golden brown, flipping so each side can cook.","Transfer to a towel to drain and repeat the process until the noodles are all fried up.","You can prepare these pasta sheets up to 6 hours before assembling.","In a bowl, nix together the ricotta cheese, basil, salt, and pepper.","Warm the sauce in a small pan over medium heat.","Preheat oven to 400 Degrees F.","In either individual baking dishes, or one large casserole dish, begin layering the lasagna with a few spoonfuls of the bolognese, a fried lasagna noodle, a few spoonfuls of the fresh ricotta, more of the bolognese sauce, a handful of shredded mozzarella, and top with a fried noodle.","Repeat this process until the desired number of layers are reached.","Spoon a little sauce on top of the final layer with some mozzarella.","Bake at 400°F for 10-12 minutes, or until the top is golden and cheese is bubbly.","Top the home made crispy lasagna with some fresh parmesan cheese, and a few basil leaves."]
+      "total_likes": 488
       },
-      {
-        "recipe_name": "CRISPY LASAGNA",
-        "rating": { "number": 4.5, "badge": "Excellent" },
-        "total_likes": 488,
-        "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-        " ingredients":{
-            "ing":  ["2 Packages (6 Sheets) Fresh Lasagna Noodles Cut Into 4-5 Inch Rectangles","Flavorless Oil For Frying (I use Canola Oil)"],
-            "Ricotta Layer":["1 1/2 Cups Whole Milk Ricotta Cheese","1/3 Cup Grated Pecorino Cheese","1 Tablespoon Finely Chopped Basil","Salt & Pepper To Taste","5 Cups Umbrian Ragu Or Your Favorite Bolognese Sauce)","1 1/2 Cups Shredded Whole Milk Mozzarella Cheese"],
-            "Topping":["Grated Parmesan Cheese","Fresh Basil Leaves"]
-          },
-          "cooking method":["Begin frying your pasta sheets by filling a large pan 1/5th way up with oil and bringing it to 350°F.","Fry the sheets of pasta until they are a solid golden brown, flipping so each side can cook.","Transfer to a towel to drain and repeat the process until the noodles are all fried up.","You can prepare these pasta sheets up to 6 hours before assembling.","In a bowl, nix together the ricotta cheese, basil, salt, and pepper.","Warm the sauce in a small pan over medium heat.","Preheat oven to 400 Degrees F.","In either individual baking dishes, or one large casserole dish, begin layering the lasagna with a few spoonfuls of the bolognese, a fried lasagna noodle, a few spoonfuls of the fresh ricotta, more of the bolognese sauce, a handful of shredded mozzarella, and top with a fried noodle.","Repeat this process until the desired number of layers are reached.","Spoon a little sauce on top of the final layer with some mozzarella.","Bake at 400°F for 10-12 minutes, or until the top is golden and cheese is bubbly.","Top the home made crispy lasagna with some fresh parmesan cheese, and a few basil leaves."]
-        },
-      {
-        "recipe_name": "CRISPY LASAGNA",
-        "rating": { "number": 4.5, "badge": "Excellent" },
-        "total_likes": 488,
-        "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-        " ingredients":{
-            "ing":  ["2 Packages (6 Sheets) Fresh Lasagna Noodles Cut Into 4-5 Inch Rectangles","Flavorless Oil For Frying (I use Canola Oil)"],
-            "Ricotta Layer":["1 1/2 Cups Whole Milk Ricotta Cheese","1/3 Cup Grated Pecorino Cheese","1 Tablespoon Finely Chopped Basil","Salt & Pepper To Taste","5 Cups Umbrian Ragu Or Your Favorite Bolognese Sauce)","1 1/2 Cups Shredded Whole Milk Mozzarella Cheese"],
-            "Topping":["Grated Parmesan Cheese","Fresh Basil Leaves"]
-          },
-          "cooking method":["Begin frying your pasta sheets by filling a large pan 1/5th way up with oil and bringing it to 350°F.","Fry the sheets of pasta until they are a solid golden brown, flipping so each side can cook.","Transfer to a towel to drain and repeat the process until the noodles are all fried up.","You can prepare these pasta sheets up to 6 hours before assembling.","In a bowl, nix together the ricotta cheese, basil, salt, and pepper.","Warm the sauce in a small pan over medium heat.","Preheat oven to 400 Degrees F.","In either individual baking dishes, or one large casserole dish, begin layering the lasagna with a few spoonfuls of the bolognese, a fried lasagna noodle, a few spoonfuls of the fresh ricotta, more of the bolognese sauce, a handful of shredded mozzarella, and top with a fried noodle.","Repeat this process until the desired number of layers are reached.","Spoon a little sauce on top of the final layer with some mozzarella.","Bake at 400°F for 10-12 minutes, or until the top is golden and cheese is bubbly.","Top the home made crispy lasagna with some fresh parmesan cheese, and a few basil leaves."]
-        }
-      ]
+      {"recipe_id": 42,
+      "_id": 2,
+        "recipe_name": "Slow Cooker Tuscan Chicken",
+        "image_url": "https://www.allrecipes.com/thmb/YmDs8tjAz1VisZEJx5zgB6hhNVg=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Slow-Cooker-Tuscan-Chicken-4x3-1-f86a87652bd34f5aa585b505f8e3aff9.jpg",
+      " ingredients":[
+        "cooking spray",
+  
+        "2.2 pounds boneless, skinless chicken thighs",
+        
+        "2 teaspoons dried Italian herb seasoning",
+        
+        "1 teaspoon crushed red pepper flakes",
+        
+        "1 teaspoon salt, or to taste",
+        
+        "1 teaspoon freshly ground black pepper",
+        
+        "1 cup chopped sun-dried tomatoes",
+        
+        "½ cup pitted and halved Castelvetrano olives",
+        
+        "¼ cup olive oil",
+        
+        "1 cup sliced onion",
+        
+        "8 cloves garlic, minced",
+        
+        "1 ½ cups heavy cream",
+        
+        "2 cups torn fresh spinach",
+        
+        "2 tablespoons cornstarch (Optional)",
+        
+        "2 tablespoons water (Optional)"
+      ],
+      "cooking method":[
+  "Spray the interior of the slow cooker with cooking spray, or use a plastic liner.",
+  
+  "Place chicken thighs in the bottom of the slow cooker and sprinkle with Italian seasoning, red pepper flakes, salt, and black pepper.",
+  
+  "Evenly layer sun-dried tomatoes and sliced olives over the seasoned chicken.",
+  
+  "Heat olive oil in a saucepan over medium heat. Add onion to the hot oil and cook until onions begin to get tender, 3 to 4 minutes. Add garlic and cook until fragrant, about 1 minute.",
+  
+  "Using a slotted spoon, transfer onions to the slow cooker and spread evenly over the sun-dried tomatoes.",
+  
+  "Return the skillet to medium heat and add cream, stirring until all the olive oil is incorporated and the sauce begins to bubble. Pour cream sauce evenly over the onions.",
+  
+  "Cover slow cooker and cook on High for 3 to 4 hours or Low for 6 to 7 hours if you prefer a longer cook time.",
+  
+  "Remove cooked chicken and vegetables to a serving platter. Add torn spinach to the sauce and cook until wilted, 3 to 5 minutes. Remove spinach from sauce with a slotted spoon and place on top of the chicken and vegetables.",
+  
+  "The sauce will be a bit thin. If you like a thicker sauce, pour into a small saucepan over medium heat. Combine 2 tablespoons cornstarch and 2 tablespoons water in a small bowl. Stir until all the lumps are gone, to create a slurry. Add slurry to the sauce and cook over medium-high heat, stirring constantly, until bubbly and thickened, 5 to 7 minutes.",
+  
+  "Spoon sauce and spinach over the dish and serve warm."
+      ],
+      "rating": { "number": 4.2, "badge": "Excellent" },
+      "total_likes": 900
+      },
+      { "recipe_id": 43,
+      "_id": 3,
+        "recipe_name": "Beef Ragu",
+        "image_url": "https://www.allrecipes.com/thmb/fhjNdz9mtpzE6GazZCGC_8v8Fbg=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/beef-ragu-mfs-4x3-21-ffa2731b8afd4758a8021e023edacbb2.jpg",
+      " ingredients":[
+  "2 tablespoons olive oil",
+  
+  "1 (2 pound) boneless beef chuck roast, cut into 2-inch cubes",
+  
+  "1 teaspoon ground black pepper",
+  
+  "3 teaspoons kosher salt, divided",
+  
+  "1 yellow onion, chopped",
+  
+  "6 cloves garlic, chopped",
+  
+  "2 tablespoons harissa (Optional)",
+  
+  "2 tablespoons tomato paste",
+  
+  "1 cup dry red wine",
+  
+  "1 (28 ounce) can crushed tomatoes",
+  
+  "1 bay leaf",
+  
+  "1 pound pappardelle pasta, cooked and drained",
+  
+  "grated Parmesan cheese, for serving"
+     ],
+      "cooking method":[
+        "Heat oil in a large Dutch oven over medium-high. Season chuck roast with pepper and 2 teaspoons salt. Sear meat until browned on every side, working in batches if necessary, about 10 minutes. Remove from Dutch oven and transfer to a large plate.",
+  
+  "Reduce heat to medium and stir in onion. Cook, stirring often, until softened, about 8 minutes. Add garlic and cook, stirring constantly, until fragrant, about 1 minute. Stir in harissa and tomato paste; cook, stirring constantly, until caramelized, about 2 minutes.",
+  
+  "Pour in wine and cook, scraping the bottom of the pot with a wooden spoon to loosen any browned bits, until reduced by two thirds, about 5 minutes. Stir in tomatoes, bay leaf, chuck roast, and remaining 1 teaspoon salt. Reduce heat to medium-low and cover. Cook, stirring occasionally, until meat is tender, sauce has thickened, and flavors meld, about 2 1/2 hours.",
+  
+  "Remove and discard bay leaf. Transfer meat from Dutch oven to a cutting board and shred using 2 forks. Return meat to pot and stir in pappardelle. Top with grated Parmesan cheese."
+      ],
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_likes": 488
+      },
+      {"recipe_id": 44,
+      "_id": 4,
+        "recipe_name": "Instant Pot Tuscan Bean and Sausage Soup",
+        "image_url": "https://www.allrecipes.com/thmb/2u5lPvbXhxajtr0Do59zOaJMYV8=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Instant-Pot-Tuscan-White-Bean-Sausage-Soup-1x1-1-d850076968ca4ad4b87e753da4ffd4f7.jpg",
+      " ingredients":[
+  "2 tablespoons olive oil",
+  
+  "½ pound Italian-style chicken sausage, casings removed",
+  
+  "1 ½ cups diced onion",
+  
+  "2 cloves garlic, minced",
+  
+  "1 (15 ounce) can white kidney beans (cannellini), rinsed and drained",
+  
+  "1 teaspoon Italian seasoning",
+  
+  "1 (32 ounce) carton Swanson® Chicken Broth (4 cups)",
+  
+  "3 cups finely chopped kale leaves",
+  
+  "2 tablespoons grated Parmesan cheese"
+     ],
+      "cooking method":[
+        "On a 6-quart Instant Pot, select the Saute setting. Heat the oil. Add the sausage and cook for 10 minutes or until well browned, stirring often to separate meat. Press Cancel.",
+  
+  "Add the onion, garlic, beans, Italian seasoning, and Swanson Chicken Broth. Lock the lid and close the pressure release valve. Pressure cook on High pressure, setting the timer to 3 minutes (timer will begin counting down once pressure is reached- it takes about 10 minutes).",
+  
+  "When done, press Cancel and use the quick-release method to release the pressure.",
+  
+  "Stir in the kale and let stand for 5 minutes. Season to taste and sprinkle with the cheese."
+      ],
+      "rating": { "number": 4.1, "badge": "Excellent" },
+      "total_likes": 300
+      },
+      { "recipe_id": 45,
+      "_id": 5,
+        "recipe_name": "Gnocchi with Pomodoro Saucei",
+        "image_url": "https://www.allrecipes.com/thmb/ePcZEWAkiLh0HFBDuNNyPdXs66k=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Gnocchi-with-Pomodoro-Sauce-4x3-1-cbdd14bff3674378b7e097847fc24b1b.jpg",
+      " ingredients":[
+  "¼ cup olive oil",
+  
+  "2 (12 ounce) packages refrigerated gnocchi",
+  
+  "3 cloves garlic, minced, or more to taste",
+  
+  "¼ teaspoon crushed red pepper flakes",
+  
+  "1 pinch salt",
+  
+  "1 pinch sugar",
+  
+  "1 (28 ounce) can whole Italian plum tomatoes (preferably San Marzano)",
+  
+  "8 ounces marinated mozzarella balls",
+  
+  "fresh parsley or basil (optional)"
+      ],
+      "cooking method":[
+        "Open marinated mozzarella balls and measure out 1/4 cup of the oil.",
+  
+  "Pour oil into a heavy skillet over medium-high heat. Cook gnocchi in batches in the hot oil until golden and heated through. Divide gnocchi evenly amongst 4 gratin dishes.",
+  
+  "Add garlic and red chili flakes to the oil in the same skillet. Cook until garlic is fragrant, about 30 seconds. Stir in salt and sugar. Pour in tomatoes. Use a wooden spoon to break up and crush the tomatoes.",
+  
+  "Bring sauce to a boil, reduce heat, cover and simmer tomatoes for 15 minutes.",
+  
+  "Set an oven rack about 6 inches from the heat source and preheat the oven's broiler.",
+  
+  "Taste sauce and adjust seasonings if desired. Spoon tomato sauce over the gnocchi. Top each dish with 3 marinated mozzarella balls and set on a baking sheet.",
+  
+  "Add baking sheet to oven and broil until mozzarella balls are melted and golden browned, 3 to 5 minutes. Garnish with parsley or basil if desired and serve"
+      ],
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_likes": 488
+      },
+      {"recipe_id": 46,
+      "_id": 6,
+        "recipe_name": "Gourmet Mushroom Risotto",
+        "image_url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fa58eb36ceeccaaeee3610ba56b174d20%2F1678674618573E96DC9E1-8147-4A97-B460-12221EFA90D2.jpeg&q=60&c=sc&orient=true&poi=auto&h=512",
+      " ingredients":[
+  "6 cups chicken broth, or as needed",
+  
+  "3 tablespoons olive oil, divided",
+  
+  "1 pound portobello mushrooms, thinly sliced",
+  
+  "1 pound white mushrooms, thinly sliced",
+  
+  "2 medium shallots, diced",
+  
+  "1 ½ cups Arborio rice",
+  
+  "½ cup dry white wine",
+  
+  "4 tablespoons butter",
+  
+  "3 tablespoons finely chopped chives",
+  
+  "⅓ cup freshly grated Parmesan cheese",
+  
+  "sea salt and freshly ground black pepper to taste"
+      ],
+      "cooking method":[
+        
+        "Gather all ingredients.",
+  
+      "a top down view of mushroom risotto ingredients.",
+      
+      "Warm broth in a saucepan over low heat.",
+      
+      "Meanwhile, warm 2 tablespoons olive oil in a large saucepan over medium-high heat. Add portobello and white mushrooms; cook and stir until soft, about 3 minutes. Remove mushrooms and their liquid to a bowl; set aside.",
+      
+      "a top down view of mushrooms sautéing in a skillet. ",
+      
+      "Add remaining 1 tablespoon olive oil to the saucepan. Stir in shallots and cook for 1 minute. Add rice; cook and stir until rice is coated with oil and pale, golden in color, about 2 minutes.",
+      
+      "shallots sautéing in a skillet. ",
+      
+      "rice and shallots in a skillet.",
+      
+      "Pour in wine, stirring constantly until wine is fully absorbed. Add 1/2 cup warm broth to the rice, and stir until the broth is absorbed.",
+      
+      "an overhead view of broth being slowly added to risotto rice in a skillet ",
+      
+      "an overhead view of broth being slowly added to risotto rice in a skillet ",
+      
+      "Continue adding broth, 1/2 cup at a time, stirring constantly, until the liquid is absorbed and the rice is tender, yet firm to the bite, about 15 to 20 minutes.",
+      
+      "a top down view of broth being added to risotto rice in a skillet",
+      
+      "a top down view of risotto rice absorbing broth and white wine",
+      
+      "Remove from heat. Stir in reserved mushrooms and their liquid, butter, chives, and Parmesan cheese.",
+      
+      "butter mushrooms, chives, and parmesan being added to risotto in a skillet.",
+      
+      "Season with salt and pepper and serve immediately."
+    ],
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_likes": 488
+      },
+      {"recipe_id": 47,
+      "_id": 7,
+        "recipe_name": "Homemade Spaghetti Sauce with Ground Beef",
+        "image_url": "https://imagesvc.meredithcorp.io/v3/jumpstartpure/image/?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F43%2F2022%2F09%2F23%2F6186102_Spaghetti-Sauce-with-Ground-Beef-2x1-1-2000.jpg&w=640&h=360&q=90&c=cc",
+      " ingredients":[
+  "1 pound ground beef",
+  
+  "1 medium onion, chopped",
+  
+  "4 cloves garlic, minced",
+  
+  "1 small green bell pepper, diced",
+  
+  "1 (28 ounce) can diced tomatoes",
+  
+  "1 (16 ounce) can tomato sauce",
+  
+  "1 (6 ounce) can tomato paste",
+  
+  "2 teaspoons dried oregano",
+  
+  "2 teaspoons dried basil",
+  
+  "1 teaspoon salt",
+  
+  "½ teaspoon ground black pepper"
+      ],
+      "cooking method":[
+        "Gather all ingredients.",
+  
+  "Overhead of spaghetti sauce ingredients in various bowls. ",
+  
+  "Combine ground beef, onion, garlic, and green pepper in a large saucepan over medium-high heat. Cook and stir until meat is browned and crumbly and vegetables are tender, 5 to 7 minutes. Drain grease.",
+  
+  "Overhead of ground beef, garlic, onions, and peppers waiting to be cooked and mixed together in a skillet. ",
+  
+  "Overhead of ground beef, onions, garlic, and peppers cooking in a skillet. ",
+  
+  "Stir diced tomatoes, tomato sauce, and tomato paste into the pan. Season with oregano, basil, salt, and pepper. Simmer spaghetti sauce for 1 hour, stirring occasionally.",
+  
+  "Overhead of a spaghetti sauce being cooked and stirred in a skillet.",
+  
+  "Serve hot and enjoy!",
+  
+  "a close up view of a bowl of spaghetti topped with meat sauce, the pan of sauce is sitting in the background"
+      ],
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_likes": 488
+      },
+      {"recipe_id": 48,
+      "_id": 8,
+        "recipe_name": "World's Best Lasagna",
+        "image_url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Feaf2a87ca2376e9dca53110c86de9d30%2F168220321707920230226_165819.jpg&q=60&c=sc&orient=true&poi=auto&h=512",
+      " ingredients":[
+  "1 pound sweet Italian sausage",
+  
+  "¾ pound lean ground beef",
+  
+  "½ cup minced onion",
+  
+  "2 cloves garlic, crushed",
+  
+  "1 (28 ounce) can crushed tomatoes",
+  
+  "2 (6.5 ounce) cans canned tomato sauce",
+  
+  "2 (6 ounce) cans tomato paste",
+  
+  "½ cup water",
+  
+  "2 tablespoons white sugar",
+  
+  "4 tablespoons chopped fresh parsley, divided",
+  
+  "1 ½ teaspoons dried basil leaves",
+  
+  "1 ½ teaspoons salt, divided, or to taste",
+  
+  "1 teaspoon Italian seasoning",
+  
+  "½ teaspoon fennel seeds",
+  
+  "¼ teaspoon ground black pepper",
+  
+  "12 lasagna noodles",
+  
+  "16 ounces ricotta cheese",
+  
+  "1 egg",
+  
+  "¾ pound mozzarella cheese, sliced",
+  
+  "¾ cup grated Parmesan cheese"
+     ],
+      "cooking method":[
+  
+        "Cook sausage, ground beef, onion, and garlic in a Dutch oven over medium heat until well browned. Stir in crushed tomatoes, tomato sauce, tomato paste, and water. Season with sugar, 2 tablespoons parsley, basil, 1 teaspoon salt, Italian seasoning, fennel seeds, and pepper. Simmer, covered, for about 1 1/2 hours, stirring occasionally.",
+  
+  "Bring a large pot of lightly salted water to a boil. Cook lasagna noodles in boiling water for 8 to 10 minutes. Drain noodles, and rinse with cold water. In a mixing bowl, combine ricotta cheese with egg, remaining 2 tablespoons parsley, and 1/2 teaspoon salt.",
+  
+  "Preheat the oven to 375 degrees F (190 degrees C).",
+  
+  "To assemble, spread 1 1/2 cups of meat sauce in the bottom of a 9x13-inch baking dish. Arrange 6 noodles lengthwise over meat sauce. Spread with 1/2 of the ricotta cheese mixture. Top with 1/3 of the mozzarella cheese slices. Spoon 1 1/2 cups meat sauce over mozzarella, and sprinkle with 1/4 cup Parmesan cheese. Repeat layers, and top with remaining mozzarella and Parmesan cheese. Cover with foil: to prevent sticking, either spray foil with cooking spray or make sure the foil does not touch the cheese.",
+  
+  "Bake in the preheated oven for 25 minutes. Remove the foil and bake for an additional 25 minutes. Rest lasagna for 15 minutes before serving."
+      ],
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_likes": 488
+      }
+        ]
 }
  
 ]
