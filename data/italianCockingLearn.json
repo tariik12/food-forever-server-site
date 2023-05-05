@@ -2,12 +2,14 @@
     {
         "id": 1,
         "school_name": "Scuola di Cucina Italiana",
+        "image_Link":"https://lh3.googleusercontent.com/p/AF1QipM4ARdHCyCvgOnbtS9em_THSAb5tNPFngPe0OrO=s680-w680-h510",
         "course_name": "Corso di Chef Professionale",
         "description": "Un corso completo di cucina italiana, con particolare attenzione alla preparazione di piatti tipici delle diverse regioni. Il corso si concentra sulla tecnica di cucina, l'utilizzo degli ingredienti e la presentazione dei piatti. Il corso si svolge in 6 mesi a tempo pieno.",
         "rating": 4.5
       },
       {
         "id": 2,
+        "image_Link":"https://lh3.googleusercontent.com/p/AF1QipPb1R7BFj0CSaVmBB4fLZmNU_K_Vi8c9w98UtYq=s680-w680-h510",
         "school_name": "Accademia Italiana di Cucina",
         "course_name": "Corso di Chef Professionista",
         "description": "Un corso avanzato di cucina italiana per chef professionisti che vogliono approfondire le loro conoscenze culinarie. Il corso copre tecniche avanzate di preparazione di piatti di alta cucina italiana, e prevede anche stage in ristoranti di alta qualità. Il corso si svolge in 1 anno a tempo pieno.",
@@ -15,56 +17,63 @@
       },
       {
         "id": 3,
-        "school_name": "Scuola di Cucina Italiana",
-        "course_name": "Corso di Cucina Regionale",
-        "description": "Un corso focalizzato sulla preparazione di piatti tipici di una specifica regione italiana. Il corso copre la storia e la cultura culinaria della regione, l'utilizzo degli ingredienti tipici e la preparazione di piatti tradizionali. Il corso si svolge in 3 mesi a tempo pieno.",
+        "image_Link":"https://images.squarespace-cdn.com/content/v1/5dd5b5e9f226644911c4d733/4707cc69-0755-4d3c-ac70-66c01a0388f5/italian-cooking-classes.jpg?format=1000w",
+        "school_name": "Florence Cooking Class",
+        "course_name": "Pizza and Gelato Cooking Class in Tuscan Farmhouse from Florence",
+        "description": "Nothing says Italy quite like pizza and gelato, and this cooking class in Florence delivers on both counts. his amazing 5-hour culinary journey takes place in a private estate in the hills, where your chef teaches you the variations of pizza and the best way to make the creamiest gelato you've ever tasted. After class, you'll grab a slice of hot pizza and some wine or beer and breathe in the country air before finishing with a delicious hand-made gelato.",
         "rating": 4.3
       },
       {
         "id": 4,
-        "school_name": "Instituto Italiano di Cucina",
-        "course_name": "Corso di Cucina Mediterranea",
-        "description": "Un corso che esplora la cucina mediterranea e i suoi sapori, ingredienti e tecniche di cottura. Il corso copre piatti di paesi come Italia, Grecia, Spagna e Francia. Il corso si svolge in 6 mesi a tempo pieno.",
+        "image_Link":"https://images.squarespace-cdn.com/content/v1/5dd5b5e9f226644911c4d733/abf69080-4f8f-4385-8f42-f147478a59cc/italian-cooking-classes-in-italy.jpg?format=1000w",
+        "school_name": "Campania Cooking Classes",
+        "course_name": "Neapolitan Pizza — Making Dough and Tasting Typical Products of Naples",
+        "description": "This 2-hour cooking class in the birthplace of pizza lets you learn about Campania's most beloved food.The course is conducted at a Naples restaurant under the guidance of a brilliant pizza instructor who promises to share all.",
         "rating": 4.7,
         "location": "Sorrento, Italy"
       },
       {
         "id": 5,
-        "school_name": "Scuola di Arte Culinaria Italiana",
-        "course_name": "Corso di Cucina Vegetariana",
-        "description": "Un corso che si concentra sulla cucina vegetariana italiana, con particolare attenzione all'utilizzo di ingredienti freschi e di stagione. Il corso copre piatti vegetariani tipici delle diverse regioni italiane. Il corso si svolge in 3 mesi a tempo pieno.",
+        "image_Link":"https://images.squarespace-cdn.com/content/v1/5dd5b5e9f226644911c4d733/8ffb6a8a-bf40-4d86-a6d0-06cd590bfca5/italian-cooking-schools-in-italy.jpg?format=1000w",
+        "school_name": "Bologna Cooking Class",
+        "course_name": "Casa Artusi Cooking Classes",
+        "description": "You simply cannot talk about the best cooking schools in Italy without mentioning the Casa Artusi Cooking School, one of the best experiences for foodies in Bologna.This popular cooking class is held in the hometown of Pellegrino Artusi, the man who published one of Italy’s very first cookbooks and gives students the chance to explore the many possibilities of Italian home cooking. The culinary magic unfolds at a theater-esque kitchen where each student gets paired with their own “Mariette” in honor of Marietta Sabatini, Artusi’s maid and cook.These local volunteers run the show in classes of 1-20 participants, where they show you the intricacies of traditional Italian cooking. English classes are available upon request.If you’re looking for a unique one-day tour with a bit less cooking and more touring and eating, you might like this tour we did with Emilia Storytellers which incorporates more cultural aspects of Italy’s cuisine.",
         "rating": 4.2,
         "location": "Bologna, Italy"
       },
       {
         "id": 6,
-        "school_name": "Accademia di Cucina Italiana",
-        "course_name": "Corso di Alta Cucina Italiana",
-        "description": "Un corso avanzato che copre la cucina italiana di alta qualità, con particolare attenzione ai piatti gourmet. Il corso copre anche tecniche di presentazione dei piatti e di abbinamento di vini. Il corso si svolge in 1 anno a tempo pieno.",
+        "image_Link":"https://images.squarespace-cdn.com/content/v1/5dd5b5e9f226644911c4d733/3439b655-29d2-4ff0-8581-5b238927c077/italy-cooking-classes.jpg?format=1000w",
+        "school_name": "Cooking Tours, Vacations, And Culinary Schools In Italy",
+        "course_name": "dream of cooking like a professional chef, learn from the greats at some of the best cooking schools in Italy. ",
+        "description": "When you want more than a one day cooking class or quick instruction on the basics of cooking Italian cuisine, why not consider a longer stay to attend a renowned cooking school or culinary schools in Italy?  There are also many holiday options with week long cooking classes in Italy, cooking classes and culinary instruction that are bundled together with wonderful overnight accommodations — a real culinary vacation in Italy! ",
         "rating": 4.9,
         "location": "Turin, Italy"
       },
       {
         "id": 7,
-        "school_name": "Scuola di Cucina Mediterranea",
-        "course_name": "Corso di Cucina Siciliana",
-        "description": "Un corso che esplora la cucina siciliana e i suoi piatti tipici, con particolare attenzione all'utilizzo di ingredienti locali come i frutti di mare e i prodotti della terra. Il corso si svolge in 3 mesi a tempo pieno.",
+        "image_Link":"https://lh3.googleusercontent.com/p/AF1QipPb1R7BFj0CSaVmBB4fLZmNU_K_Vi8c9w98UtYq=s680-w680-h510",
+        "school_name": "TUSCANY",
+        "course_name": "Cooking with Giuliano Hazan",
+        "description": "Set in Poggio al Tesoro, the gorgeous estate of wine producer Marilisa Allegrini, Giuliano Hazan’s Tuscany cooking school is luxurious living at its finest. Renowned Chef Giuliano Hazan and his family run some of the best culinary schools in Italy and the experience of cooking under his tutelage will make your experience even more unforgettable. For a week, you’ll reside in an opulent guest house surrounded by gorgeous vineyards on the property and enjoy an intimate, fun and hands-on 5-hour multi-course culinary experience accompanied by wines from the Allegrini vineyards.Expect warm hospitality and the pampering of a lifetime.",
         "rating": 4.4,
         "location": "Palermo, Italy"
       },
       {
         "id": 8,
-        "school_name": "Instituto Gastronomico Italiano",
-        "course_name": "Corso di Pasticceria Italiana",
-        "description": "Un corso che copre la pasticceria italiana, con particolare attenzione ai dolci tipici delle diverse regioni. Il corso si concentra sulla preparazione di torte, biscotti, crostate e gelati. Il corso si svolge in 6 mesi a tempo pieno.",
+        "image_Link":"https://images.squarespace-cdn.com/content/v1/5dd5b5e9f226644911c4d733/65521cc5-cc9b-4047-b755-5189e71be915/italian-cookery-class.jpg?format=1000w",
+        "school_name": "EMILIA ROMAGNA",
+        "course_name": "CIBO Culinary Institute of Bologna",
+        "description": "Catering to the needs of everyone, from absolute beginners to restaurant chefs, CIBO Culinary Institute in Bologna offers packages for foodies touring Emilia Romagna.You can pick between a day of cooking traditional Bolognese dishes or even settle in for a week at a private retreat in the Apennine mountains for an immersive culinary experience.Experience Italy like a local under the guidance of Chef Stefano Corvucci, your personal escort on your culinary adventures and tourist escapades. As a terrific bonus, each lesson includes lunch or dinner with unlimited wine.",
         "rating": 4.6,
         "location": "Perugia, Italy"
       },
       {
-        "id": 10,
-        "school_name": "Scuola di Cucina Toscana",
-        "course_name": "Corso di Cucina Tradizionale Toscana",
-        "description": "Un corso che esplora la cucina tradizionale toscana, con particolare attenzione ai piatti tipici come la ribollita, la bistecca alla fiorentina e la pappa al pomodoro. Il corso si concentra sull'utilizzo di ingredienti freschi e di stagione. Il corso si svolge in 4 mesi a tempo pieno.",
+        "id": 9,
+        "image_Link":"https://images.squarespace-cdn.com/content/v1/5dd5b5e9f226644911c4d733/002021be-edf3-4493-8fc9-b920b7421e76/culinary-schools-in-italy.jpg?format=1000w",
+        "school_name": "UMBRIA",
+        "course_name": "Alla Madonna del Piatto",
+        "description": "There’s nothing quite like staying in a 400-year-old farmhouse and experiencing firsthand the quintessentials of Umbrian country living.Perhaps the only thing better is adding in learning to make some of Umbria’s most authentic dishes! The eco-friendly Alla Madonna del Piatto agriturismo offers cooking lessons and wholesome living in this rural farmhouse setting, though it’s just 15 minutes fro nearby Assisi.Rejuvenate your soul with some fresh air, intimate cooking classes, and a culinary experience in Umbria you won’t soon forget.",
         "rating": 4.5,
         "location": "Florence, Italy"
       }
