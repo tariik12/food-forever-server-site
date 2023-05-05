@@ -3,9 +3,13 @@ const app = express();
 const cors = require('cors');
 const port = process.env.PORT || 5000;
 
-const chefs = require('./data/chefs.json')
+const chefs = require('./data/chefs.json');
 
-const recipes = require('./data/recipe.json')
+const recipes = require('./data/recipe.json');
+
+const italianCookingLearn =require('./data/italianCockingLearn.json');
+
+const aboutChefLife = require('./data/aboutChefLife.json')
 
 
 app.use(cors())
@@ -14,6 +18,14 @@ app.get('/', (req, res) =>{
     res.send('Food Forever is running')
 });
 
+
+
+app.get('/italianCookingLearn', (req, res) =>{
+    res.send(italianCookingLearn)
+});
+app.get('/aboutChefLife', (req, res) =>{
+    res.send(aboutChefLife)
+});
 app.get('/chefs/', (req, res) =>{
     res.send(chefs)
 });

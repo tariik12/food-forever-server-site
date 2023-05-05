@@ -1,0 +1,80 @@
+[
+    {
+        "id": 1,
+        "school_name": "Scuola di Cucina Italiana",
+        "course_name": "Corso di Chef Professionale",
+        "description": "Un corso completo di cucina italiana, con particolare attenzione alla preparazione di piatti tipici delle diverse regioni. Il corso si concentra sulla tecnica di cucina, l'utilizzo degli ingredienti e la presentazione dei piatti. Il corso si svolge in 6 mesi a tempo pieno.",
+        "rating": 4.5
+      },
+      {
+        "id": 2,
+        "school_name": "Accademia Italiana di Cucina",
+        "course_name": "Corso di Chef Professionista",
+        "description": "Un corso avanzato di cucina italiana per chef professionisti che vogliono approfondire le loro conoscenze culinarie. Il corso copre tecniche avanzate di preparazione di piatti di alta cucina italiana, e prevede anche stage in ristoranti di alta qualità. Il corso si svolge in 1 anno a tempo pieno.",
+        "rating": 4.8
+      },
+      {
+        "id": 3,
+        "school_name": "Scuola di Cucina Italiana",
+        "course_name": "Corso di Cucina Regionale",
+        "description": "Un corso focalizzato sulla preparazione di piatti tipici di una specifica regione italiana. Il corso copre la storia e la cultura culinaria della regione, l'utilizzo degli ingredienti tipici e la preparazione di piatti tradizionali. Il corso si svolge in 3 mesi a tempo pieno.",
+        "rating": 4.3
+      },
+      {
+        "id": 4,
+        "school_name": "Instituto Italiano di Cucina",
+        "course_name": "Corso di Cucina Mediterranea",
+        "description": "Un corso che esplora la cucina mediterranea e i suoi sapori, ingredienti e tecniche di cottura. Il corso copre piatti di paesi come Italia, Grecia, Spagna e Francia. Il corso si svolge in 6 mesi a tempo pieno.",
+        "rating": 4.7,
+        "location": "Sorrento, Italy"
+      },
+      {
+        "id": 5,
+        "school_name": "Scuola di Arte Culinaria Italiana",
+        "course_name": "Corso di Cucina Vegetariana",
+        "description": "Un corso che si concentra sulla cucina vegetariana italiana, con particolare attenzione all'utilizzo di ingredienti freschi e di stagione. Il corso copre piatti vegetariani tipici delle diverse regioni italiane. Il corso si svolge in 3 mesi a tempo pieno.",
+        "rating": 4.2,
+        "location": "Bologna, Italy"
+      },
+      {
+        "id": 6,
+        "school_name": "Accademia di Cucina Italiana",
+        "course_name": "Corso di Alta Cucina Italiana",
+        "description": "Un corso avanzato che copre la cucina italiana di alta qualità, con particolare attenzione ai piatti gourmet. Il corso copre anche tecniche di presentazione dei piatti e di abbinamento di vini. Il corso si svolge in 1 anno a tempo pieno.",
+        "rating": 4.9,
+        "location": "Turin, Italy"
+      },
+      {
+        "id": 7,
+        "school_name": "Scuola di Cucina Mediterranea",
+        "course_name": "Corso di Cucina Siciliana",
+        "description": "Un corso che esplora la cucina siciliana e i suoi piatti tipici, con particolare attenzione all'utilizzo di ingredienti locali come i frutti di mare e i prodotti della terra. Il corso si svolge in 3 mesi a tempo pieno.",
+        "rating": 4.4,
+        "location": "Palermo, Italy"
+      },
+      {
+        "id": 8,
+        "school_name": "Instituto Gastronomico Italiano",
+        "course_name": "Corso di Pasticceria Italiana",
+        "description": "Un corso che copre la pasticceria italiana, con particolare attenzione ai dolci tipici delle diverse regioni. Il corso si concentra sulla preparazione di torte, biscotti, crostate e gelati. Il corso si svolge in 6 mesi a tempo pieno.",
+        "rating": 4.6,
+        "location": "Perugia, Italy"
+      },
+      {
+        "id": 10,
+        "school_name": "Scuola di Cucina Toscana",
+        "course_name": "Corso di Cucina Tradizionale Toscana",
+        "description": "Un corso che esplora la cucina tradizionale toscana, con particolare attenzione ai piatti tipici come la ribollita, la bistecca alla fiorentina e la pappa al pomodoro. Il corso si concentra sull'utilizzo di ingredienti freschi e di stagione. Il corso si svolge in 4 mesi a tempo pieno.",
+        "rating": 4.5,
+        "location": "Florence, Italy"
+      }
+      
+      
+      
+      
+      
+      
+      
+      
+      
+]
